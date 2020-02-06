@@ -17,40 +17,23 @@ class GreenSpace
     private $id;
 
     /**
-     * @ORM\Column(type="string", length=100)
+     * @ORM\Column(type="string", length=255)
      */
-    private $title;
-
-    /**
-     * @ORM\Column(type="text")
-     */
-    private $content;
+    private $district;
 
     public function getId(): ?int
     {
         return $this->id;
     }
 
-    public function getTitle(): ?string
+    public function getDistrict(): ?string
     {
-        return $this->title;
+        return $this->district;
     }
 
-    public function setTitle(string $title): self
+    public function setDistrict(string $district): self
     {
-        $this->title = $title;
-
-        return $this;
-    }
-
-    public function getContent(): ?string
-    {
-        return $this->content;
-    }
-
-    public function setContent(string $content): self
-    {
-        $this->content = $content;
+        $this->district = $district;
 
         return $this;
     }
