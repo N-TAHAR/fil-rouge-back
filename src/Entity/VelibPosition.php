@@ -21,6 +21,11 @@ class VelibPosition
      */
     private $VelibPosition;
 
+    /**
+     * @ORM\Column(type="string", length=255)
+     */
+    private $GetTotalVelib;
+
     public function getId(): ?int
     {
         return $this->id;
@@ -34,6 +39,18 @@ class VelibPosition
     public function setDistrict(string $district): self
     {
         $this->district = $district;
+
+        return $this;
+    }
+
+    public function getGetTotalVelib(): ?string
+    {
+        return $this->GetTotalVelib;
+    }
+
+    public function setGetTotalVelib(string $GetTotalVelib): self
+    {
+        $this->GetTotalVelib = $GetTotalVelib;
 
         return $this;
     }
