@@ -10,7 +10,7 @@ use Doctrine\Migrations\AbstractMigration;
 /**
  * Auto-generated Migration: Please modify to your needs!
  */
-final class Version20200211103521 extends AbstractMigration
+final class Version20200211150210 extends AbstractMigration
 {
     public function getDescription() : string
     {
@@ -22,10 +22,9 @@ final class Version20200211103521 extends AbstractMigration
         // this up() migration is auto-generated, please modify it to your needs
         $this->abortIf($this->connection->getDatabasePlatform()->getName() !== 'postgresql', 'Migration can only be executed safely on \'postgresql\'.');
 
-        $this->addSql('CREATE SEQUENCE green_space_id_seq INCREMENT BY 1 MINVALUE 1 START 1');
-        $this->addSql('CREATE SEQUENCE district_id_seq INCREMENT BY 1 MINVALUE 1 START 1');
-        $this->addSql('CREATE TABLE green_space (id INT NOT NULL, district VARCHAR(255) NOT NULL, PRIMARY KEY(id))');
-        $this->addSql('CREATE TABLE district (id INT NOT NULL, green_space VARCHAR(255) NOT NULL, size INT NOT NULL, PRIMARY KEY(id))');
+        $this->addSql('CREATE SEQUENCE velib_position_id_seq INCREMENT BY 1 MINVALUE 1 START 1');
+        $this->addSql('CREATE TABLE velib_position (id INT NOT NULL, velib_position VARCHAR(255) NOT NULL, PRIMARY KEY(id))');
+        $this->addSql('DROP TABLE disponibility_velib');
     }
 
     public function down(Schema $schema) : void
@@ -34,9 +33,8 @@ final class Version20200211103521 extends AbstractMigration
         $this->abortIf($this->connection->getDatabasePlatform()->getName() !== 'postgresql', 'Migration can only be executed safely on \'postgresql\'.');
 
         $this->addSql('CREATE SCHEMA public');
-        $this->addSql('DROP SEQUENCE green_space_id_seq CASCADE');
-        $this->addSql('DROP SEQUENCE district_id_seq CASCADE');
-        $this->addSql('DROP TABLE green_space');
-        $this->addSql('DROP TABLE district');
+        $this->addSql('DROP SEQUENCE velib_position_id_seq CASCADE');
+        $this->addSql('CREATE TABLE disponibility_velib (id INT NOT NULL, disponibility_velib VARCHAR(255) NOT NULL, PRIMARY KEY(id))');
+        $this->addSql('DROP TABLE velib_position');
     }
 }
