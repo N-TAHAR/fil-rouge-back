@@ -43,12 +43,12 @@ class VelibPosition
         return $this;
     }
 
-    public function getGetTotalVelib(): ?string
+    public function getTotalVelib(): ?string
     {
         return $this->GetTotalVelib;
     }
 
-    public function setGetTotalVelib(string $GetTotalVelib): self
+    public function setTotalVelib(string $GetTotalVelib): self
     {
         $this->GetTotalVelib = $GetTotalVelib;
 
