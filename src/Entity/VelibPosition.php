@@ -26,14 +26,14 @@ class VelibPosition
         return $this->id;
     }
 
-    public function getVelibPosition(): ?string
+    public function getDistrict(): ?string
     {
-        return $this->VelibPosition;
+        return $this->district;
     }
 
-    public function setVelibPosition(string $VelibPosition): self
+    public function setDistrict(string $district): self
     {
-        $this->VelibPosition = $VelibPosition;
+        $this->district = $district;
 
         return $this;
     }

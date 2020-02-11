@@ -43,6 +43,18 @@ class District
         return $this;
     }
 
+    public function getVelibPosition(): ?string
+    {
+        return $this->VelibPosition;
+    }
+
+    public function setVelibPosition(string $VelibPosition): self
+    {
+        $this->VelibPosition = $VelibPosition;
+
+        return $this;
+    }
+
     public function getSize(): ?int
     {
         return $this->size;
