@@ -5,9 +5,9 @@ namespace App\Entity;
 use Doctrine\ORM\Mapping as ORM;
 
 /**
- * @ORM\Entity(repositoryClass="App\Repository\DisponibilityVelibRepository")
+ * @ORM\Entity(repositoryClass="App\Repository\VelibPositionRepository")
  */
-class DisponibilityVelib
+class VelibPosition
 {
     /**
      * @ORM\Id()
@@ -19,22 +19,21 @@ class DisponibilityVelib
     /**
      * @ORM\Column(type="string", length=255)
      */
-    private $DisponibilityVelib;
-    
+    private $VelibPosition;
 
     public function getId(): ?int
     {
         return $this->id;
     }
 
-    public function getDisponibilityVelib(): ?string
+    public function getVelibPosition(): ?string
     {
-        return $this->DisponibilityVelib;
+        return $this->VelibPosition;
     }
 
-    public function setDisponibilityVelib(string $DisponibilityVelib): self
+    public function setVelibPosition(string $VelibPosition): self
     {
-        $this->DisponibilityVelib = $DisponibilityVelib;
+        $this->VelibPosition = $VelibPosition;
 
         return $this;
     }
