@@ -23,6 +23,13 @@ class Kernel extends BaseKernel
                 yield new $class();
             }
         }
+        // $bundles = [
+        //     // ...
+        //     new Nelmio\ApiDocBundle\NelmioApiDocBundle(),
+        // ];
+
+        // // ...
+
     }
 
     public function getProjectDir(): string
