@@ -5,9 +5,9 @@ namespace App\Entity;
 use Doctrine\ORM\Mapping as ORM;
 
 /**
- * @ORM\Entity(repositoryClass="App\Repository\VelibPositionRepository")
+ * @ORM\Entity(repositoryClass="App\Repository\LocationWifiRepository")
  */
-class VelibPosition
+class LocationWifi
 {
     /**
      * @ORM\Id()
@@ -19,12 +19,12 @@ class VelibPosition
     /**
      * @ORM\Column(type="string", length=255)
      */
-    private $VelibPosition;
+    private $LocationWifi;
 
     /**
      * @ORM\Column(type="string", length=255)
      */
-    private $GetTotalVelib;
+    private $GetTotalWifi;
 
     public function getId(): ?int
     {
@@ -43,14 +43,14 @@ class VelibPosition
         return $this;
     }
 
-    public function getTotalVelib(): ?string
+    public function getTotalWifi(): ?string
     {
-        return $this->TotalVelib;
+        return $this->TotalWifi;
     }
 
-    public function setTotalVelib(string $GetTotalVelib): self
+    public function setTotalWifi(string $GetTotalWifi): self
     {
-        $this->TotalVelib = $GetTotalVelib;
+        $this->TotalWifi = $GetTotalWifi;
 
         return $this;
     }
