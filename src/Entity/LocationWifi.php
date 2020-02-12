@@ -19,12 +19,7 @@ class LocationWifi
     /**
      * @ORM\Column(type="string", length=255)
      */
-    private $LocationWifi;
-
-    /**
-     * @ORM\Column(type="string", length=255)
-     */
-    private $GetTotalWifi;
+    private $TotalWifi;
 
     public function getId(): ?int
     {
@@ -48,9 +43,9 @@ class LocationWifi
         return $this->TotalWifi;
     }
 
-    public function setTotalWifi(string $GetTotalWifi): self
+    public function setTotalWifi(string $TotalWifi): self
     {
-        $this->TotalWifi = $GetTotalWifi;
+        $this->TotalWifi = $TotalWifi;
 
         return $this;
     }
