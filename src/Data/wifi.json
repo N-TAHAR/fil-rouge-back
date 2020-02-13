@@ -1,0 +1,5747 @@
+[
+  {
+    "datasetid": "sites-disposant-du-service-paris-wi-fi",
+    "recordid": "eea51f7d4bfd1e4cc09d124dc9ccac0b9d87557e",
+    "fields": {
+      "cp": "75001",
+      "nom_site": "MAISON DE LA VIE ASSOCIATIVE ET CITOYENNE  1",
+      "arc_adresse": "5B RUE DU LOUVRE",
+      "geo_point_2d": [48.8618833615, 2.341156755],
+      "nombre_de_borne_wifi": 2,
+      "idpw": "PW0148",
+      "geo_shape": {
+        "type": "Point",
+        "coordinates": [2.34115675500317, 48.8618833615023]
+      },
+      "etat2": "Op\u00e9rationnel"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [2.341156755, 48.8618833615]
+    },
+    "record_timestamp": "2020-02-12T08:00:33.449+01:00"
+  },
+  {
+    "datasetid": "sites-disposant-du-service-paris-wi-fi",
+    "recordid": "4c31e21df42df7d2a74372d5d7bb87ecc7040256",
+    "fields": {
+      "cp": "75001",
+      "nom_site": "MAIRIE DU 1 ER",
+      "arc_adresse": "4 PLACE DU LOUVRE",
+      "geo_point_2d": [48.8600835266, 2.34106447616],
+      "nombre_de_borne_wifi": 2,
+      "idpw": "PW0127",
+      "geo_shape": {
+        "type": "Point",
+        "coordinates": [2.341064476164004, 48.860083526572126]
+      },
+      "etat2": "Op\u00e9rationnel"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [2.34106447616, 48.8600835266]
+    },
+    "record_timestamp": "2020-02-12T08:00:33.449+01:00"
+  },
+  {
+    "datasetid": "sites-disposant-du-service-paris-wi-fi",
+    "recordid": "bc6b6d561efe6c463298dfbf300ee7094795c789",
+    "fields": {
+      "cp": "75001",
+      "nom_site": "JARDIN NELSON MANDELA",
+      "arc_adresse": "32 RUE BERGER",
+      "geo_point_2d": [48.8614694222, 2.34630372401],
+      "nombre_de_borne_wifi": 2,
+      "idpw": "PW0110",
+      "geo_shape": {
+        "type": "Point",
+        "coordinates": [2.34630372400731, 48.86146942215447]
+      },
+      "etat2": "Op\u00e9rationnel"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [2.34630372401, 48.8614694222]
+    },
+    "record_timestamp": "2020-02-12T08:00:33.449+01:00"
+  },
+  {
+    "datasetid": "sites-disposant-du-service-paris-wi-fi",
+    "recordid": "d23aaad3de33ad97d50f9f20330c6f669ad5e943",
+    "fields": {
+      "cp": "75001",
+      "nom_site": "MEDIATHEQUE MUSICALE DE PARIS (HALLES)",
+      "arc_adresse": "8 PORTE SAINT EUSTACHE",
+      "geo_point_2d": [48.862650133, 2.34591610501],
+      "nombre_de_borne_wifi": 2,
+      "idpw": "PW0020",
+      "geo_shape": {
+        "type": "Point",
+        "coordinates": [2.345916105005208, 48.862650133028886]
+      },
+      "etat2": "Op\u00e9rationnel"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [2.34591610501, 48.862650133]
+    },
+    "record_timestamp": "2020-02-12T08:00:33.449+01:00"
+  },
+  {
+    "datasetid": "sites-disposant-du-service-paris-wi-fi",
+    "recordid": "706dda3c81d55e4866f171a56c432a56bed5eed3",
+    "fields": {
+      "cp": "75001",
+      "nom_site": "BERGES RIVE DROITE - PONT NEUF",
+      "arc_adresse": "BERGE DE SEINE RIVE DROITE - SORTIE TUNNEL TUILERIETUILERIES",
+      "geo_point_2d": [48.8593733254, 2.33582235605],
+      "nombre_de_borne_wifi": 1,
+      "idpw": "PW0149",
+      "geo_shape": {
+        "type": "Point",
+        "coordinates": [2.335822356054447, 48.85937332543368]
+      },
+      "etat2": "Op\u00e9rationnel"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [2.33582235605, 48.8593733254]
+    },
+    "record_timestamp": "2020-02-12T08:00:33.449+01:00"
+  },
+  {
+    "datasetid": "sites-disposant-du-service-paris-wi-fi",
+    "recordid": "dd27eea0d4a15d61bb1533fe70b0f2a337f1853a",
+    "fields": {
+      "cp": "75001",
+      "nom_site": "PREFOURRIERE LOUVRE",
+      "arc_adresse": "1 PLACE DU LOUVRE",
+      "geo_point_2d": [48.8593248228, 2.34073842112],
+      "nombre_de_borne_wifi": 1,
+      "geo_shape": {
+        "type": "Point",
+        "coordinates": [2.340738421116781, 48.859324822757436]
+      },
+      "etat2": "En \u00e9tude"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [2.34073842112, 48.8593248228]
+    },
+    "record_timestamp": "2020-02-12T08:00:33.449+01:00"
+  },
+  {
+    "datasetid": "sites-disposant-du-service-paris-wi-fi",
+    "recordid": "69938668b76c52b9149ede77f0f81b8649218962",
+    "fields": {
+      "cp": "75001",
+      "nom_site": "MEDIATHEQUE LA CANOPEE LA FONTAINE",
+      "arc_adresse": "10 PASSAGE DE LA CANOPEE",
+      "geo_point_2d": [48.8618194855, 2.34764390328],
+      "nombre_de_borne_wifi": 5,
+      "idpw": "PW0143",
+      "geo_shape": {
+        "type": "Point",
+        "coordinates": [2.347643903283826, 48.86181948548023]
+      },
+      "etat2": "Op\u00e9rationnel"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [2.34764390328, 48.8618194855]
+    },
+    "record_timestamp": "2020-02-12T08:00:33.449+01:00"
+  },
+  {
+    "datasetid": "sites-disposant-du-service-paris-wi-fi",
+    "recordid": "48bafd0cfce6163c04d0af155404e9ee2ced2f8d",
+    "fields": {
+      "cp": "75001",
+      "nom_site": "BERGES RIVE DROITE - PONT AU CHANGE",
+      "arc_adresse": "BERGE DE SEINE RIVE DROITE - SORTIE CHATELET",
+      "geo_point_2d": [48.8574278537, 2.34701992447],
+      "nombre_de_borne_wifi": 1,
+      "idpw": "PW0193",
+      "geo_shape": {
+        "type": "Point",
+        "coordinates": [2.347019924471973, 48.85742785373788]
+      },
+      "etat2": "Op\u00e9rationnel"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [2.34701992447, 48.8574278537]
+    },
+    "record_timestamp": "2020-02-12T08:00:33.449+01:00"
+  },
+  {
+    "datasetid": "sites-disposant-du-service-paris-wi-fi",
+    "recordid": "98a3c5f3c348b9fe36bad4f9a837b547030dc801",
+    "fields": {
+      "cp": "75001",
+      "nom_site": "BIBLIOTHEQUE DU CINEMA FRANCOIS TRUFFAUT",
+      "arc_adresse": "14 RUE DES PROUVAIRES",
+      "geo_point_2d": [48.8614889106, 2.34415410951],
+      "nombre_de_borne_wifi": 1,
+      "idpw": "PW0112",
+      "geo_shape": {
+        "type": "Point",
+        "coordinates": [2.344154109508663, 48.86148891058231]
+      },
+      "etat2": "Op\u00e9rationnel"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [2.34415410951, 48.8614889106]
+    },
+    "record_timestamp": "2020-02-12T08:00:33.449+01:00"
+  },
+  {
+    "datasetid": "sites-disposant-du-service-paris-wi-fi",
+    "recordid": "34da069f8b309010ba39725563f07338493720d3",
+    "fields": {
+      "cp": "75001",
+      "nom_site": "BERGES RIVE DROITE - PONT AU CHANGE",
+      "arc_adresse": "BERGE DE SEINE RIVE DROITE - VIA FERRATA",
+      "geo_point_2d": [48.8575127839, 2.34656304265],
+      "nombre_de_borne_wifi": 1,
+      "idpw": "PW0158",
+      "geo_shape": {
+        "type": "Point",
+        "coordinates": [2.346563042652777, 48.857512783868636]
+      },
+      "etat2": "Op\u00e9rationnel"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [2.34656304265, 48.8575127839]
+    },
+    "record_timestamp": "2020-02-12T08:00:33.449+01:00"
+  },
+  {
+    "datasetid": "sites-disposant-du-service-paris-wi-fi",
+    "recordid": "623bb64a89220c58b714a2fe7482e27534b8a874",
+    "fields": {
+      "cp": "75002",
+      "nom_site": "MAIRIE DU 2 EME",
+      "arc_adresse": "8 RUE DE LA BANQUE",
+      "geo_point_2d": [48.8668345275, 2.34045079989],
+      "nombre_de_borne_wifi": 1,
+      "idpw": "PW0034",
+      "geo_shape": {
+        "type": "Point",
+        "coordinates": [2.340450799891371, 48.86683452754676]
+      },
+      "etat2": "Op\u00e9rationnel"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [2.34045079989, 48.8668345275]
+    },
+    "record_timestamp": "2020-02-12T08:00:33.449+01:00"
+  },
+  {
+    "datasetid": "sites-disposant-du-service-paris-wi-fi",
+    "recordid": "9e597951e7764ad0cc0eb991d6fc218ff3802dbb",
+    "fields": {
+      "cp": "75002",
+      "nom_site": "MAISON DE LA VIE ASSOCIATIVE ET CITOYENNE 2",
+      "arc_adresse": "23 RUE GRENETA",
+      "geo_point_2d": [48.8650814049, 2.35054940319],
+      "nombre_de_borne_wifi": 1,
+      "idpw": "PW0036",
+      "geo_shape": {
+        "type": "Point",
+        "coordinates": [2.35054940319118, 48.86508140493411]
+      },
+      "etat2": "Op\u00e9rationnel"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [2.35054940319, 48.8650814049]
+    },
+    "record_timestamp": "2020-02-12T08:00:33.449+01:00"
+  },
+  {
+    "datasetid": "sites-disposant-du-service-paris-wi-fi",
+    "recordid": "25fb0ff8959f98f0cc3f503492df174570862fe1",
+    "fields": {
+      "cp": "75002",
+      "nom_site": "CENTRE SPORTIF JEAN DAME",
+      "arc_adresse": "17 RUE LEOPOLD BELLAN",
+      "geo_point_2d": [48.8665683485, 2.34550650532],
+      "nombre_de_borne_wifi": 1,
+      "idpw": "PW0082",
+      "geo_shape": {
+        "type": "Point",
+        "coordinates": [2.345506505320458, 48.86656834849909]
+      },
+      "etat2": "Op\u00e9rationnel"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [2.34550650532, 48.8665683485]
+    },
+    "record_timestamp": "2020-02-12T08:00:33.449+01:00"
+  },
+  {
+    "datasetid": "sites-disposant-du-service-paris-wi-fi",
+    "recordid": "7341b0115b1570747a2742bed2ad2f9c3c814303",
+    "fields": {
+      "cp": "75002",
+      "nom_site": "BIBLIOTHEQUE CHARLOTTE DELBO",
+      "arc_adresse": "2 PASSAGE DES PETITS PERES",
+      "geo_point_2d": [48.8665075801, 2.34043449149],
+      "nombre_de_borne_wifi": 2,
+      "idpw": "PW0134",
+      "geo_shape": {
+        "type": "Point",
+        "coordinates": [2.340434491489431, 48.866507580054055]
+      },
+      "etat2": "Op\u00e9rationnel"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [2.34043449149, 48.8665075801]
+    },
+    "record_timestamp": "2020-02-12T08:00:33.449+01:00"
+  },
+  {
+    "datasetid": "sites-disposant-du-service-paris-wi-fi",
+    "recordid": "98a9cc89a5a0206de9c78760d19f55a74cacfe73",
+    "fields": {
+      "cp": "75003",
+      "nom_site": "MAISON DE LA VIE ASSOCIATIVE ET CITOYENNE 3/4",
+      "arc_adresse": "3 RUE EUGENE SPULLER",
+      "geo_point_2d": [48.8640250421, 2.36218654489],
+      "nombre_de_borne_wifi": 1,
+      "idpw": "PW0019-1",
+      "geo_shape": {
+        "type": "Point",
+        "coordinates": [2.362186544891376, 48.86402504205692]
+      },
+      "etat2": "Op\u00e9rationnel"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [2.36218654489, 48.8640250421]
+    },
+    "record_timestamp": "2020-02-12T08:00:33.449+01:00"
+  },
+  {
+    "datasetid": "sites-disposant-du-service-paris-wi-fi",
+    "recordid": "4b35e1471a714cd960ddf17d549c4c9b8bb490a2",
+    "fields": {
+      "cp": "75003",
+      "nom_site": "MAIRIE DU 3 EME",
+      "arc_adresse": "2 RUE EUGENE SPULLER",
+      "geo_point_2d": [48.8639920263, 2.36153196157],
+      "nombre_de_borne_wifi": 2,
+      "idpw": "PW0019",
+      "geo_shape": {
+        "type": "Point",
+        "coordinates": [2.361531961565591, 48.8639920263]
+      },
+      "etat2": "Op\u00e9rationnel"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [2.36153196157, 48.8639920263]
+    },
+    "record_timestamp": "2020-02-12T08:00:33.449+01:00"
+  },
+  {
+    "datasetid": "sites-disposant-du-service-paris-wi-fi",
+    "recordid": "8ae3154580038be8dab07fce5c1102d3e253e3a2",
+    "fields": {
+      "cp": "75003",
+      "nom_site": "BOURSE DU TRAVAIL ANNEXE TURBIGO",
+      "arc_adresse": "67 RUE TURBIGO",
+      "geo_point_2d": [48.8660165781, 2.35800477569],
+      "nombre_de_borne_wifi": 1,
+      "idpw": "PW0219",
+      "geo_shape": {
+        "type": "Point",
+        "coordinates": [2.358004775693508, 48.86601657813311]
+      },
+      "etat2": "Op\u00e9rationnel"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [2.35800477569, 48.8660165781]
+    },
+    "record_timestamp": "2020-02-12T08:00:33.449+01:00"
+  },
+  {
+    "datasetid": "sites-disposant-du-service-paris-wi-fi",
+    "recordid": "76babb444bfa559a835dea23a868938fb9ae8e1f",
+    "fields": {
+      "cp": "75003",
+      "nom_site": "BIBLIOTHEQUE MARGUERITE AUDOUX",
+      "arc_adresse": "8-12 RUE PORTEFOIN",
+      "geo_point_2d": [48.8637689236, 2.3598462566],
+      "nombre_de_borne_wifi": 2,
+      "idpw": "PW0044",
+      "geo_shape": {
+        "type": "Point",
+        "coordinates": [2.359846256600825, 48.86376892355013]
+      },
+      "etat2": "Op\u00e9rationnel"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [2.3598462566, 48.8637689236]
+    },
+    "record_timestamp": "2020-02-12T08:00:33.449+01:00"
+  },
+  {
+    "datasetid": "sites-disposant-du-service-paris-wi-fi",
+    "recordid": "aa4a2452781df264bd2d9aa8082724f9a7c36050",
+    "fields": {
+      "cp": "75003",
+      "nom_site": "BOURSE DU TRAVAIL ANNEXE CHARLOT",
+      "arc_adresse": "85 RUE CHARLOT",
+      "geo_point_2d": [48.8651482532, 2.36510801775],
+      "nombre_de_borne_wifi": 1,
+      "idpw": "PW0220",
+      "geo_shape": {
+        "type": "Point",
+        "coordinates": [2.365108017746905, 48.86514825320897]
+      },
+      "etat2": "Op\u00e9rationnel"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [2.36510801775, 48.8651482532]
+    },
+    "record_timestamp": "2020-02-12T08:00:33.449+01:00"
+  },
+  {
+    "datasetid": "sites-disposant-du-service-paris-wi-fi",
+    "recordid": "d4deea6c901eb4c57bcc877d43896ff320e87e04",
+    "fields": {
+      "cp": "75003",
+      "nom_site": "MAISON DES INITIATIVES ETUDIANTES",
+      "arc_adresse": "50 RUE DES TOURNELLES",
+      "geo_point_2d": [48.8562219571, 2.36739182013],
+      "nombre_de_borne_wifi": 8,
+      "idpw": "PW0070",
+      "geo_shape": {
+        "type": "Point",
+        "coordinates": [2.36739182012952, 48.856221957138]
+      },
+      "etat2": "Op\u00e9rationnel"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [2.36739182013, 48.8562219571]
+    },
+    "record_timestamp": "2020-02-12T08:00:33.449+01:00"
+  },
+  {
+    "datasetid": "sites-disposant-du-service-paris-wi-fi",
+    "recordid": "d573a90c47a0a196aaca61bddb039d1be55f9775",
+    "fields": {
+      "cp": "75004",
+      "nom_site": "SQUARE JEAN XXIII - 2",
+      "arc_adresse": "RUE DU CLOITRE NOTRE DAME",
+      "geo_point_2d": [48.8525014751, 2.35079596201],
+      "nombre_de_borne_wifi": 1,
+      "idpw": "PW0067",
+      "geo_shape": {
+        "type": "Point",
+        "coordinates": [2.35079596200768, 48.852501475068166]
+      },
+      "etat2": "Op\u00e9rationnel"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [2.35079596201, 48.8525014751]
+    },
+    "record_timestamp": "2020-02-12T08:00:33.449+01:00"
+  },
+  {
+    "datasetid": "sites-disposant-du-service-paris-wi-fi",
+    "recordid": "c35f956ad6c0e2acaad69145cb5f78422041afce",
+    "fields": {
+      "cp": "75004",
+      "nom_site": "HOTEL DE VILLE 3EME",
+      "arc_adresse": "4 PLACE DE L HOTEL DE VILLE",
+      "geo_point_2d": [48.8563280136, 2.35290178599],
+      "nombre_de_borne_wifi": 3,
+      "idpw": "PW0122-4",
+      "geo_shape": {
+        "type": "Point",
+        "coordinates": [2.352901785985004, 48.85632801355686]
+      },
+      "etat2": "Op\u00e9rationnel"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [2.35290178599, 48.8563280136]
+    },
+    "record_timestamp": "2020-02-12T08:00:33.449+01:00"
+  },
+  {
+    "datasetid": "sites-disposant-du-service-paris-wi-fi",
+    "recordid": "890ed7b69e9a5479aca420e1e66ec8d71277eb54",
+    "fields": {
+      "cp": "75004",
+      "nom_site": "HOTEL DE VILLE 2EME",
+      "arc_adresse": "4 PLACE DE L HOTEL DE VILLE",
+      "geo_point_2d": [48.8560260905, 2.35268578589],
+      "nombre_de_borne_wifi": 6,
+      "idpw": "PW0122-3",
+      "geo_shape": {
+        "type": "Point",
+        "coordinates": [2.352685785891044, 48.85602609046494]
+      },
+      "etat2": "Op\u00e9rationnel"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [2.35268578589, 48.8560260905]
+    },
+    "record_timestamp": "2020-02-12T08:00:33.449+01:00"
+  },
+  {
+    "datasetid": "sites-disposant-du-service-paris-wi-fi",
+    "recordid": "64e661adfa52664d2ca33ee934266d90446cdf20",
+    "fields": {
+      "cp": "75004",
+      "nom_site": "SQUARE LOUIS XIII",
+      "arc_adresse": "30 PLACE DES VOSGES",
+      "geo_point_2d": [48.8556307839, 2.36565840313],
+      "nombre_de_borne_wifi": 1,
+      "idpw": "PW0163",
+      "geo_shape": {
+        "type": "Point",
+        "coordinates": [2.365658403131317, 48.855630783910044]
+      },
+      "etat2": "Op\u00e9rationnel"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [2.36565840313, 48.8556307839]
+    },
+    "record_timestamp": "2020-02-12T08:00:33.449+01:00"
+  },
+  {
+    "datasetid": "sites-disposant-du-service-paris-wi-fi",
+    "recordid": "43621f9ec7c7c1a764269bad4219e46d78b35c40",
+    "fields": {
+      "cp": "75004",
+      "nom_site": "MAISON DES ACTEURS DU PARIS DURABLE",
+      "arc_adresse": "21 RUE BLANCS MANTEAUX",
+      "geo_point_2d": [48.8590496567, 2.35687277554],
+      "nombre_de_borne_wifi": 3,
+      "idpw": "PW0192",
+      "geo_shape": {
+        "type": "Point",
+        "coordinates": [2.356872775538012, 48.85904965674071]
+      },
+      "etat2": "Op\u00e9rationnel"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [2.35687277554, 48.8590496567]
+    },
+    "record_timestamp": "2020-02-12T08:00:33.449+01:00"
+  },
+  {
+    "datasetid": "sites-disposant-du-service-paris-wi-fi",
+    "recordid": "4ca2404a74b680a2c900e28f9ba4e70c19d8cc24",
+    "fields": {
+      "cp": "75004",
+      "nom_site": "HOTEL DE VILLE SOUS SOL",
+      "arc_adresse": "4 PLACE DE L'HOTEL DE VILLE",
+      "geo_point_2d": [48.8567634421, 2.35264831302],
+      "nombre_de_borne_wifi": 3,
+      "idpw": "PW0122",
+      "geo_shape": {
+        "type": "Point",
+        "coordinates": [2.352648313015422, 48.856763442143226]
+      },
+      "etat2": "Op\u00e9rationnel"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [2.35264831302, 48.8567634421]
+    },
+    "record_timestamp": "2020-02-12T08:00:33.449+01:00"
+  },
+  {
+    "datasetid": "sites-disposant-du-service-paris-wi-fi",
+    "recordid": "eb4945c8353f06b60c8f0b7088e0ee3def609341",
+    "fields": {
+      "cp": "75004",
+      "nom_site": "JARDIN FREDERICO GARCIA LORCA - SQUARE HDV",
+      "arc_adresse": "QUAI DE L'HOTEL DE VILLE",
+      "geo_point_2d": [48.8547105055, 2.35324093401],
+      "nombre_de_borne_wifi": 1,
+      "idpw": "PW0191",
+      "geo_shape": {
+        "type": "Point",
+        "coordinates": [2.353240934008803, 48.85471050547104]
+      },
+      "etat2": "Op\u00e9rationnel"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [2.35324093401, 48.8547105055]
+    },
+    "record_timestamp": "2020-02-12T08:00:33.449+01:00"
+  },
+  {
+    "datasetid": "sites-disposant-du-service-paris-wi-fi",
+    "recordid": "02b0cd278a808a7be40687547dd5e8702c162c37",
+    "fields": {
+      "cp": "75004",
+      "nom_site": "LES BLANCS MANTEAUX",
+      "arc_adresse": "48 RUE VIEILLE DU TEMPLE",
+      "geo_point_2d": [48.8582613252, 2.35839235718],
+      "nombre_de_borne_wifi": 2,
+      "idpw": "PW0121",
+      "geo_shape": {
+        "type": "Point",
+        "coordinates": [2.358392357177399, 48.858261325151034]
+      },
+      "etat2": "Op\u00e9rationnel"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [2.35839235718, 48.8582613252]
+    },
+    "record_timestamp": "2020-02-12T08:00:33.449+01:00"
+  },
+  {
+    "datasetid": "sites-disposant-du-service-paris-wi-fi",
+    "recordid": "9e90269c95199044e7631e92e2bfb88d21c1507f",
+    "fields": {
+      "cp": "75004",
+      "nom_site": "BIBLIOTHEQUE FORNEY",
+      "arc_adresse": "1 RUE DU FIGUIER",
+      "geo_point_2d": [48.853423534, 2.35917923727],
+      "nombre_de_borne_wifi": 2,
+      "idpw": "PW0050",
+      "geo_shape": {
+        "type": "Point",
+        "coordinates": [2.359179237268959, 48.853423533989464]
+      },
+      "etat2": "Op\u00e9rationnel"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [2.35917923727, 48.853423534]
+    },
+    "record_timestamp": "2020-02-12T08:00:33.449+01:00"
+  },
+  {
+    "datasetid": "sites-disposant-du-service-paris-wi-fi",
+    "recordid": "616f8c12137c405eecd4e43e3ffad853aebbbd07",
+    "fields": {
+      "cp": "75004",
+      "nom_site": "HOTEL DE VILLE 1ER",
+      "arc_adresse": "PLACE DE L HOTEL DE VILLE",
+      "geo_point_2d": [48.856082874, 2.35226185907],
+      "nombre_de_borne_wifi": 3,
+      "idpw": "PW0122-2",
+      "geo_shape": {
+        "type": "Point",
+        "coordinates": [2.352261859070027, 48.85608287395022]
+      },
+      "etat2": "Op\u00e9rationnel"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [2.35226185907, 48.856082874]
+    },
+    "record_timestamp": "2020-02-12T08:00:33.449+01:00"
+  },
+  {
+    "datasetid": "sites-disposant-du-service-paris-wi-fi",
+    "recordid": "b852ad43e0439ee4976373afc522d576b47aee86",
+    "fields": {
+      "cp": "75004",
+      "nom_site": "HOTEL DE VILLE 4EME",
+      "arc_adresse": "4 PLACE DE L'HOTEL DE VILLE",
+      "geo_point_2d": [48.8568665354, 2.35317182328],
+      "nombre_de_borne_wifi": 6,
+      "idpw": "PW0122-5",
+      "geo_shape": {
+        "type": "Point",
+        "coordinates": [2.353171823279209, 48.85686653543352]
+      },
+      "etat2": "Op\u00e9rationnel"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [2.35317182328, 48.8568665354]
+    },
+    "record_timestamp": "2020-02-12T08:00:33.449+01:00"
+  },
+  {
+    "datasetid": "sites-disposant-du-service-paris-wi-fi",
+    "recordid": "63215849044a3968d1ed6acb25978863f1dea93e",
+    "fields": {
+      "cp": "75004",
+      "nom_site": "HOTEL DE VILLE PARVIS RIVOLI",
+      "arc_adresse": "4 PLACE DE L HOTEL DE VILLE",
+      "geo_point_2d": [48.8570518501, 2.35235172421],
+      "nombre_de_borne_wifi": 1,
+      "idpw": "PW0123-1",
+      "geo_shape": {
+        "type": "Point",
+        "coordinates": [2.352351724212447, 48.857051850068956]
+      },
+      "etat2": "Op\u00e9rationnel"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [2.35235172421, 48.8570518501]
+    },
+    "record_timestamp": "2020-02-12T08:00:33.449+01:00"
+  },
+  {
+    "datasetid": "sites-disposant-du-service-paris-wi-fi",
+    "recordid": "b5048436a03220839d783f5a9f1f61ec0f7c7a83",
+    "fields": {
+      "cp": "75004",
+      "nom_site": "MAIRIE DU 4 EME",
+      "arc_adresse": "2 PLACE BAUDOYER",
+      "geo_point_2d": [48.8562716079, 2.35575690111],
+      "nombre_de_borne_wifi": 2,
+      "idpw": "PW0132",
+      "geo_shape": {
+        "type": "Point",
+        "coordinates": [2.355756901105178, 48.856271607867846]
+      },
+      "etat2": "Op\u00e9rationnel"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [2.35575690111, 48.8562716079]
+    },
+    "record_timestamp": "2020-02-12T08:00:33.449+01:00"
+  },
+  {
+    "datasetid": "sites-disposant-du-service-paris-wi-fi",
+    "recordid": "dfc32174744f4716bb47dd44ea1570ee54c5ef44",
+    "fields": {
+      "cp": "75004",
+      "nom_site": "BIBLIOTHEQUE HISTORIQUE DE LA VILLE DE PARIS (BHVP)",
+      "arc_adresse": "24 RUE PAVEE",
+      "geo_point_2d": [48.8570654279, 2.36169590439],
+      "nombre_de_borne_wifi": 1,
+      "idpw": "PW0043",
+      "geo_shape": {
+        "type": "Point",
+        "coordinates": [2.361695904390476, 48.857065427924205]
+      },
+      "etat2": "Op\u00e9rationnel"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [2.36169590439, 48.8570654279]
+    },
+    "record_timestamp": "2020-02-12T08:00:33.449+01:00"
+  },
+  {
+    "datasetid": "sites-disposant-du-service-paris-wi-fi",
+    "recordid": "30db5762e5d8d9af48bb4c259b1697e339adcb37",
+    "fields": {
+      "cp": "75004",
+      "nom_site": "BERGES RIVE DROITE - PONT D ARCOLE",
+      "arc_adresse": "BERGE DE SEINE RIVE DROITE - QUAI DE GESVRES",
+      "geo_point_2d": [48.8558319848, 2.35083466129],
+      "nombre_de_borne_wifi": 1,
+      "idpw": "PW0156",
+      "geo_shape": {
+        "type": "Point",
+        "coordinates": [2.350834661285838, 48.8558319847793]
+      },
+      "etat2": "Op\u00e9rationnel"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [2.35083466129, 48.8558319848]
+    },
+    "record_timestamp": "2020-02-12T08:00:33.449+01:00"
+  },
+  {
+    "datasetid": "sites-disposant-du-service-paris-wi-fi",
+    "recordid": "5eac35f4cc065289ba719f2eb9c0dfdce935e26b",
+    "fields": {
+      "cp": "75004",
+      "nom_site": "BERGES RIVE DROITE - LES NAUTES",
+      "arc_adresse": "BERGE DE SEINE RIVE DROITE - 5 QUAI DES CELESTINS",
+      "geo_point_2d": [48.8523533398, 2.3603109745],
+      "nombre_de_borne_wifi": 1,
+      "idpw": "PW0150",
+      "geo_shape": {
+        "type": "Point",
+        "coordinates": [2.360310974496216, 48.85235333983582]
+      },
+      "etat2": "Op\u00e9rationnel"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [2.3603109745, 48.8523533398]
+    },
+    "record_timestamp": "2020-02-12T08:00:33.449+01:00"
+  },
+  {
+    "datasetid": "sites-disposant-du-service-paris-wi-fi",
+    "recordid": "ca9e8c8a86f9746dc41b6f791c0e960758b06b28",
+    "fields": {
+      "cp": "75004",
+      "nom_site": "HOTEL DE VILLE RDC",
+      "arc_adresse": "4 PLACE DE L'HOTEL DE VILLE",
+      "geo_point_2d": [48.856389683, 2.35238826701],
+      "nombre_de_borne_wifi": 2,
+      "idpw": "PW0122-1",
+      "geo_shape": {
+        "type": "Point",
+        "coordinates": [2.35238826700578, 48.85638968298792]
+      },
+      "etat2": "Op\u00e9rationnel"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [2.35238826701, 48.856389683]
+    },
+    "record_timestamp": "2020-02-12T08:00:33.449+01:00"
+  },
+  {
+    "datasetid": "sites-disposant-du-service-paris-wi-fi",
+    "recordid": "b8cb00d7641e20389fdfc005eed3d60d54178fe3",
+    "fields": {
+      "cp": "75004",
+      "nom_site": "BERGES RIVE DROITE - PONT NOTRE DAME",
+      "arc_adresse": "BERGE DE SEINE RIVE DROITE -  QUAI DE GESVRES 2",
+      "geo_point_2d": [48.8566875709, 2.34892300033],
+      "nombre_de_borne_wifi": 1,
+      "idpw": "PW0181",
+      "geo_shape": {
+        "type": "Point",
+        "coordinates": [2.3489230003257022, 48.856687570900185]
+      },
+      "etat2": "Op\u00e9rationnel"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [2.34892300033, 48.8566875709]
+    },
+    "record_timestamp": "2020-02-12T08:00:33.449+01:00"
+  },
+  {
+    "datasetid": "sites-disposant-du-service-paris-wi-fi",
+    "recordid": "c2e82cc459abed788bda719540e394c5448d9388",
+    "fields": {
+      "cp": "75004",
+      "nom_site": "SQUARE JEAN XXIII - 1",
+      "arc_adresse": "RUE DU CLOITRE NOTRE DAME",
+      "geo_point_2d": [48.8524420013, 2.35067060781],
+      "nombre_de_borne_wifi": 1,
+      "geo_shape": {
+        "type": "Point",
+        "coordinates": [2.350670607814152, 48.85244200134777]
+      },
+      "etat2": "Ferm\u00e9 pour travaux"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [2.35067060781, 48.8524420013]
+    },
+    "record_timestamp": "2020-02-12T08:00:33.449+01:00"
+  },
+  {
+    "datasetid": "sites-disposant-du-service-paris-wi-fi",
+    "recordid": "1b940e19363ba63a27acc9e6a31797a4e354245b",
+    "fields": {
+      "cp": "75004",
+      "nom_site": "SQUARE DE LA TOUR SAINT JACQUES",
+      "arc_adresse": "88 RUE DE RIVOLI",
+      "geo_point_2d": [48.8580407243, 2.34922010145],
+      "nombre_de_borne_wifi": 1,
+      "idpw": "PW0153",
+      "geo_shape": {
+        "type": "Point",
+        "coordinates": [2.349220101454865, 48.85804072427662]
+      },
+      "etat2": "Op\u00e9rationnel"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [2.34922010145, 48.8580407243]
+    },
+    "record_timestamp": "2020-02-12T08:00:33.449+01:00"
+  },
+  {
+    "datasetid": "sites-disposant-du-service-paris-wi-fi",
+    "recordid": "e2e5fe7726bf7bd38d7fdd5de7f962c36609fe54",
+    "fields": {
+      "cp": "75004",
+      "nom_site": "HOTEL DE VILLE  PARVIS  9",
+      "arc_adresse": "9 PLACE DE L HOTEL DE VILLE",
+      "geo_point_2d": [48.8572732825, 2.35127761215],
+      "nombre_de_borne_wifi": 1,
+      "idpw": "PW0119",
+      "geo_shape": {
+        "type": "Point",
+        "coordinates": [2.351277612149236, 48.85727328251876]
+      },
+      "etat2": "Op\u00e9rationnel"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [2.35127761215, 48.8572732825]
+    },
+    "record_timestamp": "2020-02-12T08:00:33.449+01:00"
+  },
+  {
+    "datasetid": "sites-disposant-du-service-paris-wi-fi",
+    "recordid": "b1e521f16985acdcc8c1926ad512c615ad9287f9",
+    "fields": {
+      "cp": "75004",
+      "nom_site": "BIBLIOTHEQUE ARTHUR RIMBAUD",
+      "arc_adresse": "2 PLACE BAUDOYER",
+      "geo_point_2d": [48.8561383736, 2.35593752424],
+      "nombre_de_borne_wifi": 2,
+      "idpw": "PW0132-2",
+      "geo_shape": {
+        "type": "Point",
+        "coordinates": [2.3559375242406873, 48.85613837361524]
+      },
+      "etat2": "Op\u00e9rationnel"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [2.35593752424, 48.8561383736]
+    },
+    "record_timestamp": "2020-02-12T08:00:33.449+01:00"
+  },
+  {
+    "datasetid": "sites-disposant-du-service-paris-wi-fi",
+    "recordid": "9f27b1f9804eda422e3324cd432f99a0b4567829",
+    "fields": {
+      "cp": "75004",
+      "nom_site": "HOTEL DE VILLE PARVIS SEINE",
+      "arc_adresse": "4 PLACE DE L'HOTEL DE VILLE",
+      "geo_point_2d": [48.8563193139, 2.35175507673],
+      "nombre_de_borne_wifi": 1,
+      "idpw": "PW0123",
+      "geo_shape": {
+        "type": "Point",
+        "coordinates": [2.35175507673093, 48.8563193139378]
+      },
+      "etat2": "Op\u00e9rationnel"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [2.35175507673, 48.8563193139]
+    },
+    "record_timestamp": "2020-02-12T08:00:33.449+01:00"
+  },
+  {
+    "datasetid": "sites-disposant-du-service-paris-wi-fi",
+    "recordid": "8a772a36922c21954a71a2f359ae842c90e2e6af",
+    "fields": {
+      "cp": "75005",
+      "nom_site": "BIBLIOTHEQUE BUFFON",
+      "arc_adresse": "15 B RUE BUFFON",
+      "geo_point_2d": [48.842546608, 2.3618682436],
+      "nombre_de_borne_wifi": 3,
+      "idpw": "PW0111",
+      "geo_shape": {
+        "type": "Point",
+        "coordinates": [2.361868243596555, 48.842546608019944]
+      },
+      "etat2": "Op\u00e9rationnel"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [2.3618682436, 48.842546608]
+    },
+    "record_timestamp": "2020-02-12T08:00:33.449+01:00"
+  },
+  {
+    "datasetid": "sites-disposant-du-service-paris-wi-fi",
+    "recordid": "26e6bd36525ed35b1f329d63f1549443bd50869b",
+    "fields": {
+      "cp": "75005",
+      "nom_site": "CENTRE SPORTIF POLIVEAU",
+      "arc_adresse": "39 B RUE POLIVEAU",
+      "geo_point_2d": [48.8398121461, 2.35748075184],
+      "nombre_de_borne_wifi": 1,
+      "idpw": "PW0090",
+      "geo_shape": {
+        "type": "Point",
+        "coordinates": [2.357480751841143, 48.839812146077996]
+      },
+      "etat2": "Op\u00e9rationnel"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [2.35748075184, 48.8398121461]
+    },
+    "record_timestamp": "2020-02-12T08:00:33.449+01:00"
+  },
+  {
+    "datasetid": "sites-disposant-du-service-paris-wi-fi",
+    "recordid": "1a6e6e91878693c7eab12bba80d44f30d6b33dff",
+    "fields": {
+      "cp": "75005",
+      "nom_site": "SQUARE PAUL LANGEVIN",
+      "arc_adresse": "12 RUE DES ECOLES",
+      "geo_point_2d": [48.8480849077, 2.34964310763],
+      "nombre_de_borne_wifi": 2,
+      "idpw": "PW0154",
+      "geo_shape": {
+        "type": "Point",
+        "coordinates": [2.34964310762926, 48.848084907658944]
+      },
+      "etat2": "Op\u00e9rationnel"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [2.34964310763, 48.8480849077]
+    },
+    "record_timestamp": "2020-02-12T08:00:33.449+01:00"
+  },
+  {
+    "datasetid": "sites-disposant-du-service-paris-wi-fi",
+    "recordid": "1a3def1ddcdb7fe065c368c1e3a28b3f421bd839",
+    "fields": {
+      "cp": "75005",
+      "nom_site": "BIBLIOTHEQUE DES LITTERATURES POLICIERES",
+      "arc_adresse": "48-50 RUE DU CARDINAL LEMOINE",
+      "geo_point_2d": [48.84643023, 2.35118103072],
+      "nombre_de_borne_wifi": 2,
+      "idpw": "PW0138",
+      "geo_shape": {
+        "type": "Point",
+        "coordinates": [2.351181030723315, 48.84643022998531]
+      },
+      "etat2": "Op\u00e9rationnel"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [2.35118103072, 48.84643023]
+    },
+    "record_timestamp": "2020-02-12T08:00:33.449+01:00"
+  },
+  {
+    "datasetid": "sites-disposant-du-service-paris-wi-fi",
+    "recordid": "4573afcb8246b227fe83857f2d96e0079c6445ec",
+    "fields": {
+      "cp": "75005",
+      "nom_site": "BIBLIOTHEQUE HEURE JOYEUSE",
+      "arc_adresse": "6-12 RUE DES PRETRES ST-SEVERIN",
+      "geo_point_2d": [48.8519010105, 2.34494821891],
+      "nombre_de_borne_wifi": 2,
+      "idpw": "PW0136",
+      "geo_shape": {
+        "type": "Point",
+        "coordinates": [2.344948218913558, 48.85190101045929]
+      },
+      "etat2": "Op\u00e9rationnel"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [2.34494821891, 48.8519010105]
+    },
+    "record_timestamp": "2020-02-12T08:00:33.449+01:00"
+  },
+  {
+    "datasetid": "sites-disposant-du-service-paris-wi-fi",
+    "recordid": "82a18ed03e69ac8f0b42f826ec573f7caa05a42c",
+    "fields": {
+      "cp": "75005",
+      "nom_site": "MAISON DE LA VIE ASSOCIATIVE ET CITOYENNE QUARTIER LATIN 5",
+      "arc_adresse": "4 RUE DES ARENES",
+      "geo_point_2d": [48.8451121922, 2.3542064419],
+      "nombre_de_borne_wifi": 2,
+      "idpw": "PW0026",
+      "geo_shape": {
+        "type": "Point",
+        "coordinates": [2.3542064419028152, 48.845112192168884]
+      },
+      "etat2": "Op\u00e9rationnel"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [2.3542064419, 48.8451121922]
+    },
+    "record_timestamp": "2020-02-12T08:00:33.449+01:00"
+  },
+  {
+    "datasetid": "sites-disposant-du-service-paris-wi-fi",
+    "recordid": "7dab25dd0732bab0549a72693c69ca336eee91b0",
+    "fields": {
+      "cp": "75005",
+      "nom_site": "BIBLIOTHEQUE MOHAMMED ARKOUN",
+      "arc_adresse": "74 RUE MOUFFETARD",
+      "geo_point_2d": [48.8424935285, 2.34967376066],
+      "nombre_de_borne_wifi": 2,
+      "idpw": "PW0126",
+      "geo_shape": {
+        "type": "Point",
+        "coordinates": [2.349673760661307, 48.84249352852194]
+      },
+      "etat2": "Op\u00e9rationnel"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [2.34967376066, 48.8424935285]
+    },
+    "record_timestamp": "2020-02-12T08:00:33.449+01:00"
+  },
+  {
+    "datasetid": "sites-disposant-du-service-paris-wi-fi",
+    "recordid": "525eee0b0a020aee8e610e99eabfe1bb68000ada",
+    "fields": {
+      "cp": "75005",
+      "nom_site": "MAIRIE DU 5 EME",
+      "arc_adresse": "21 PLACE DU PANTHEON",
+      "geo_point_2d": [48.846191709, 2.3445808787],
+      "nombre_de_borne_wifi": 2,
+      "idpw": "PW0021",
+      "geo_shape": {
+        "type": "Point",
+        "coordinates": [2.344580878695055, 48.846191708958614]
+      },
+      "etat2": "Op\u00e9rationnel"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [2.3445808787, 48.846191709]
+    },
+    "record_timestamp": "2020-02-12T08:00:33.449+01:00"
+  },
+  {
+    "datasetid": "sites-disposant-du-service-paris-wi-fi",
+    "recordid": "0ccb26a9785c5fab14465665647437afa3affd3c",
+    "fields": {
+      "cp": "75005",
+      "nom_site": "BIBLIOTHEQUE RAINER MARIA RILKE",
+      "arc_adresse": "88 T BOULEVARD DE PORT-ROYAL",
+      "geo_point_2d": [48.8393069888, 2.33878167349],
+      "nombre_de_borne_wifi": 2,
+      "idpw": "PW0115",
+      "geo_shape": {
+        "type": "Point",
+        "coordinates": [2.338781673488586, 48.839306988804566]
+      },
+      "etat2": "Op\u00e9rationnel"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [2.33878167349, 48.8393069888]
+    },
+    "record_timestamp": "2020-02-12T08:00:33.449+01:00"
+  },
+  {
+    "datasetid": "sites-disposant-du-service-paris-wi-fi",
+    "recordid": "8d300cfabe5549994a475c7f59545b5f8e0ea495",
+    "fields": {
+      "cp": "75005",
+      "nom_site": "SQUARE THEODORE MONOD",
+      "arc_adresse": "8 RUE SCIPION",
+      "geo_point_2d": [48.8383992161, 2.35377753667],
+      "nombre_de_borne_wifi": 1,
+      "idpw": "PW0155",
+      "geo_shape": {
+        "type": "Point",
+        "coordinates": [2.353777536666723, 48.83839921606968]
+      },
+      "etat2": "Op\u00e9rationnel"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [2.35377753667, 48.8383992161]
+    },
+    "record_timestamp": "2020-02-12T08:00:33.449+01:00"
+  },
+  {
+    "datasetid": "sites-disposant-du-service-paris-wi-fi",
+    "recordid": "66099390553749c1134eeecda7b283096e5de86d",
+    "fields": {
+      "cp": "75006",
+      "nom_site": "JARDIN DES GRANDS EXPLORATEURS",
+      "arc_adresse": "5 RUE MICHELET",
+      "geo_point_2d": [48.8413885661, 2.33670570395],
+      "nombre_de_borne_wifi": 1,
+      "idpw": "PW0208",
+      "geo_shape": {
+        "type": "Point",
+        "coordinates": [2.336705703948916, 48.841388566111874]
+      },
+      "etat2": "Op\u00e9rationnel"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [2.33670570395, 48.8413885661]
+    },
+    "record_timestamp": "2020-02-12T08:00:33.449+01:00"
+  },
+  {
+    "datasetid": "sites-disposant-du-service-paris-wi-fi",
+    "recordid": "d340168c447e7ca0da4662260293767d2eb6ad9d",
+    "fields": {
+      "cp": "75006",
+      "nom_site": "MAIRIE DU 6 EME",
+      "arc_adresse": "78 RUE BONAPARTE",
+      "geo_point_2d": [48.8505365269, 2.33261137019],
+      "nombre_de_borne_wifi": 1,
+      "idpw": "PW0128",
+      "geo_shape": {
+        "type": "Point",
+        "coordinates": [2.332611370193369, 48.85053652689776]
+      },
+      "etat2": "Op\u00e9rationnel"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [2.33261137019, 48.8505365269]
+    },
+    "record_timestamp": "2020-02-12T08:00:33.449+01:00"
+  },
+  {
+    "datasetid": "sites-disposant-du-service-paris-wi-fi",
+    "recordid": "af0e0eb9fd9045096b3ce22c3018bdb764624123",
+    "fields": {
+      "cp": "75006",
+      "nom_site": "MAISON DES INITIATIVES ETUDIANTES LABO6",
+      "arc_adresse": "76B RUE DE RENNES",
+      "geo_point_2d": [48.8512426095, 2.33044362302],
+      "nombre_de_borne_wifi": 4,
+      "idpw": "PW0146",
+      "geo_shape": {
+        "type": "Point",
+        "coordinates": [2.330443623016365, 48.851242609525265]
+      },
+      "etat2": "Op\u00e9rationnel"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [2.33044362302, 48.8512426095]
+    },
+    "record_timestamp": "2020-02-12T08:00:33.449+01:00"
+  },
+  {
+    "datasetid": "sites-disposant-du-service-paris-wi-fi",
+    "recordid": "7d6fbee334024ed7b2e4207babe1f330d0f68a69",
+    "fields": {
+      "cp": "75006",
+      "nom_site": "BIBLIOTHEQUE ANDRE MALRAUX",
+      "arc_adresse": "78 BOULEVARD RASPAIL",
+      "geo_point_2d": [48.8481097373, 2.32759433608],
+      "nombre_de_borne_wifi": 2,
+      "idpw": "PW0118",
+      "geo_shape": {
+        "type": "Point",
+        "coordinates": [2.327594336081364, 48.848109737334205]
+      },
+      "etat2": "Op\u00e9rationnel"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [2.32759433608, 48.8481097373]
+    },
+    "record_timestamp": "2020-02-12T08:00:33.449+01:00"
+  },
+  {
+    "datasetid": "sites-disposant-du-service-paris-wi-fi",
+    "recordid": "fc874062cf3c2edb050c7c99ee461132193d966b",
+    "fields": {
+      "cp": "75007",
+      "nom_site": "PARC CHAMPS DE MARS - 1",
+      "arc_adresse": "AVENUE CHARLES RISLER",
+      "geo_point_2d": [48.8569794103, 2.29333906348],
+      "nombre_de_borne_wifi": 1,
+      "idpw": "PW0165",
+      "geo_shape": {
+        "type": "Point",
+        "coordinates": [2.293339063475273, 48.85697941031564]
+      },
+      "etat2": "Op\u00e9rationnel"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [2.29333906348, 48.8569794103]
+    },
+    "record_timestamp": "2020-02-12T08:00:33.449+01:00"
+  },
+  {
+    "datasetid": "sites-disposant-du-service-paris-wi-fi",
+    "recordid": "bbf5d0a589ec3f120262cdd7b9c30c4654348edf",
+    "fields": {
+      "cp": "75007",
+      "nom_site": "BIBLIOTHEQUE SAINT SIMON",
+      "arc_adresse": "116 RUE DE GRENELLE",
+      "geo_point_2d": [48.8568664767, 2.32004369744],
+      "nombre_de_borne_wifi": 1,
+      "idpw": "PW0022-1",
+      "geo_shape": {
+        "type": "Point",
+        "coordinates": [2.320043697435677, 48.85686647665855]
+      },
+      "etat2": "Op\u00e9rationnel"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [2.32004369744, 48.8568664767]
+    },
+    "record_timestamp": "2020-02-12T08:00:33.449+01:00"
+  },
+  {
+    "datasetid": "sites-disposant-du-service-paris-wi-fi",
+    "recordid": "47cb63585c321ef6a13bd3e706785647d39abbba",
+    "fields": {
+      "cp": "75007",
+      "nom_site": "PARC CHAMPS DE MARS - 2",
+      "arc_adresse": "AVENUE CHARLES RISLER",
+      "geo_point_2d": [48.8546101225, 2.30019063073],
+      "nombre_de_borne_wifi": 1,
+      "idpw": "PW0165-1",
+      "geo_shape": {
+        "type": "Point",
+        "coordinates": [2.300190630733142, 48.85461012252293]
+      },
+      "etat2": "Op\u00e9rationnel"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [2.30019063073, 48.8546101225]
+    },
+    "record_timestamp": "2020-02-12T08:00:33.449+01:00"
+  },
+  {
+    "datasetid": "sites-disposant-du-service-paris-wi-fi",
+    "recordid": "9e34c42ce90b7ea3cab066123de28e08c7c17229",
+    "fields": {
+      "cp": "75007",
+      "nom_site": "BERGES RIVE GAUCHE - LA HALLE",
+      "arc_adresse": "PORT DE SOLFERINO",
+      "geo_point_2d": [48.8611484589, 2.32506543396],
+      "nombre_de_borne_wifi": 3,
+      "idpw": "PW0190",
+      "geo_shape": {
+        "type": "Point",
+        "coordinates": [2.32506543396433, 48.86114845894017]
+      },
+      "etat2": "Op\u00e9rationnel"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [2.32506543396, 48.8611484589]
+    },
+    "record_timestamp": "2020-02-12T08:00:33.449+01:00"
+  },
+  {
+    "datasetid": "sites-disposant-du-service-paris-wi-fi",
+    "recordid": "435ea36ab654bc469e115cb36fa1e5daa997980e",
+    "fields": {
+      "cp": "75007",
+      "nom_site": "BERGES RIVE GAUCHE - EMMARCHEMENT",
+      "arc_adresse": "PORT DE SOLFERINO",
+      "geo_point_2d": [48.8614166418, 2.32435657002],
+      "nombre_de_borne_wifi": 2,
+      "idpw": "PW0207",
+      "geo_shape": {
+        "type": "Point",
+        "coordinates": [2.324356570020385, 48.861416641848194]
+      },
+      "etat2": "Op\u00e9rationnel"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [2.32435657002, 48.8614166418]
+    },
+    "record_timestamp": "2020-02-12T08:00:33.449+01:00"
+  },
+  {
+    "datasetid": "sites-disposant-du-service-paris-wi-fi",
+    "recordid": "3ce00faa6ff1470c1f1adfcef2386cf9f206debd",
+    "fields": {
+      "cp": "75007",
+      "nom_site": "BIBLIOTHEQUE AMELIE",
+      "arc_adresse": "164 RUE DE GRENELLE",
+      "geo_point_2d": [48.8580688977, 2.30898988281],
+      "nombre_de_borne_wifi": 1,
+      "idpw": "PW0059",
+      "geo_shape": {
+        "type": "Point",
+        "coordinates": [2.308989882814166, 48.85806889772535]
+      },
+      "etat2": "Op\u00e9rationnel"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [2.30898988281, 48.8580688977]
+    },
+    "record_timestamp": "2020-02-12T08:00:33.449+01:00"
+  },
+  {
+    "datasetid": "sites-disposant-du-service-paris-wi-fi",
+    "recordid": "084aa88f28f9717bb43a7a73cf9f82f53845b1f7",
+    "fields": {
+      "cp": "75007",
+      "nom_site": "MAISON DE LA VIE ASSOCIATIVE ET CITOYENNE 7",
+      "arc_adresse": "93 RUE SAINT DOMINIQUE",
+      "geo_point_2d": [48.8595702097, 2.30722648326],
+      "nombre_de_borne_wifi": 1,
+      "idpw": "PW0027",
+      "geo_shape": {
+        "type": "Point",
+        "coordinates": [2.3072264832610783, 48.8595702097367]
+      },
+      "etat2": "Op\u00e9rationnel"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [2.30722648326, 48.8595702097]
+    },
+    "record_timestamp": "2020-02-12T08:00:33.449+01:00"
+  },
+  {
+    "datasetid": "sites-disposant-du-service-paris-wi-fi",
+    "recordid": "9c6b3c805e86c583b41464beff0851436aff21ca",
+    "fields": {
+      "cp": "75007",
+      "nom_site": "MAIRIE DU 7 EME",
+      "arc_adresse": "116 RUE DE GRENELLE",
+      "geo_point_2d": [48.8568664767, 2.32004369744],
+      "nombre_de_borne_wifi": 1,
+      "idpw": "PW0022",
+      "geo_shape": {
+        "type": "Point",
+        "coordinates": [2.320043697435677, 48.85686647665855]
+      },
+      "etat2": "Op\u00e9rationnel"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [2.32004369744, 48.8568664767]
+    },
+    "record_timestamp": "2020-02-12T08:00:33.449+01:00"
+  },
+  {
+    "datasetid": "sites-disposant-du-service-paris-wi-fi",
+    "recordid": "2c3314e15c75a52d0e6e08623d3855cfb4c6bfee",
+    "fields": {
+      "cp": "75007",
+      "nom_site": "BERGES RIVE GAUCHE - JARDIN FLOTTANT",
+      "arc_adresse": "PORT DU GROS CAILLOU",
+      "geo_point_2d": [48.8629641751, 2.30452468194],
+      "nombre_de_borne_wifi": 3,
+      "idpw": "PW0189",
+      "geo_shape": {
+        "type": "Point",
+        "coordinates": [2.30452468193794, 48.86296417505912]
+      },
+      "etat2": "Op\u00e9rationnel"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [2.30452468194, 48.8629641751]
+    },
+    "record_timestamp": "2020-02-12T08:00:33.449+01:00"
+  },
+  {
+    "datasetid": "sites-disposant-du-service-paris-wi-fi",
+    "recordid": "89cb76574e9be6a37640cc8e9ecdd3d352841529",
+    "fields": {
+      "cp": "75007",
+      "nom_site": "ESPLANADE DES INVALIDES",
+      "arc_adresse": "1 RUE PAUL ET JEAN LEROLLE",
+      "geo_point_2d": [48.8581897423, 2.31289426397],
+      "nombre_de_borne_wifi": 1,
+      "idpw": "PW0161",
+      "geo_shape": {
+        "type": "Point",
+        "coordinates": [2.312894263966204, 48.85818974233775]
+      },
+      "etat2": "Op\u00e9rationnel"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [2.31289426397, 48.8581897423]
+    },
+    "record_timestamp": "2020-02-12T08:00:33.449+01:00"
+  },
+  {
+    "datasetid": "sites-disposant-du-service-paris-wi-fi",
+    "recordid": "5ae055a18ffd25ab34886fccfb7ec7e5d9e849fe",
+    "fields": {
+      "cp": "75008",
+      "nom_site": "PROMENADE DES CHAMPS ELYSEES - KIOSQUE A MUSIQUE",
+      "arc_adresse": "AVENUE EDWARD TUCK",
+      "geo_point_2d": [48.8652873059, 2.31783976898],
+      "nombre_de_borne_wifi": 2,
+      "idpw": "PW0196",
+      "geo_shape": {
+        "type": "Point",
+        "coordinates": [2.317839768979231, 48.86528730587914]
+      },
+      "etat2": "Op\u00e9rationnel"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [2.31783976898, 48.8652873059]
+    },
+    "record_timestamp": "2020-02-12T08:00:33.449+01:00"
+  },
+  {
+    "datasetid": "sites-disposant-du-service-paris-wi-fi",
+    "recordid": "f96e89752c5cae4d89c13071206bc197cd400c23",
+    "fields": {
+      "cp": "75008",
+      "nom_site": "BIBLIOTHEQUE EUROPE",
+      "arc_adresse": "3 RUE DE LISBONNE",
+      "geo_point_2d": [48.877751384, 2.31748647872],
+      "nombre_de_borne_wifi": 2,
+      "idpw": "PW0124",
+      "geo_shape": {
+        "type": "Point",
+        "coordinates": [2.317486478723445, 48.8777513840169]
+      },
+      "etat2": "Op\u00e9rationnel"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [2.31748647872, 48.877751384]
+    },
+    "record_timestamp": "2020-02-12T08:00:33.449+01:00"
+  },
+  {
+    "datasetid": "sites-disposant-du-service-paris-wi-fi",
+    "recordid": "ee661ae19dfc2451339e2032c1db8f49e3845655",
+    "fields": {
+      "cp": "75008",
+      "nom_site": "PARC MONCEAU  - ENTREE PARC",
+      "arc_adresse": "1 PLACE DE LA REPUBLIQUE DOMINICAINE",
+      "geo_point_2d": [48.87994077, 2.30749907611],
+      "nombre_de_borne_wifi": 3,
+      "idpw": "PW0151-1",
+      "geo_shape": {
+        "type": "Point",
+        "coordinates": [2.307499076107147, 48.87994077004261]
+      },
+      "etat2": "Op\u00e9rationnel"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [2.30749907611, 48.87994077]
+    },
+    "record_timestamp": "2020-02-12T08:00:33.449+01:00"
+  },
+  {
+    "datasetid": "sites-disposant-du-service-paris-wi-fi",
+    "recordid": "ea46212be04d268aff6f38e0aa355f8069812da6",
+    "fields": {
+      "cp": "75008",
+      "nom_site": "MAISON DE LA VIE ASSOCIATIVE ET CITOYENNE  8",
+      "arc_adresse": "28 RUE LAURE DIEBOLD",
+      "geo_point_2d": [48.8760292839, 2.30478482557],
+      "nombre_de_borne_wifi": 2,
+      "idpw": "PW0047",
+      "geo_shape": {
+        "type": "Point",
+        "coordinates": [2.304784825574433, 48.87602928391506]
+      },
+      "etat2": "Op\u00e9rationnel"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [2.30478482557, 48.8760292839]
+    },
+    "record_timestamp": "2020-02-12T08:00:33.449+01:00"
+  },
+  {
+    "datasetid": "sites-disposant-du-service-paris-wi-fi",
+    "recordid": "05e0f58db666e7479dbe415fabb3cd7f5a3b641b",
+    "fields": {
+      "cp": "75008",
+      "nom_site": "PARC MONCEAU - ALLEE CONTESSE DE SEGUR",
+      "arc_adresse": "1-3 PLACE DE LA REPUBLIQUE DOMINICAINE",
+      "geo_point_2d": [48.8802623407, 2.30983989697],
+      "nombre_de_borne_wifi": 4,
+      "idpw": "PW0151",
+      "geo_shape": {
+        "type": "Point",
+        "coordinates": [2.309839896973783, 48.880262340729686]
+      },
+      "etat2": "Op\u00e9rationnel"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [2.30983989697, 48.8802623407]
+    },
+    "record_timestamp": "2020-02-12T08:00:33.449+01:00"
+  },
+  {
+    "datasetid": "sites-disposant-du-service-paris-wi-fi",
+    "recordid": "546e0d13412e0343d9b6083d7364b3fb0f768a00",
+    "fields": {
+      "cp": "75008",
+      "nom_site": "GYMNASE BEAUJON",
+      "arc_adresse": "7 ALLEE LOUIS DE FUNES",
+      "geo_point_2d": [48.8753645715, 2.30462671902],
+      "nombre_de_borne_wifi": 1,
+      "idpw": "PW0095",
+      "geo_shape": {
+        "type": "Point",
+        "coordinates": [2.304626719021802, 48.87536457154315]
+      },
+      "etat2": "Op\u00e9rationnel"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [2.30462671902, 48.8753645715]
+    },
+    "record_timestamp": "2020-02-12T08:00:33.449+01:00"
+  },
+  {
+    "datasetid": "sites-disposant-du-service-paris-wi-fi",
+    "recordid": "da9d3b0ed8a7aacf701c83a3d0b0bac2707cc86f",
+    "fields": {
+      "cp": "75008",
+      "nom_site": "MUSEE CERNUSCHI",
+      "arc_adresse": "7 AVENUE VELASQUEZ",
+      "geo_point_2d": [48.8794445126, 2.31252309998],
+      "nombre_de_borne_wifi": 17,
+      "idpw": "PW0144",
+      "geo_shape": {
+        "type": "Point",
+        "coordinates": [2.312523099981508, 48.8794445126079]
+      },
+      "etat2": "Op\u00e9rationnel"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [2.31252309998, 48.8794445126]
+    },
+    "record_timestamp": "2020-02-12T08:00:33.449+01:00"
+  },
+  {
+    "datasetid": "sites-disposant-du-service-paris-wi-fi",
+    "recordid": "fae61f626630f35b729baa3b8ecd9a20c3cce35c",
+    "fields": {
+      "cp": "75008",
+      "nom_site": "MAIRIE DU 8 EME",
+      "arc_adresse": "3 RUE DE LISBONNE",
+      "geo_point_2d": [48.877751384, 2.31748647872],
+      "nombre_de_borne_wifi": 1,
+      "idpw": "PW0024",
+      "geo_shape": {
+        "type": "Point",
+        "coordinates": [2.317486478723445, 48.8777513840169]
+      },
+      "etat2": "Op\u00e9rationnel"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [2.31748647872, 48.877751384]
+    },
+    "record_timestamp": "2020-02-12T08:00:33.449+01:00"
+  },
+  {
+    "datasetid": "sites-disposant-du-service-paris-wi-fi",
+    "recordid": "88746d06eaa4570e780e6ddc915909fe4a4f1bb1",
+    "fields": {
+      "cp": "75009",
+      "nom_site": "MAISON DE LA VIE ASSOCIATIVE ET CITOYENNE  9 ANNEXE",
+      "arc_adresse": "35 RUE VICTOR MASSE",
+      "geo_point_2d": [48.8809409831, 2.33701088306],
+      "nombre_de_borne_wifi": 1,
+      "idpw": "PW0038",
+      "geo_shape": {
+        "type": "Point",
+        "coordinates": [2.337010883062689, 48.88094098309762]
+      },
+      "etat2": "Op\u00e9rationnel"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [2.33701088306, 48.8809409831]
+    },
+    "record_timestamp": "2020-02-12T08:00:33.449+01:00"
+  },
+  {
+    "datasetid": "sites-disposant-du-service-paris-wi-fi",
+    "recordid": "401baf1e1e0a29fa1e1ee7d3869fe3d616b54581",
+    "fields": {
+      "cp": "75009",
+      "nom_site": "SQUARE D'ANVERS",
+      "arc_adresse": "PLACE D'ANVERS",
+      "geo_point_2d": [48.88231743, 2.34452051997],
+      "nombre_de_borne_wifi": 1,
+      "idpw": "PW0184",
+      "geo_shape": {
+        "type": "Point",
+        "coordinates": [2.344520519971863, 48.88231742995314]
+      },
+      "etat2": "Op\u00e9rationnel"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [2.34452051997, 48.88231743]
+    },
+    "record_timestamp": "2020-02-12T08:00:33.449+01:00"
+  },
+  {
+    "datasetid": "sites-disposant-du-service-paris-wi-fi",
+    "recordid": "be0cbe6c2a1734b7651e2b3a10d62d90b49665da",
+    "fields": {
+      "cp": "75009",
+      "nom_site": "BIBLIOTHEQUE VALEYRE",
+      "arc_adresse": "24 RUE DE ROCHECHOUART",
+      "geo_point_2d": [48.8779672649, 2.34502151234],
+      "nombre_de_borne_wifi": 2,
+      "idpw": "PW0142",
+      "geo_shape": {
+        "type": "Point",
+        "coordinates": [2.34502151233773, 48.87796726487002]
+      },
+      "etat2": "Op\u00e9rationnel"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [2.34502151234, 48.8779672649]
+    },
+    "record_timestamp": "2020-02-12T08:00:33.449+01:00"
+  },
+  {
+    "datasetid": "sites-disposant-du-service-paris-wi-fi",
+    "recordid": "d477473e8e91b3a753eb9f3fbddbb8fba25c1102",
+    "fields": {
+      "cp": "75009",
+      "nom_site": "SQUARE MONTHOLON",
+      "arc_adresse": "RUE LA FAYETTE",
+      "geo_point_2d": [48.8769016573, 2.34640500313],
+      "nombre_de_borne_wifi": 1,
+      "idpw": "PW0186",
+      "geo_shape": {
+        "type": "Point",
+        "coordinates": [2.346405003129445, 48.876901657285096]
+      },
+      "etat2": "Op\u00e9rationnel"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [2.34640500313, 48.8769016573]
+    },
+    "record_timestamp": "2020-02-12T08:00:33.449+01:00"
+  },
+  {
+    "datasetid": "sites-disposant-du-service-paris-wi-fi",
+    "recordid": "a8559a0ecb39aba017b59296f5a688b697b2efff",
+    "fields": {
+      "cp": "75009",
+      "nom_site": "MAISON DE LA VIE ASSOCIATIVE ET CITOYENNE  9",
+      "arc_adresse": "54 RUE PIGALLE",
+      "geo_point_2d": [48.8809781342, 2.33593661121],
+      "nombre_de_borne_wifi": 1,
+      "idpw": "PW0037",
+      "geo_shape": {
+        "type": "Point",
+        "coordinates": [2.335936611209823, 48.88097813417975]
+      },
+      "etat2": "Op\u00e9rationnel"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [2.33593661121, 48.8809781342]
+    },
+    "record_timestamp": "2020-02-12T08:00:33.449+01:00"
+  },
+  {
+    "datasetid": "sites-disposant-du-service-paris-wi-fi",
+    "recordid": "9452fa39e0d4b1c77de691e7e93496563d8266a4",
+    "fields": {
+      "cp": "75009",
+      "nom_site": "SQUARE TRINITE D ESTIENNE D ORVES",
+      "arc_adresse": "1 PLACE D ESTIENNES D ORVES",
+      "geo_point_2d": [48.8765956695, 2.33179827521],
+      "nombre_de_borne_wifi": 1,
+      "idpw": "PW0176",
+      "geo_shape": {
+        "type": "Point",
+        "coordinates": [2.331798275213253, 48.87659566954102]
+      },
+      "etat2": "Op\u00e9rationnel"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [2.33179827521, 48.8765956695]
+    },
+    "record_timestamp": "2020-02-12T08:00:33.449+01:00"
+  },
+  {
+    "datasetid": "sites-disposant-du-service-paris-wi-fi",
+    "recordid": "349d192f9a57a443ea225dbd87d87b26329cb69b",
+    "fields": {
+      "cp": "75009",
+      "nom_site": "BIBLIOTHEQUE DROUOT",
+      "arc_adresse": "11 RUE DROUOT",
+      "geo_point_2d": [48.8733902739, 2.34045205645],
+      "nombre_de_borne_wifi": 1,
+      "idpw": "PW0060",
+      "geo_shape": {
+        "type": "Point",
+        "coordinates": [2.340452056446281, 48.87339027391681]
+      },
+      "etat2": "Op\u00e9rationnel"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [2.34045205645, 48.8733902739]
+    },
+    "record_timestamp": "2020-02-12T08:00:33.449+01:00"
+  },
+  {
+    "datasetid": "sites-disposant-du-service-paris-wi-fi",
+    "recordid": "5f80fa6079cf2260687f708f8c55e9fa42eadd6b",
+    "fields": {
+      "cp": "75009",
+      "nom_site": "BIBLIOTHEQUE CHAPTAL",
+      "arc_adresse": "26 RUE CHAPTAL",
+      "geo_point_2d": [48.8811113359, 2.33234555983],
+      "nombre_de_borne_wifi": 2,
+      "idpw": "PW0109",
+      "geo_shape": {
+        "type": "Point",
+        "coordinates": [2.332345559826885, 48.881111335939714]
+      },
+      "etat2": "Op\u00e9rationnel"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [2.33234555983, 48.8811113359]
+    },
+    "record_timestamp": "2020-02-12T08:00:33.449+01:00"
+  },
+  {
+    "datasetid": "sites-disposant-du-service-paris-wi-fi",
+    "recordid": "4c39cdce0bd02978fcec349d500ec43b4bc09902",
+    "fields": {
+      "cp": "75009",
+      "nom_site": "MAIRIE DU 9 EME",
+      "arc_adresse": "6 RUE DROUOT",
+      "geo_point_2d": [48.8725916024, 2.34048060215],
+      "nombre_de_borne_wifi": 1,
+      "idpw": "PW0131",
+      "geo_shape": {
+        "type": "Point",
+        "coordinates": [2.340480602150851, 48.872591602361176]
+      },
+      "etat2": "Op\u00e9rationnel"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [2.34048060215, 48.8725916024]
+    },
+    "record_timestamp": "2020-02-12T08:00:33.449+01:00"
+  },
+  {
+    "datasetid": "sites-disposant-du-service-paris-wi-fi",
+    "recordid": "07e3907f8c8cc06c2fdbd5c80b19b3d7427f15e2",
+    "fields": {
+      "cp": "75010",
+      "nom_site": "MAIRIE DU 10 EME",
+      "arc_adresse": "72 RUE DU FAUBOURG SAINT MARTIN",
+      "geo_point_2d": [48.8717845119, 2.35738264495],
+      "nombre_de_borne_wifi": 3,
+      "idpw": "PW0010",
+      "geo_shape": {
+        "type": "Point",
+        "coordinates": [2.357382644948621, 48.87178451190305]
+      },
+      "etat2": "Op\u00e9rationnel"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [2.35738264495, 48.8717845119]
+    },
+    "record_timestamp": "2020-02-12T08:00:33.449+01:00"
+  },
+  {
+    "datasetid": "sites-disposant-du-service-paris-wi-fi",
+    "recordid": "4004aa1055d83d855c99c01116194c3ded3ab750",
+    "fields": {
+      "cp": "75010",
+      "nom_site": "MEDIATHEQUE FRANCOISE SAGAN",
+      "arc_adresse": "8 RUE LEON SCHWARTZENBERG",
+      "geo_point_2d": [48.8754298708, 2.35366677297],
+      "nombre_de_borne_wifi": 11,
+      "idpw": "PW0147",
+      "geo_shape": {
+        "type": "Point",
+        "coordinates": [2.353666772968424, 48.87542987081136]
+      },
+      "etat2": "Op\u00e9rationnel"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [2.35366677297, 48.8754298708]
+    },
+    "record_timestamp": "2020-02-12T08:00:33.449+01:00"
+  },
+  {
+    "datasetid": "sites-disposant-du-service-paris-wi-fi",
+    "recordid": "92bd3d5a338a5af01a409205d3edd271f413c6e7",
+    "fields": {
+      "cp": "75010",
+      "nom_site": "BOURSE DU TRAVAIL",
+      "arc_adresse": "3 RUE DU CHATEAU D EAU",
+      "geo_point_2d": [48.8691054125, 2.36199740627],
+      "nombre_de_borne_wifi": 3,
+      "idpw": "PW0215",
+      "geo_shape": {
+        "type": "Point",
+        "coordinates": [2.361997406270607, 48.86910541253627]
+      },
+      "etat2": "Op\u00e9rationnel"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [2.36199740627, 48.8691054125]
+    },
+    "record_timestamp": "2020-02-12T08:00:33.449+01:00"
+  },
+  {
+    "datasetid": "sites-disposant-du-service-paris-wi-fi",
+    "recordid": "f1b51438b6cb67a9f87776bebaae11303519751b",
+    "fields": {
+      "cp": "75010",
+      "nom_site": "JARDIN DES BERGES DU CANAL SAINT MARTIN",
+      "arc_adresse": "150 QUAI DE VALMY",
+      "geo_point_2d": [48.8801112154, 2.36720666871],
+      "nombre_de_borne_wifi": 1,
+      "idpw": "PW0194",
+      "geo_shape": {
+        "type": "Point",
+        "coordinates": [2.367206668709812, 48.8801112154069]
+      },
+      "etat2": "Op\u00e9rationnel"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [2.36720666871, 48.8801112154]
+    },
+    "record_timestamp": "2020-02-12T08:00:33.449+01:00"
+  },
+  {
+    "datasetid": "sites-disposant-du-service-paris-wi-fi",
+    "recordid": "0d4b7471ee4f5159cd6e50912e33512d8b091039",
+    "fields": {
+      "cp": "75010",
+      "nom_site": "CENTRE SPORTIF DE LA GRANGE AUX BELLES",
+      "arc_adresse": "17 RUE BOY ZELENSKI",
+      "geo_point_2d": [48.8774306165, 2.36839034022],
+      "nombre_de_borne_wifi": 1,
+      "idpw": "PW0077",
+      "geo_shape": {
+        "type": "Point",
+        "coordinates": [2.368390340217362, 48.877430616544906]
+      },
+      "etat2": "Op\u00e9rationnel"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [2.36839034022, 48.8774306165]
+    },
+    "record_timestamp": "2020-02-12T08:00:33.449+01:00"
+  },
+  {
+    "datasetid": "sites-disposant-du-service-paris-wi-fi",
+    "recordid": "740385013c8f11a0263ea7539c1543ce1165e209",
+    "fields": {
+      "cp": "75010",
+      "nom_site": "GYMNASE MARIE PARADIS",
+      "arc_adresse": "11 SQUARE ALBAN SATRAGNE",
+      "geo_point_2d": [48.8754539407, 2.35524842818],
+      "nombre_de_borne_wifi": 1,
+      "idpw": "PW0097",
+      "geo_shape": {
+        "type": "Point",
+        "coordinates": [2.355248428182183, 48.87545394069122]
+      },
+      "etat2": "Op\u00e9rationnel"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [2.35524842818, 48.8754539407]
+    },
+    "record_timestamp": "2020-02-12T08:00:33.449+01:00"
+  },
+  {
+    "datasetid": "sites-disposant-du-service-paris-wi-fi",
+    "recordid": "9fd0497bbba484ec9c29d9e1ef6097bf4cdc4aac",
+    "fields": {
+      "cp": "75010",
+      "nom_site": "SQUARE FREDERIC LEMAITRE",
+      "arc_adresse": "35 QUAI DE JEMMAPES",
+      "geo_point_2d": [48.8788386316, 2.36711233025],
+      "nombre_de_borne_wifi": 1,
+      "idpw": "PW0197",
+      "geo_shape": {
+        "type": "Point",
+        "coordinates": [2.367112330251715, 48.878838631646886]
+      },
+      "etat2": "Op\u00e9rationnel"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [2.36711233025, 48.8788386316]
+    },
+    "record_timestamp": "2020-02-12T08:00:33.449+01:00"
+  },
+  {
+    "datasetid": "sites-disposant-du-service-paris-wi-fi",
+    "recordid": "209c96106e1757c454fae969f2323d0439c5cbce",
+    "fields": {
+      "cp": "75010",
+      "nom_site": "JARDIN VILLEMIN",
+      "arc_adresse": "8 RUE DES RECOLLETS",
+      "geo_point_2d": [48.8744988283, 2.36190493854],
+      "nombre_de_borne_wifi": 2,
+      "idpw": "PW0164",
+      "geo_shape": {
+        "type": "Point",
+        "coordinates": [2.361904938537223, 48.874498828303075]
+      },
+      "etat2": "Op\u00e9rationnel"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [2.36190493854, 48.8744988283]
+    },
+    "record_timestamp": "2020-02-12T08:00:33.449+01:00"
+  },
+  {
+    "datasetid": "sites-disposant-du-service-paris-wi-fi",
+    "recordid": "f37911b9646a38622651aa9b8f75eca141f15142",
+    "fields": {
+      "cp": "75010",
+      "nom_site": "BIBLIOTHEQUE FRANCOIS VILLON",
+      "arc_adresse": "81 BOULEVARD DE LA VILLETTE",
+      "geo_point_2d": [48.8772054342, 2.37079691969],
+      "nombre_de_borne_wifi": 2,
+      "idpw": "PW0116",
+      "geo_shape": {
+        "type": "Point",
+        "coordinates": [2.37079691969116, 48.877205434154426]
+      },
+      "etat2": "Op\u00e9rationnel"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [2.37079691969, 48.8772054342]
+    },
+    "record_timestamp": "2020-02-12T08:00:33.449+01:00"
+  },
+  {
+    "datasetid": "sites-disposant-du-service-paris-wi-fi",
+    "recordid": "47d5a463b4b78cc824bc230345643dd78772fc4a",
+    "fields": {
+      "cp": "75010",
+      "nom_site": "SQUARE DES RECOLLETS",
+      "arc_adresse": "88 QUAI DE VALMY",
+      "geo_point_2d": [48.8732040203, 2.36361161798],
+      "nombre_de_borne_wifi": 1,
+      "idpw": "PW0210",
+      "geo_shape": {
+        "type": "Point",
+        "coordinates": [2.363611617977898, 48.87320402026159]
+      },
+      "etat2": "Op\u00e9rationnel"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [2.36361161798, 48.8732040203]
+    },
+    "record_timestamp": "2020-02-12T08:00:33.449+01:00"
+  },
+  {
+    "datasetid": "sites-disposant-du-service-paris-wi-fi",
+    "recordid": "0ee49cd420dbad4e10101fee39792003d5fd6f77",
+    "fields": {
+      "cp": "75010",
+      "nom_site": "MAISON DE LA VIE ASSOCIATIVE ET CITOYENNE  10",
+      "arc_adresse": "206 QUAI DE VALMY",
+      "geo_point_2d": [48.8817841102, 2.36872006696],
+      "nombre_de_borne_wifi": 1,
+      "idpw": "PW0028",
+      "geo_shape": {
+        "type": "Point",
+        "coordinates": [2.368720066964892, 48.88178411021711]
+      },
+      "etat2": "Op\u00e9rationnel"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [2.36872006696, 48.8817841102]
+    },
+    "record_timestamp": "2020-02-12T08:00:33.449+01:00"
+  },
+  {
+    "datasetid": "sites-disposant-du-service-paris-wi-fi",
+    "recordid": "13316e09bc06e9ca052812fec917c1431c16bd86",
+    "fields": {
+      "cp": "75011",
+      "nom_site": "MAISON DE LA VIE ASSOCIATIVE ET CITOYENNE  11",
+      "arc_adresse": "8 RUE DU GENERAL RENAULT",
+      "geo_point_2d": [48.8612659255, 2.37850247568],
+      "nombre_de_borne_wifi": 2,
+      "idpw": "PW0029",
+      "geo_shape": {
+        "type": "Point",
+        "coordinates": [2.378502475675964, 48.861265925542334]
+      },
+      "etat2": "Op\u00e9rationnel"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [2.37850247568, 48.8612659255]
+    },
+    "record_timestamp": "2020-02-12T08:00:33.449+01:00"
+  },
+  {
+    "datasetid": "sites-disposant-du-service-paris-wi-fi",
+    "recordid": "d1d5a601726487a82e44f279480ed849607d7f6d",
+    "fields": {
+      "cp": "75011",
+      "nom_site": "SQUARE JEAN AICARD",
+      "arc_adresse": "5 AVENUE JEAN AICARD",
+      "geo_point_2d": [48.8649086244, 2.38127231697],
+      "nombre_de_borne_wifi": 1,
+      "idpw": "PW0152",
+      "geo_shape": {
+        "type": "Point",
+        "coordinates": [2.381272316972541, 48.864908624429034]
+      },
+      "etat2": "Op\u00e9rationnel"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [2.38127231697, 48.8649086244]
+    },
+    "record_timestamp": "2020-02-12T08:00:33.449+01:00"
+  },
+  {
+    "datasetid": "sites-disposant-du-service-paris-wi-fi",
+    "recordid": "6456d57e214bc1fd55e4e937e896dcd39d46356d",
+    "fields": {
+      "cp": "75011",
+      "nom_site": "SQUARE ORILLON JULES VERNES",
+      "arc_adresse": "19B RUE DE L ORILLON",
+      "geo_point_2d": [48.8698926807, 2.37511728428],
+      "nombre_de_borne_wifi": 1,
+      "idpw": "PW0056",
+      "geo_shape": {
+        "type": "Point",
+        "coordinates": [2.375117284276381, 48.86989268070317]
+      },
+      "etat2": "Op\u00e9rationnel"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [2.37511728428, 48.8698926807]
+    },
+    "record_timestamp": "2020-02-12T08:00:33.449+01:00"
+  },
+  {
+    "datasetid": "sites-disposant-du-service-paris-wi-fi",
+    "recordid": "b83d7fccfcce6c4c52d855220ec550ff2726d846",
+    "fields": {
+      "cp": "75011",
+      "nom_site": "SQUARE MAURICE GARDETTE",
+      "arc_adresse": "2 RUE DU GENERAL BLAISE RUE LACHARRIERE",
+      "geo_point_2d": [48.8610851934, 2.37907251705],
+      "nombre_de_borne_wifi": 1,
+      "idpw": "PW0205",
+      "geo_shape": {
+        "type": "Point",
+        "coordinates": [2.379072517053181, 48.86108519335692]
+      },
+      "etat2": "Op\u00e9rationnel"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [2.37907251705, 48.8610851934]
+    },
+    "record_timestamp": "2020-02-12T08:00:33.449+01:00"
+  },
+  {
+    "datasetid": "sites-disposant-du-service-paris-wi-fi",
+    "recordid": "46914feb0ec3ef5522f0d4cff01809b44aee7fc3",
+    "fields": {
+      "cp": "75011",
+      "nom_site": "GYMNASE JAPY",
+      "arc_adresse": "2 RUE JAPY",
+      "geo_point_2d": [48.8558714122, 2.38245353583],
+      "nombre_de_borne_wifi": 1,
+      "idpw": "PW0096",
+      "geo_shape": {
+        "type": "Point",
+        "coordinates": [2.382453535830383, 48.85587141220044]
+      },
+      "etat2": "Op\u00e9rationnel"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [2.38245353583, 48.8558714122]
+    },
+    "record_timestamp": "2020-02-12T08:00:33.449+01:00"
+  },
+  {
+    "datasetid": "sites-disposant-du-service-paris-wi-fi",
+    "recordid": "01a85c4a0fb283bc0fda4577bee5b8e380e827f3",
+    "fields": {
+      "cp": "75011",
+      "nom_site": "PROMENADE RICHARD LENOIR",
+      "arc_adresse": "67 BOULEVARD RICHARD LENOIR",
+      "geo_point_2d": [48.8605127941, 2.37222141682],
+      "nombre_de_borne_wifi": 1,
+      "idpw": "PW0206",
+      "geo_shape": {
+        "type": "Point",
+        "coordinates": [2.372221416816595, 48.860512794097644]
+      },
+      "etat2": "Op\u00e9rationnel"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [2.37222141682, 48.8605127941]
+    },
+    "record_timestamp": "2020-02-12T08:00:33.449+01:00"
+  },
+  {
+    "datasetid": "sites-disposant-du-service-paris-wi-fi",
+    "recordid": "5d35f598b51afd3e9773ea0a33c83001e3274a8f",
+    "fields": {
+      "cp": "75011",
+      "nom_site": "CENTRE SPORTIF GEORGES RIGAL",
+      "arc_adresse": "115 BOULEVARD DE CHARONNE",
+      "geo_point_2d": [48.8566034181, 2.39386877243],
+      "nombre_de_borne_wifi": 1,
+      "idpw": "PW0080",
+      "geo_shape": {
+        "type": "Point",
+        "coordinates": [2.393868772427969, 48.85660341812767]
+      },
+      "etat2": "Op\u00e9rationnel"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [2.39386877243, 48.8566034181]
+    },
+    "record_timestamp": "2020-02-12T08:00:33.449+01:00"
+  },
+  {
+    "datasetid": "sites-disposant-du-service-paris-wi-fi",
+    "recordid": "b8a0dc317c201b8c96993f7a7f57af2c3510b1c5",
+    "fields": {
+      "cp": "75011",
+      "nom_site": "CENTRE SPORTIF COUR DES LIONS",
+      "arc_adresse": "9-11 RUE ALPHONSE BAUDIN",
+      "geo_point_2d": [48.8606741278, 2.37034386692],
+      "nombre_de_borne_wifi": 1,
+      "idpw": "PW0076",
+      "geo_shape": {
+        "type": "Point",
+        "coordinates": [2.370343866923958, 48.86067412777188]
+      },
+      "etat2": "Op\u00e9rationnel"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [2.37034386692, 48.8606741278]
+    },
+    "record_timestamp": "2020-02-12T08:00:33.449+01:00"
+  },
+  {
+    "datasetid": "sites-disposant-du-service-paris-wi-fi",
+    "recordid": "2d3c211dc0359ff64c47c0395ed1596d3f5df893",
+    "fields": {
+      "cp": "75011",
+      "nom_site": "SQUARE COLBERT",
+      "arc_adresse": "159 RUE DE CHARONNE",
+      "geo_point_2d": [48.8555919367, 2.38959554225],
+      "nombre_de_borne_wifi": 1,
+      "idpw": "PW0160",
+      "geo_shape": {
+        "type": "Point",
+        "coordinates": [2.389595542248922, 48.855591936732615]
+      },
+      "etat2": "Op\u00e9rationnel"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [2.38959554225, 48.8555919367]
+    },
+    "record_timestamp": "2020-02-12T08:00:33.449+01:00"
+  },
+  {
+    "datasetid": "sites-disposant-du-service-paris-wi-fi",
+    "recordid": "e5b516635773db94a507a377f04e799c49cb62bc",
+    "fields": {
+      "cp": "75011",
+      "nom_site": "MAIRIE DU 11 EME",
+      "arc_adresse": "2 PLACE LEON BLUM",
+      "geo_point_2d": [48.8580799315, 2.38100340048],
+      "nombre_de_borne_wifi": 1,
+      "idpw": "PW0011",
+      "geo_shape": {
+        "type": "Point",
+        "coordinates": [2.381003400476269, 48.85807993154853]
+      },
+      "etat2": "Op\u00e9rationnel"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [2.38100340048, 48.8580799315]
+    },
+    "record_timestamp": "2020-02-12T08:00:33.449+01:00"
+  },
+  {
+    "datasetid": "sites-disposant-du-service-paris-wi-fi",
+    "recordid": "bf0b8af3e5af6e5b969495ac9202dd7dc735b11d",
+    "fields": {
+      "cp": "75011",
+      "nom_site": "MEDIATHEQUE VIOLETTE LEDUC",
+      "arc_adresse": "18 RUE FAIDHERBE",
+      "geo_point_2d": [48.8515955528, 2.38396007097],
+      "nombre_de_borne_wifi": 4,
+      "idpw": "PW0049",
+      "geo_shape": {
+        "type": "Point",
+        "coordinates": [2.383960070968056, 48.851595552840706]
+      },
+      "etat2": "Op\u00e9rationnel"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [2.38396007097, 48.8515955528]
+    },
+    "record_timestamp": "2020-02-12T08:00:33.449+01:00"
+  },
+  {
+    "datasetid": "sites-disposant-du-service-paris-wi-fi",
+    "recordid": "2ed87c18ce47b2799251f6a4068f789aedbc4da1",
+    "fields": {
+      "cp": "75011",
+      "nom_site": "SQUARE LA PETITE ROQUETTE",
+      "arc_adresse": "4 RUE SERVAN - SQUARE DE LA ROQUETTE",
+      "geo_point_2d": [48.8591243675, 2.38418763308],
+      "nombre_de_borne_wifi": 1,
+      "idpw": "PW0068",
+      "geo_shape": {
+        "type": "Point",
+        "coordinates": [2.384187633080559, 48.859124367471004]
+      },
+      "etat2": "Op\u00e9rationnel"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [2.38418763308, 48.8591243675]
+    },
+    "record_timestamp": "2020-02-12T08:00:33.449+01:00"
+  },
+  {
+    "datasetid": "sites-disposant-du-service-paris-wi-fi",
+    "recordid": "c8e9c538b4417e9035da82b42151192d1854f9b2",
+    "fields": {
+      "cp": "75011",
+      "nom_site": "SQUARE DES JARDINIERS",
+      "arc_adresse": "2 PASSAGE DUMAS",
+      "geo_point_2d": [48.8520900215, 2.39025008686],
+      "nombre_de_borne_wifi": 1,
+      "idpw": "PW0203",
+      "geo_shape": {
+        "type": "Point",
+        "coordinates": [2.390250086858032, 48.85209002148713]
+      },
+      "etat2": "Op\u00e9rationnel"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [2.39025008686, 48.8520900215]
+    },
+    "record_timestamp": "2020-02-12T08:00:33.449+01:00"
+  },
+  {
+    "datasetid": "sites-disposant-du-service-paris-wi-fi",
+    "recordid": "334ff9b74a432691063b8af7ca20b6f4cd5d81a7",
+    "fields": {
+      "cp": "75011",
+      "nom_site": "SQUARE BREGUET SABIN",
+      "arc_adresse": "25 BOULEVARD RICHARD LENOIR",
+      "geo_point_2d": [48.8570974891, 2.3704796611],
+      "nombre_de_borne_wifi": 2,
+      "idpw": "PW0177",
+      "geo_shape": {
+        "type": "Point",
+        "coordinates": [2.370479661100423, 48.8570974891207]
+      },
+      "etat2": "Op\u00e9rationnel"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [2.3704796611, 48.8570974891]
+    },
+    "record_timestamp": "2020-02-12T08:00:33.449+01:00"
+  },
+  {
+    "datasetid": "sites-disposant-du-service-paris-wi-fi",
+    "recordid": "b26032ef84c1586757652900a1c45781f7af9120",
+    "fields": {
+      "cp": "75011",
+      "nom_site": "BIBLIOTHEQUE PARMENTIER",
+      "arc_adresse": "20 AVENUE PARMENTIER",
+      "geo_point_2d": [48.860096294, 2.3790349615],
+      "nombre_de_borne_wifi": 1,
+      "idpw": "PW0052",
+      "geo_shape": {
+        "type": "Point",
+        "coordinates": [2.379034961498105, 48.86009629404829]
+      },
+      "etat2": "Op\u00e9rationnel"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [2.3790349615, 48.860096294]
+    },
+    "record_timestamp": "2020-02-12T08:00:33.449+01:00"
+  },
+  {
+    "datasetid": "sites-disposant-du-service-paris-wi-fi",
+    "recordid": "a2f581adaa0ba092305877ec1c9eb282f2419811",
+    "fields": {
+      "cp": "75012",
+      "nom_site": "CENTRE PARIS ANIM'MAURICE RAVEL",
+      "arc_adresse": "6 RUE MAURICE RAVEL",
+      "geo_point_2d": [48.8418039259, 2.41166835606],
+      "nombre_de_borne_wifi": 1,
+      "geo_shape": {
+        "type": "Point",
+        "coordinates": [2.411668356058278, 48.84180392592806]
+      },
+      "etat2": "En \u00e9tude"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [2.41166835606, 48.8418039259]
+    },
+    "record_timestamp": "2020-02-12T08:00:33.449+01:00"
+  },
+  {
+    "datasetid": "sites-disposant-du-service-paris-wi-fi",
+    "recordid": "e55681c487b47c7f5a63dfe701451f6970bf7658",
+    "fields": {
+      "cp": "75012",
+      "nom_site": "BIBLIOTHEQUE SAINT ELOI",
+      "arc_adresse": "23 RUE DU COLONEL ROZANOFF",
+      "geo_point_2d": [48.8455291572, 2.38711098608],
+      "nombre_de_borne_wifi": 2,
+      "idpw": "PW0141",
+      "geo_shape": {
+        "type": "Point",
+        "coordinates": [2.387110986075708, 48.84552915718272]
+      },
+      "etat2": "Op\u00e9rationnel"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [2.38711098608, 48.8455291572]
+    },
+    "record_timestamp": "2020-02-12T08:00:33.449+01:00"
+  },
+  {
+    "datasetid": "sites-disposant-du-service-paris-wi-fi",
+    "recordid": "4dbe7ee61af80c2464118d87089d1eaeb861e3d9",
+    "fields": {
+      "cp": "75012",
+      "nom_site": "PISCINE JEAN BOITEUX",
+      "arc_adresse": "13 RUE ANTOINE JULIEN HENARD",
+      "geo_point_2d": [48.8421472127, 2.38939778901],
+      "nombre_de_borne_wifi": 1,
+      "idpw": "PW0106",
+      "geo_shape": {
+        "type": "Point",
+        "coordinates": [2.389397789011499, 48.842147212693675]
+      },
+      "etat2": "Op\u00e9rationnel"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [2.38939778901, 48.8421472127]
+    },
+    "record_timestamp": "2020-02-12T08:00:33.449+01:00"
+  },
+  {
+    "datasetid": "sites-disposant-du-service-paris-wi-fi",
+    "recordid": "11c511a3ba1b38f4b6db5691b96d64ced6f06c3d",
+    "fields": {
+      "cp": "75012",
+      "nom_site": "BIBLIOTHEQUE HELENE BERR",
+      "arc_adresse": "70 RUE DE PICPUS",
+      "geo_point_2d": [48.8425411215, 2.39747688968],
+      "nombre_de_borne_wifi": 4,
+      "idpw": "PW0051",
+      "geo_shape": {
+        "type": "Point",
+        "coordinates": [2.397476889678179, 48.84254112148939]
+      },
+      "etat2": "Op\u00e9rationnel"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [2.39747688968, 48.8425411215]
+    },
+    "record_timestamp": "2020-02-12T08:00:33.449+01:00"
+  },
+  {
+    "datasetid": "sites-disposant-du-service-paris-wi-fi",
+    "recordid": "fb00857caf1ecf2da79243a1fb1308967f581ef9",
+    "fields": {
+      "cp": "75012",
+      "nom_site": "CENTRE SPORTIF PAUL VALERY",
+      "arc_adresse": "15 RUE DE LA NOUVELLE CALEDONIE",
+      "geo_point_2d": [48.8380025291, 2.41042916157],
+      "nombre_de_borne_wifi": 1,
+      "idpw": "PW0087",
+      "geo_shape": {
+        "type": "Point",
+        "coordinates": [2.410429161569746, 48.83800252906541]
+      },
+      "etat2": "Op\u00e9rationnel"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [2.41042916157, 48.8380025291]
+    },
+    "record_timestamp": "2020-02-12T08:00:33.449+01:00"
+  },
+  {
+    "datasetid": "sites-disposant-du-service-paris-wi-fi",
+    "recordid": "77e98948c452de33f5711e745d929e9ededc1a60",
+    "fields": {
+      "cp": "75012",
+      "nom_site": "PARC DE BERCY (MAISON DU LAC)",
+      "arc_adresse": "1 COUR CHAMONARD",
+      "geo_point_2d": [48.8350786407, 2.38453222624],
+      "nombre_de_borne_wifi": 1,
+      "idpw": "PW0058-1",
+      "geo_shape": {
+        "type": "Point",
+        "coordinates": [2.384532226240481, 48.83507864071957]
+      },
+      "etat2": "Op\u00e9rationnel"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [2.38453222624, 48.8350786407]
+    },
+    "record_timestamp": "2020-02-12T08:00:33.449+01:00"
+  },
+  {
+    "datasetid": "sites-disposant-du-service-paris-wi-fi",
+    "recordid": "b4e35085e35573db539b8ce5ee685b59316a2839",
+    "fields": {
+      "cp": "75012",
+      "nom_site": "BIBLIOTHEQUE DIDEROT",
+      "arc_adresse": "42 AVENUE DAUMESNIL",
+      "geo_point_2d": [48.8459667166, 2.37771613956],
+      "nombre_de_borne_wifi": 1,
+      "idpw": "PW0135",
+      "geo_shape": {
+        "type": "Point",
+        "coordinates": [2.377716139560769, 48.84596671657269]
+      },
+      "etat2": "Op\u00e9rationnel"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [2.37771613956, 48.8459667166]
+    },
+    "record_timestamp": "2020-02-12T08:00:33.449+01:00"
+  },
+  {
+    "datasetid": "sites-disposant-du-service-paris-wi-fi",
+    "recordid": "fdd3a66bf36889606c1afea65303d1a5bfdeebec",
+    "fields": {
+      "cp": "75012",
+      "nom_site": "CENTRE SPORTIF LEON MOTTOT",
+      "arc_adresse": "17 CITE MOYNET",
+      "geo_point_2d": [48.8438656929, 2.3866294954],
+      "nombre_de_borne_wifi": 1,
+      "idpw": "PW0086",
+      "geo_shape": {
+        "type": "Point",
+        "coordinates": [2.386629495395026, 48.8438656928756]
+      },
+      "etat2": "Op\u00e9rationnel"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [2.3866294954, 48.8438656929]
+    },
+    "record_timestamp": "2020-02-12T08:00:33.449+01:00"
+  },
+  {
+    "datasetid": "sites-disposant-du-service-paris-wi-fi",
+    "recordid": "ad8426ea6c38d227967a4d2c4a90d521aeef7bf2",
+    "fields": {
+      "cp": "75012",
+      "nom_site": "CENTRE SPORTIF LEO LAGRANGE",
+      "arc_adresse": "68 BOULEVARD PONIATOWSKI",
+      "geo_point_2d": [48.8321648675, 2.39933433594],
+      "nombre_de_borne_wifi": 1,
+      "idpw": "PW0084",
+      "geo_shape": {
+        "type": "Point",
+        "coordinates": [2.399334335935606, 48.8321648675282]
+      },
+      "etat2": "Op\u00e9rationnel"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [2.39933433594, 48.8321648675]
+    },
+    "record_timestamp": "2020-02-12T08:00:33.449+01:00"
+  },
+  {
+    "datasetid": "sites-disposant-du-service-paris-wi-fi",
+    "recordid": "8bf21be6223682fdb8bcc3f8eaaf3eed153331ef",
+    "fields": {
+      "cp": "75012",
+      "nom_site": "MAIRIE DU 12 EME",
+      "arc_adresse": "130 AVENUE DAUMESNIL",
+      "geo_point_2d": [48.8411040785, 2.3883374877],
+      "nombre_de_borne_wifi": 1,
+      "idpw": "PW0012",
+      "geo_shape": {
+        "type": "Point",
+        "coordinates": [2.388337487704945, 48.841104078480036]
+      },
+      "etat2": "Op\u00e9rationnel"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [2.3883374877, 48.8411040785]
+    },
+    "record_timestamp": "2020-02-12T08:00:33.449+01:00"
+  },
+  {
+    "datasetid": "sites-disposant-du-service-paris-wi-fi",
+    "recordid": "5498e8c47476e600e1185d35b8ca02f1ab12f9b6",
+    "fields": {
+      "cp": "75012",
+      "nom_site": "PARC DE BERCY (ORANGERIE)",
+      "arc_adresse": "1 COUR CHAMONARD",
+      "geo_point_2d": [48.836091766, 2.38325225953],
+      "nombre_de_borne_wifi": 2,
+      "idpw": "PW0058-2",
+      "geo_shape": {
+        "type": "Point",
+        "coordinates": [2.383252259533802, 48.836091766026286]
+      },
+      "etat2": "Op\u00e9rationnel"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [2.38325225953, 48.836091766]
+    },
+    "record_timestamp": "2020-02-12T08:00:33.449+01:00"
+  },
+  {
+    "datasetid": "sites-disposant-du-service-paris-wi-fi",
+    "recordid": "448a087a605f82a4cd082f3dd13d08a8c4eeb0d3",
+    "fields": {
+      "cp": "75012",
+      "nom_site": "PARC FLORAL",
+      "arc_adresse": "ROUTE DE LA PYRAMIDE",
+      "geo_point_2d": [48.8401255449, 2.43983524718],
+      "nombre_de_borne_wifi": 5,
+      "idpw": "PW0200",
+      "geo_shape": {
+        "type": "Point",
+        "coordinates": [2.439835247184326, 48.840125544936114]
+      },
+      "etat2": "Op\u00e9rationnel"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [2.43983524718, 48.8401255449]
+    },
+    "record_timestamp": "2020-02-12T08:00:33.449+01:00"
+  },
+  {
+    "datasetid": "sites-disposant-du-service-paris-wi-fi",
+    "recordid": "ab2223d4fd2fc868dfb52b52781939e713403480",
+    "fields": {
+      "cp": "75012",
+      "nom_site": "PARC DE BERCY (TERRASSE BERCY)",
+      "arc_adresse": "1 COUR CHAMONARD",
+      "geo_point_2d": [48.8368107135, 2.3823502437],
+      "nombre_de_borne_wifi": 2,
+      "idpw": "PW0058-3",
+      "geo_shape": {
+        "type": "Point",
+        "coordinates": [2.382350243699965, 48.83681071348854]
+      },
+      "etat2": "Op\u00e9rationnel"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [2.3823502437, 48.8368107135]
+    },
+    "record_timestamp": "2020-02-12T08:00:33.449+01:00"
+  },
+  {
+    "datasetid": "sites-disposant-du-service-paris-wi-fi",
+    "recordid": "9d9f7f4fbc699bf27321ccb308f9fd977736b246",
+    "fields": {
+      "cp": "75012",
+      "nom_site": "ESPACE REUILLY",
+      "arc_adresse": "21 RUE ANTOINE JULIEN HENARD",
+      "geo_point_2d": [48.8425186203, 2.38963308439],
+      "nombre_de_borne_wifi": 3,
+      "idpw": "PW0222",
+      "geo_shape": {
+        "type": "Point",
+        "coordinates": [2.389633084390788, 48.84251862032188]
+      },
+      "etat2": "Op\u00e9rationnel"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [2.38963308439, 48.8425186203]
+    },
+    "record_timestamp": "2020-02-12T08:00:33.449+01:00"
+  },
+  {
+    "datasetid": "sites-disposant-du-service-paris-wi-fi",
+    "recordid": "774176f9dd51e77c3681eb424b6f0e5eb9ddc6e7",
+    "fields": {
+      "cp": "75012",
+      "nom_site": "GYMNASE REUILLY",
+      "arc_adresse": "11 RUE ANTOINE JULIEN HENARD",
+      "geo_point_2d": [48.8417054788, 2.38917144192],
+      "nombre_de_borne_wifi": 1,
+      "idpw": "PW0099",
+      "geo_shape": {
+        "type": "Point",
+        "coordinates": [2.389171441921968, 48.84170547884535]
+      },
+      "etat2": "Op\u00e9rationnel"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [2.38917144192, 48.8417054788]
+    },
+    "record_timestamp": "2020-02-12T08:00:33.449+01:00"
+  },
+  {
+    "datasetid": "sites-disposant-du-service-paris-wi-fi",
+    "recordid": "ca40c7fb788afd249655ca4e328f0c38d0d61967",
+    "fields": {
+      "cp": "75012",
+      "nom_site": "COULEE VERTE - BASTILLE",
+      "arc_adresse": "38 AVENUE DAUMESNIL",
+      "geo_point_2d": [48.847183089, 2.37641951695],
+      "nombre_de_borne_wifi": 1,
+      "idpw": "PW0216",
+      "geo_shape": {
+        "type": "Point",
+        "coordinates": [2.376419516945574, 48.84718308901555]
+      },
+      "etat2": "Op\u00e9rationnel"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [2.37641951695, 48.847183089]
+    },
+    "record_timestamp": "2020-02-12T08:00:33.449+01:00"
+  },
+  {
+    "datasetid": "sites-disposant-du-service-paris-wi-fi",
+    "recordid": "66304b68dfff3c5f1d5565650830a11836c55459",
+    "fields": {
+      "cp": "75012",
+      "nom_site": "DIR SYSTEMES INFORMATION ET NUMERIQUE",
+      "arc_adresse": "227 RUE DE BERCY",
+      "geo_point_2d": [48.8464756456, 2.36970554709],
+      "nombre_de_borne_wifi": 2,
+      "idpw": "PW0999",
+      "geo_shape": {
+        "type": "Point",
+        "coordinates": [2.369705547091575, 48.846475645558336]
+      },
+      "etat2": "Op\u00e9rationnel"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [2.36970554709, 48.8464756456]
+    },
+    "record_timestamp": "2020-02-12T08:00:33.449+01:00"
+  },
+  {
+    "datasetid": "sites-disposant-du-service-paris-wi-fi",
+    "recordid": "7d5f2b4c1a0ab6ac48613ddb1cabae92ceb68887",
+    "fields": {
+      "cp": "75012",
+      "nom_site": "ACTIVITES ARTISANALES ET CREATION DU 12EME",
+      "arc_adresse": "30 RUE DU FAUBOURG SAINT ANTOINE",
+      "geo_point_2d": [48.8524066125, 2.37164543506],
+      "nombre_de_borne_wifi": 3,
+      "idpw": "PW0120",
+      "geo_shape": {
+        "type": "Point",
+        "coordinates": [2.371645435064271, 48.852406612488366]
+      },
+      "etat2": "Op\u00e9rationnel"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [2.37164543506, 48.8524066125]
+    },
+    "record_timestamp": "2020-02-12T08:00:33.449+01:00"
+  },
+  {
+    "datasetid": "sites-disposant-du-service-paris-wi-fi",
+    "recordid": "87f4fa7964d388f6f150944076659485fe948942",
+    "fields": {
+      "cp": "75012",
+      "nom_site": "PARC DE BERCY (JARDINAGE)",
+      "arc_adresse": "1 COURS SAIT EMILION",
+      "geo_point_2d": [48.8324189858, 2.3854831767],
+      "nombre_de_borne_wifi": 1,
+      "idpw": "PW0058",
+      "geo_shape": {
+        "type": "Point",
+        "coordinates": [2.385483176701273, 48.83241898581484]
+      },
+      "etat2": "Op\u00e9rationnel"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [2.3854831767, 48.8324189858]
+    },
+    "record_timestamp": "2020-02-12T08:00:33.449+01:00"
+  },
+  {
+    "datasetid": "sites-disposant-du-service-paris-wi-fi",
+    "recordid": "40e0407d48091851b6c6af6f3371b708f9a09ab0",
+    "fields": {
+      "cp": "75012",
+      "nom_site": "COULEE VERTE - DAUMESNIL RAMBOUILLET",
+      "arc_adresse": "AVENUE DAUMESNIL - COIN RUE RAMBOUILLET",
+      "geo_point_2d": [48.8446762067, 2.38161576761],
+      "nombre_de_borne_wifi": 1,
+      "idpw": "PW0217",
+      "geo_shape": {
+        "type": "Point",
+        "coordinates": [2.381615767605796, 48.84467620670815]
+      },
+      "etat2": "Op\u00e9rationnel"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [2.38161576761, 48.8446762067]
+    },
+    "record_timestamp": "2020-02-12T08:00:33.449+01:00"
+  },
+  {
+    "datasetid": "sites-disposant-du-service-paris-wi-fi",
+    "recordid": "3b965b92ffbefbcf36e1e9e31ba63ac974f7ab56",
+    "fields": {
+      "cp": "75012",
+      "nom_site": "MAISON DE LA VIE ASSOCIATIVE ET CITOYENNE 12",
+      "arc_adresse": "181 AVENUE DAUMESNIL",
+      "geo_point_2d": [48.8404878126, 2.39250677653],
+      "nombre_de_borne_wifi": 6,
+      "idpw": "PW0030",
+      "geo_shape": {
+        "type": "Point",
+        "coordinates": [2.392506776531803, 48.84048781257586]
+      },
+      "etat2": "Op\u00e9rationnel"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [2.39250677653, 48.8404878126]
+    },
+    "record_timestamp": "2020-02-12T08:00:33.449+01:00"
+  },
+  {
+    "datasetid": "sites-disposant-du-service-paris-wi-fi",
+    "recordid": "107ef4de4b48f17c5b15bd44332f2cb120f1567f",
+    "fields": {
+      "cp": "75013",
+      "nom_site": "STADE CHARLETY",
+      "arc_adresse": "99 BOULEVARD KELLERMANN",
+      "geo_point_2d": [48.819334381, 2.34670165273],
+      "nombre_de_borne_wifi": 6,
+      "idpw": "PW0169",
+      "geo_shape": {
+        "type": "Point",
+        "coordinates": [2.3467016527330182, 48.819334380975064]
+      },
+      "etat2": "Op\u00e9rationnel"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [2.34670165273, 48.819334381]
+    },
+    "record_timestamp": "2020-02-12T08:00:33.449+01:00"
+  },
+  {
+    "datasetid": "sites-disposant-du-service-paris-wi-fi",
+    "recordid": "127a0d3dad5af9c0d74c554fa4a2259a2b85fe20",
+    "fields": {
+      "cp": "75013",
+      "nom_site": "CENTRE SPORTIF DUNOIS",
+      "arc_adresse": "70 RUE DUNOIS",
+      "geo_point_2d": [48.8331703217, 2.36627858766],
+      "nombre_de_borne_wifi": 1,
+      "idpw": "PW0079",
+      "geo_shape": {
+        "type": "Point",
+        "coordinates": [2.366278587662253, 48.83317032166053]
+      },
+      "etat2": "Op\u00e9rationnel"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [2.36627858766, 48.8331703217]
+    },
+    "record_timestamp": "2020-02-12T08:00:33.449+01:00"
+  },
+  {
+    "datasetid": "sites-disposant-du-service-paris-wi-fi",
+    "recordid": "e0546df7d50a97458fffe60e906403a9909460ea",
+    "fields": {
+      "cp": "75013",
+      "nom_site": "SQUARE DE LA RAFFINERIE SAY",
+      "arc_adresse": "147 BOULEVARD VINCENT AURIOL",
+      "geo_point_2d": [48.8325693774, 2.36204340104],
+      "nombre_de_borne_wifi": 1,
+      "idpw": "PW0174",
+      "geo_shape": {
+        "type": "Point",
+        "coordinates": [2.3620434010445353, 48.83256937742215]
+      },
+      "etat2": "Op\u00e9rationnel"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [2.36204340104, 48.8325693774]
+    },
+    "record_timestamp": "2020-02-12T08:00:33.449+01:00"
+  },
+  {
+    "datasetid": "sites-disposant-du-service-paris-wi-fi",
+    "recordid": "a0513e166a96c3794a05eed9097a8980337c1570",
+    "fields": {
+      "cp": "75013",
+      "nom_site": "SQUARE GEORGES DUHAMEL",
+      "arc_adresse": "RUE JEAN ANOUILH",
+      "geo_point_2d": [48.8319158284, 2.37761188927],
+      "nombre_de_borne_wifi": 1,
+      "idpw": "PW0171",
+      "geo_shape": {
+        "type": "Point",
+        "coordinates": [2.377611889269577, 48.83191582844804]
+      },
+      "etat2": "Op\u00e9rationnel"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [2.37761188927, 48.8319158284]
+    },
+    "record_timestamp": "2020-02-12T08:00:33.449+01:00"
+  },
+  {
+    "datasetid": "sites-disposant-du-service-paris-wi-fi",
+    "recordid": "26c99d7bdc52e6bebb0da3f83048075ad4f94f1a",
+    "fields": {
+      "cp": "75013",
+      "nom_site": "PERMIS DE CONSTRUIRE - USAGER",
+      "arc_adresse": "6 PLACE LEVI STRAUSS",
+      "geo_point_2d": [48.8304183053, 2.37528632402],
+      "nombre_de_borne_wifi": 1,
+      "idpw": "PW0223",
+      "geo_shape": {
+        "type": "Point",
+        "coordinates": [2.37528632402452, 48.830418305303915]
+      },
+      "etat2": "Op\u00e9rationnel"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [2.37528632402, 48.8304183053]
+    },
+    "record_timestamp": "2020-02-12T08:00:33.449+01:00"
+  },
+  {
+    "datasetid": "sites-disposant-du-service-paris-wi-fi",
+    "recordid": "9b135a12be0755ea87575315844c14ec600db565",
+    "fields": {
+      "cp": "75013",
+      "nom_site": "BIBLIOTHEQUE ITALIE",
+      "arc_adresse": "213 BOULEVARD VINCENT AURIOL",
+      "geo_point_2d": [48.830786809, 2.35675447673],
+      "nombre_de_borne_wifi": 1,
+      "idpw": "PW0114",
+      "geo_shape": {
+        "type": "Point",
+        "coordinates": [2.356754476729749, 48.830786809045556]
+      },
+      "etat2": "Op\u00e9rationnel"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [2.35675447673, 48.830786809]
+    },
+    "record_timestamp": "2020-02-12T08:00:33.449+01:00"
+  },
+  {
+    "datasetid": "sites-disposant-du-service-paris-wi-fi",
+    "recordid": "718b5f2b5df1b8d94104d3058046bdfceb42dca5",
+    "fields": {
+      "cp": "75013",
+      "nom_site": "CENTRE SPORTIF GEORGES CARPENTIER - BATIMENT TENNIS",
+      "arc_adresse": "81 BOULEVARD MASSENA",
+      "geo_point_2d": [48.8204906699, 2.3673087496],
+      "nombre_de_borne_wifi": 1,
+      "idpw": "PW0103-2",
+      "geo_shape": {
+        "type": "Point",
+        "coordinates": [2.367308749603462, 48.82049066987803]
+      },
+      "etat2": "Op\u00e9rationnel"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [2.3673087496, 48.8204906699]
+    },
+    "record_timestamp": "2020-02-12T08:00:33.449+01:00"
+  },
+  {
+    "datasetid": "sites-disposant-du-service-paris-wi-fi",
+    "recordid": "49613aa66ddeb775bedcc94606628e53d3233e58",
+    "fields": {
+      "cp": "75013",
+      "nom_site": "SQUARE GUSTAVE MESUREUR",
+      "arc_adresse": "105 RUE JEANNE D ARC",
+      "geo_point_2d": [48.8338461546, 2.3627918953],
+      "nombre_de_borne_wifi": 1,
+      "idpw": "PW0178",
+      "geo_shape": {
+        "type": "Point",
+        "coordinates": [2.362791895302856, 48.83384615455623]
+      },
+      "etat2": "Op\u00e9rationnel"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [2.3627918953, 48.8338461546]
+    },
+    "record_timestamp": "2020-02-12T08:00:33.449+01:00"
+  },
+  {
+    "datasetid": "sites-disposant-du-service-paris-wi-fi",
+    "recordid": "5072e1711b998140ea37c7aa4c2ce6c76d37f605",
+    "fields": {
+      "cp": "75013",
+      "nom_site": "SQUARE RENE LEGALL",
+      "arc_adresse": "43 RUE CORVISART",
+      "geo_point_2d": [48.8322068, 2.34741976643],
+      "nombre_de_borne_wifi": 1,
+      "idpw": "PW0069",
+      "geo_shape": {
+        "type": "Point",
+        "coordinates": [2.347419766430832, 48.83220679997316]
+      },
+      "etat2": "Op\u00e9rationnel"
+    },
+    "geometry": { "type": "Point", "coordinates": [2.34741976643, 48.8322068] },
+    "record_timestamp": "2020-02-12T08:00:33.449+01:00"
+  },
+  {
+    "datasetid": "sites-disposant-du-service-paris-wi-fi",
+    "recordid": "c2267934edfba298beeb7f7a7475faba2ada4562",
+    "fields": {
+      "cp": "75013",
+      "nom_site": "SQUARE HENRI CADIOU",
+      "arc_adresse": "69 BOULEVARD ARAGO",
+      "geo_point_2d": [48.8346490481, 2.34222254283],
+      "nombre_de_borne_wifi": 2,
+      "idpw": "PW0172",
+      "geo_shape": {
+        "type": "Point",
+        "coordinates": [2.342222542830242, 48.83464904809935]
+      },
+      "etat2": "Op\u00e9rationnel"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [2.34222254283, 48.8346490481]
+    },
+    "record_timestamp": "2020-02-12T08:00:33.449+01:00"
+  },
+  {
+    "datasetid": "sites-disposant-du-service-paris-wi-fi",
+    "recordid": "1900c1a339ab902cce3c8ed336a8ed5eb5903391",
+    "fields": {
+      "cp": "75013",
+      "nom_site": "STADE CHARLETY",
+      "arc_adresse": "99 BOULEVARD KELLERMANN",
+      "geo_point_2d": [48.8190213359, 2.34509522033],
+      "nombre_de_borne_wifi": 5,
+      "idpw": "PW0169-1",
+      "geo_shape": {
+        "type": "Point",
+        "coordinates": [2.345095220326008, 48.81902133591854]
+      },
+      "etat2": "Op\u00e9rationnel"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [2.34509522033, 48.8190213359]
+    },
+    "record_timestamp": "2020-02-12T08:00:33.449+01:00"
+  },
+  {
+    "datasetid": "sites-disposant-du-service-paris-wi-fi",
+    "recordid": "56006338f49e18d8f55cbfe822e55d2866ab1100",
+    "fields": {
+      "cp": "75013",
+      "nom_site": "PROMENADE PISCINE JOSEPHINE BAKER",
+      "arc_adresse": "QUAI FRANCOIS MAURIAC",
+      "geo_point_2d": [48.836030316, 2.37589085119],
+      "nombre_de_borne_wifi": 1,
+      "geo_shape": {
+        "type": "Point",
+        "coordinates": [2.375890851188937, 48.83603031598058]
+      },
+      "etat2": "En \u00e9tude"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [2.37589085119, 48.836030316]
+    },
+    "record_timestamp": "2020-02-12T08:00:33.449+01:00"
+  },
+  {
+    "datasetid": "sites-disposant-du-service-paris-wi-fi",
+    "recordid": "b98bdd0c03b0dd41bea41b85d48e71c541071b0a",
+    "fields": {
+      "cp": "75013",
+      "nom_site": "SQUARE HELOISE ET ABELARD - PARIS NATURE MAISON DES 5 SENS",
+      "arc_adresse": "22 RUE PIERRE GOURDAULT",
+      "geo_point_2d": [48.8309190436, 2.37010695364],
+      "nombre_de_borne_wifi": 1,
+      "idpw": "PW0066",
+      "geo_shape": {
+        "type": "Point",
+        "coordinates": [2.370106953637173, 48.83091904359557]
+      },
+      "etat2": "Op\u00e9rationnel"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [2.37010695364, 48.8309190436]
+    },
+    "record_timestamp": "2020-02-12T08:00:33.449+01:00"
+  },
+  {
+    "datasetid": "sites-disposant-du-service-paris-wi-fi",
+    "recordid": "44e4e120513bf50bed06f8ce01a6f9740997f79e",
+    "fields": {
+      "cp": "75013",
+      "nom_site": "BIBLIOTHEQUE MELVILLE ET MARGUERITE DURAND",
+      "arc_adresse": "79 RUE NATIONALE",
+      "geo_point_2d": [48.8267869711, 2.36643991184],
+      "nombre_de_borne_wifi": 3,
+      "idpw": "PW0221",
+      "geo_shape": {
+        "type": "Point",
+        "coordinates": [2.366439911836686, 48.8267869710745]
+      },
+      "etat2": "Op\u00e9rationnel"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [2.36643991184, 48.8267869711]
+    },
+    "record_timestamp": "2020-02-12T08:00:33.449+01:00"
+  },
+  {
+    "datasetid": "sites-disposant-du-service-paris-wi-fi",
+    "recordid": "de6b7b343a825677a7b3653f26753fe3e917bf47",
+    "fields": {
+      "cp": "75013",
+      "nom_site": "PARC DE CHOISY",
+      "arc_adresse": "160 AVENUE DE CHOISY",
+      "geo_point_2d": [48.827750994, 2.35959561395],
+      "nombre_de_borne_wifi": 2,
+      "idpw": "PW0062",
+      "geo_shape": {
+        "type": "Point",
+        "coordinates": [2.35959561394622, 48.82775099396245]
+      },
+      "etat2": "Op\u00e9rationnel"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [2.35959561395, 48.827750994]
+    },
+    "record_timestamp": "2020-02-12T08:00:33.449+01:00"
+  },
+  {
+    "datasetid": "sites-disposant-du-service-paris-wi-fi",
+    "recordid": "f356643be095008b26aa132463a016a0786ad527",
+    "fields": {
+      "cp": "75013",
+      "nom_site": "MAIRIE DU 13 EME",
+      "arc_adresse": "1 PLACE D ITALIE",
+      "geo_point_2d": [48.8323144109, 2.35531334924],
+      "nombre_de_borne_wifi": 2,
+      "idpw": "PW0013",
+      "geo_shape": {
+        "type": "Point",
+        "coordinates": [2.355313349237969, 48.83231441086375]
+      },
+      "etat2": "Op\u00e9rationnel"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [2.35531334924, 48.8323144109]
+    },
+    "record_timestamp": "2020-02-12T08:00:33.449+01:00"
+  },
+  {
+    "datasetid": "sites-disposant-du-service-paris-wi-fi",
+    "recordid": "e01fdac26bcb45cdfe6bf8a6d520892bca297819",
+    "fields": {
+      "cp": "75013",
+      "nom_site": "SQUARE JEAN CLAUDE NICOLAS FORESTIER",
+      "arc_adresse": "79 BOULEVARD KELLERMANN",
+      "geo_point_2d": [48.8198305601, 2.34775475511],
+      "nombre_de_borne_wifi": 2,
+      "idpw": "PW0179",
+      "geo_shape": {
+        "type": "Point",
+        "coordinates": [2.347754755107914, 48.81983056005852]
+      },
+      "etat2": "Op\u00e9rationnel"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [2.34775475511, 48.8198305601]
+    },
+    "record_timestamp": "2020-02-12T08:00:33.449+01:00"
+  },
+  {
+    "datasetid": "sites-disposant-du-service-paris-wi-fi",
+    "recordid": "d1875039646fea975f1b5a89418df8ada5783af4",
+    "fields": {
+      "cp": "75013",
+      "nom_site": "PREFOURRIERE CHARLETY",
+      "arc_adresse": "8 RUE THOMIRE",
+      "geo_point_2d": [48.819396456, 2.34838164871],
+      "nombre_de_borne_wifi": 1,
+      "idpw": "PW0224",
+      "geo_shape": {
+        "type": "Point",
+        "coordinates": [2.348381648711728, 48.81939645595856]
+      },
+      "etat2": "Op\u00e9rationnel"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [2.34838164871, 48.819396456]
+    },
+    "record_timestamp": "2020-02-12T08:00:33.449+01:00"
+  },
+  {
+    "datasetid": "sites-disposant-du-service-paris-wi-fi",
+    "recordid": "a309c42b7d7ae3b9543158723c2ec415533014ed",
+    "fields": {
+      "cp": "75013",
+      "nom_site": "FOURRIERE CHEVALERET",
+      "arc_adresse": "5 SQUARE DUNOIS",
+      "geo_point_2d": [48.8337531924, 2.36694211219],
+      "nombre_de_borne_wifi": 1,
+      "idpw": "PW0225",
+      "geo_shape": {
+        "type": "Point",
+        "coordinates": [2.366942112192091, 48.833753192432994]
+      },
+      "etat2": "Op\u00e9rationnel"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [2.36694211219, 48.8337531924]
+    },
+    "record_timestamp": "2020-02-12T08:00:33.449+01:00"
+  },
+  {
+    "datasetid": "sites-disposant-du-service-paris-wi-fi",
+    "recordid": "afa049e3df54acbd933442e776fba7aa3a5a9f0f",
+    "fields": {
+      "cp": "75013",
+      "nom_site": "PARC DE CHOISY",
+      "arc_adresse": "160 AVENUE DE CHOISY",
+      "geo_point_2d": [48.8281858231, 2.3586267374],
+      "nombre_de_borne_wifi": 2,
+      "idpw": "PW0157",
+      "geo_shape": {
+        "type": "Point",
+        "coordinates": [2.358626737402552, 48.828185823069624]
+      },
+      "etat2": "Op\u00e9rationnel"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [2.3586267374, 48.8281858231]
+    },
+    "record_timestamp": "2020-02-12T08:00:33.449+01:00"
+  },
+  {
+    "datasetid": "sites-disposant-du-service-paris-wi-fi",
+    "recordid": "83a0ac50bb6f75c08b99ba282635a3b36d6f998e",
+    "fields": {
+      "cp": "75013",
+      "nom_site": "SQUARE PAUL GRIMAULT",
+      "arc_adresse": "20 RUE DE LA FONTAINE A MULARD",
+      "geo_point_2d": [48.8230435797, 2.3487751246],
+      "nombre_de_borne_wifi": 1,
+      "idpw": "PW0180",
+      "geo_shape": {
+        "type": "Point",
+        "coordinates": [2.348775124598702, 48.823043579724974]
+      },
+      "etat2": "Op\u00e9rationnel"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [2.3487751246, 48.8230435797]
+    },
+    "record_timestamp": "2020-02-12T08:00:33.449+01:00"
+  },
+  {
+    "datasetid": "sites-disposant-du-service-paris-wi-fi",
+    "recordid": "935bebdd41a56a5addd16f7c801211af11f4926d",
+    "fields": {
+      "cp": "75013",
+      "nom_site": "MAISON DE LA VIE ASSOCIATIVE ET CITOYENNE  13",
+      "arc_adresse": "11 RUE CAILLAUX",
+      "geo_point_2d": [48.8226333452, 2.36131811251],
+      "nombre_de_borne_wifi": 1,
+      "idpw": "PW0039",
+      "geo_shape": {
+        "type": "Point",
+        "coordinates": [2.361318112511234, 48.822633345220225]
+      },
+      "etat2": "Op\u00e9rationnel"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [2.36131811251, 48.8226333452]
+    },
+    "record_timestamp": "2020-02-12T08:00:33.449+01:00"
+  },
+  {
+    "datasetid": "sites-disposant-du-service-paris-wi-fi",
+    "recordid": "2da5dfa4f7a0e0dd9d00b8a8bfe998a14dc45263",
+    "fields": {
+      "cp": "75013",
+      "nom_site": "CENTRE SPORTIF CHARLES MOUREU",
+      "arc_adresse": "17 AVENUE EDISON",
+      "geo_point_2d": [48.8278012364, 2.36413466138],
+      "nombre_de_borne_wifi": 1,
+      "idpw": "PW0074",
+      "geo_shape": {
+        "type": "Point",
+        "coordinates": [2.364134661375058, 48.82780123635454]
+      },
+      "etat2": "Op\u00e9rationnel"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [2.36413466138, 48.8278012364]
+    },
+    "record_timestamp": "2020-02-12T08:00:33.449+01:00"
+  },
+  {
+    "datasetid": "sites-disposant-du-service-paris-wi-fi",
+    "recordid": "5e0c0154a927d8fb524c92368d3d6571e68e1146",
+    "fields": {
+      "cp": "75013",
+      "nom_site": "CENTRE SPORTIF GEORGES CARPENTIER",
+      "arc_adresse": "81 BOULEVARD MASSENA",
+      "geo_point_2d": [48.8202371888, 2.36812515131],
+      "nombre_de_borne_wifi": 3,
+      "idpw": "PW0103",
+      "geo_shape": {
+        "type": "Point",
+        "coordinates": [2.368125151306785, 48.820237188844665]
+      },
+      "etat2": "Op\u00e9rationnel"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [2.36812515131, 48.8202371888]
+    },
+    "record_timestamp": "2020-02-12T08:00:33.449+01:00"
+  },
+  {
+    "datasetid": "sites-disposant-du-service-paris-wi-fi",
+    "recordid": "afd958ce9d85e0a61eb399a57b1cbb97a431579c",
+    "fields": {
+      "cp": "75013",
+      "nom_site": "CENTRE SPORTIF GEORGES CARPENTIER - BUREAU",
+      "arc_adresse": "81 BOULEVARD MASSENA (BUREAU CENTRE SPORTIF)",
+      "geo_point_2d": [48.8209032702, 2.36844617431],
+      "nombre_de_borne_wifi": 2,
+      "idpw": "PW0103-1",
+      "geo_shape": {
+        "type": "Point",
+        "coordinates": [2.368446174308278, 48.82090327022334]
+      },
+      "etat2": "Op\u00e9rationnel"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [2.36844617431, 48.8209032702]
+    },
+    "record_timestamp": "2020-02-12T08:00:33.449+01:00"
+  },
+  {
+    "datasetid": "sites-disposant-du-service-paris-wi-fi",
+    "recordid": "63177f103a4ad3241d25a7ab39c7ff18bc055071",
+    "fields": {
+      "cp": "75013",
+      "nom_site": "BIBLIOTHEQUE GLACIERE MARINA TSVETA\u00cfEVA",
+      "arc_adresse": "132 RUE DE LA GLACIERE",
+      "geo_point_2d": [48.8273180542, 2.34199371698],
+      "nombre_de_borne_wifi": 2,
+      "idpw": "PW0125",
+      "geo_shape": {
+        "type": "Point",
+        "coordinates": [2.341993716984507, 48.827318054189206]
+      },
+      "etat2": "Op\u00e9rationnel"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [2.34199371698, 48.8273180542]
+    },
+    "record_timestamp": "2020-02-12T08:00:33.449+01:00"
+  },
+  {
+    "datasetid": "sites-disposant-du-service-paris-wi-fi",
+    "recordid": "e70c4f576da46fb029b064009669991b627fab5a",
+    "fields": {
+      "cp": "75014",
+      "nom_site": "SQUARE JULIA BARTET",
+      "arc_adresse": "1 RUE JULIA BARTET",
+      "geo_point_2d": [48.8256855011, 2.30282480885],
+      "nombre_de_borne_wifi": 1,
+      "idpw": "PW0183",
+      "geo_shape": {
+        "type": "Point",
+        "coordinates": [2.302824808848507, 48.82568550112752]
+      },
+      "etat2": "Op\u00e9rationnel"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [2.30282480885, 48.8256855011]
+    },
+    "record_timestamp": "2020-02-12T08:00:33.449+01:00"
+  },
+  {
+    "datasetid": "sites-disposant-du-service-paris-wi-fi",
+    "recordid": "04263482256fa52741eec8cb9a454f353871a064",
+    "fields": {
+      "cp": "75014",
+      "nom_site": "PARC MONTSOURIS - STATION RER",
+      "arc_adresse": "BOULEVARD JOURDAN",
+      "geo_point_2d": [48.8223310676, 2.32949179787],
+      "nombre_de_borne_wifi": 1,
+      "idpw": "PW0214",
+      "geo_shape": {
+        "type": "Point",
+        "coordinates": [2.329491797866467, 48.822331067614996]
+      },
+      "etat2": "Op\u00e9rationnel"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [2.32949179787, 48.8223310676]
+    },
+    "record_timestamp": "2020-02-12T08:00:33.449+01:00"
+  },
+  {
+    "datasetid": "sites-disposant-du-service-paris-wi-fi",
+    "recordid": "1a84693fec779667e7200d54ec0d4705b87f60f9",
+    "fields": {
+      "cp": "75014",
+      "nom_site": "PARC MONTSOURIS - GARDE COTY",
+      "arc_adresse": "2 RUE GAZAN",
+      "geo_point_2d": [48.8245191985, 2.33987236739],
+      "nombre_de_borne_wifi": 1,
+      "idpw": "PW0212",
+      "geo_shape": {
+        "type": "Point",
+        "coordinates": [2.339872367385461, 48.82451919846646]
+      },
+      "etat2": "Op\u00e9rationnel"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [2.33987236739, 48.8245191985]
+    },
+    "record_timestamp": "2020-02-12T08:00:33.449+01:00"
+  },
+  {
+    "datasetid": "sites-disposant-du-service-paris-wi-fi",
+    "recordid": "cef2c6fe0112911ce0037b8652714b98d5acbbe3",
+    "fields": {
+      "cp": "75014",
+      "nom_site": "BIBLIOTHEQUE AIME CESAIRE",
+      "arc_adresse": "5 RUE DE RIDDER",
+      "geo_point_2d": [48.8312312482, 2.31166233211],
+      "nombre_de_borne_wifi": 2,
+      "idpw": "PW0053",
+      "geo_shape": {
+        "type": "Point",
+        "coordinates": [2.311662332111938, 48.83123124818045]
+      },
+      "etat2": "Op\u00e9rationnel"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [2.31166233211, 48.8312312482]
+    },
+    "record_timestamp": "2020-02-12T08:00:33.449+01:00"
+  },
+  {
+    "datasetid": "sites-disposant-du-service-paris-wi-fi",
+    "recordid": "907b55e2c95f03d9adb56f7589beee9523b50644",
+    "fields": {
+      "cp": "75014",
+      "nom_site": "MAISON DE LA VIE ASSOCIATIVE ET CITOYENNE  14",
+      "arc_adresse": "22 RUE DEPARCIEUX",
+      "geo_point_2d": [48.83559168, 2.3258213932],
+      "nombre_de_borne_wifi": 2,
+      "idpw": "PW0040",
+      "geo_shape": {
+        "type": "Point",
+        "coordinates": [2.325821393195146, 48.8355916799591]
+      },
+      "etat2": "Op\u00e9rationnel"
+    },
+    "geometry": { "type": "Point", "coordinates": [2.3258213932, 48.83559168] },
+    "record_timestamp": "2020-02-12T08:00:33.449+01:00"
+  },
+  {
+    "datasetid": "sites-disposant-du-service-paris-wi-fi",
+    "recordid": "1d796d0bb017207b40e8347ad2c74e1d5e320db3",
+    "fields": {
+      "cp": "75014",
+      "nom_site": "MAIRIE DU 14 EME",
+      "arc_adresse": "2 PLACE FERDINAND BRUNOT",
+      "geo_point_2d": [48.8329972796, 2.32685435695],
+      "nombre_de_borne_wifi": 1,
+      "idpw": "PW0035",
+      "geo_shape": {
+        "type": "Point",
+        "coordinates": [2.326854356949057, 48.83299727958771]
+      },
+      "etat2": "Op\u00e9rationnel"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [2.32685435695, 48.8329972796]
+    },
+    "record_timestamp": "2020-02-12T08:00:33.449+01:00"
+  },
+  {
+    "datasetid": "sites-disposant-du-service-paris-wi-fi",
+    "recordid": "46c15817e426f4e0064ffdc32e5fa06d092f15cf",
+    "fields": {
+      "cp": "75014",
+      "nom_site": "SQUARE CLAUDE NICOLAS LEDOUX",
+      "arc_adresse": "2 PLACE DENFERT ROCHEREAU",
+      "geo_point_2d": [48.8342318805, 2.33212851833],
+      "nombre_de_borne_wifi": 2,
+      "idpw": "PW0199",
+      "geo_shape": {
+        "type": "Point",
+        "coordinates": [2.332128518332322, 48.83423188051034]
+      },
+      "etat2": "Op\u00e9rationnel"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [2.33212851833, 48.8342318805]
+    },
+    "record_timestamp": "2020-02-12T08:00:33.449+01:00"
+  },
+  {
+    "datasetid": "sites-disposant-du-service-paris-wi-fi",
+    "recordid": "1ba620e4d1c4643090aa2d6f9c95204d4ca2a4b7",
+    "fields": {
+      "cp": "75014",
+      "nom_site": "SQUARE DU CHANOINE VIOLLET",
+      "arc_adresse": "72 RUE DU MOULIN VERT",
+      "geo_point_2d": [48.8312962023, 2.32009649026],
+      "nombre_de_borne_wifi": 1,
+      "idpw": "PW0185",
+      "geo_shape": {
+        "type": "Point",
+        "coordinates": [2.320096490259549, 48.83129620230284]
+      },
+      "etat2": "Op\u00e9rationnel"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [2.32009649026, 48.8312962023]
+    },
+    "record_timestamp": "2020-02-12T08:00:33.449+01:00"
+  },
+  {
+    "datasetid": "sites-disposant-du-service-paris-wi-fi",
+    "recordid": "1d85a8d5e376376e73c7216c1cf948976095bd75",
+    "fields": {
+      "cp": "75014",
+      "nom_site": "SQUARE SERMENT DE KOUFRA",
+      "arc_adresse": "30 AVENUE ERNEST REYER",
+      "geo_point_2d": [48.8215934539, 2.32303498218],
+      "nombre_de_borne_wifi": 1,
+      "idpw": "PW0188",
+      "geo_shape": {
+        "type": "Point",
+        "coordinates": [2.323034982175868, 48.82159345390936]
+      },
+      "etat2": "Op\u00e9rationnel"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [2.32303498218, 48.8215934539]
+    },
+    "record_timestamp": "2020-02-12T08:00:33.449+01:00"
+  },
+  {
+    "datasetid": "sites-disposant-du-service-paris-wi-fi",
+    "recordid": "5b4b3fe2971ad480d8330a7f935c5d6e31c6a9b8",
+    "fields": {
+      "cp": "75014",
+      "nom_site": "BIBLIOTHEQUE BENOITE GROULT",
+      "arc_adresse": "25 RUE DU COMMANDANT RENE MOUCHOTTE",
+      "geo_point_2d": [48.8382803073, 2.31987510528],
+      "nombre_de_borne_wifi": 1,
+      "idpw": "PW0218",
+      "geo_shape": {
+        "type": "Point",
+        "coordinates": [2.319875105283682, 48.838280307264014]
+      },
+      "etat2": "Op\u00e9rationnel"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [2.31987510528, 48.8382803073]
+    },
+    "record_timestamp": "2020-02-12T08:00:33.449+01:00"
+  },
+  {
+    "datasetid": "sites-disposant-du-service-paris-wi-fi",
+    "recordid": "4303a2a1eef3abab96b453774f824f70b09547ea",
+    "fields": {
+      "cp": "75014",
+      "nom_site": "SQUARE ASPIRANT DUNAND",
+      "arc_adresse": "RUE MOUTON DUVERNET",
+      "geo_point_2d": [48.8321552307, 2.32688453686],
+      "nombre_de_borne_wifi": 1,
+      "idpw": "PW0063",
+      "geo_shape": {
+        "type": "Point",
+        "coordinates": [2.326884536863806, 48.832155230735985]
+      },
+      "etat2": "Op\u00e9rationnel"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [2.32688453686, 48.8321552307]
+    },
+    "record_timestamp": "2020-02-12T08:00:33.449+01:00"
+  },
+  {
+    "datasetid": "sites-disposant-du-service-paris-wi-fi",
+    "recordid": "ab148aca9a54e6e24fde7c59b88377fa0943f06d",
+    "fields": {
+      "cp": "75014",
+      "nom_site": "BIBLIOTHEQUE BRASSENS",
+      "arc_adresse": "38 RUE GASSENDI",
+      "geo_point_2d": [48.8337666097, 2.32585597789],
+      "nombre_de_borne_wifi": 2,
+      "idpw": "PW0054",
+      "geo_shape": {
+        "type": "Point",
+        "coordinates": [2.325855977890741, 48.8337666096961]
+      },
+      "etat2": "Op\u00e9rationnel"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [2.32585597789, 48.8337666097]
+    },
+    "record_timestamp": "2020-02-12T08:00:33.449+01:00"
+  },
+  {
+    "datasetid": "sites-disposant-du-service-paris-wi-fi",
+    "recordid": "64d134de93d7e948f9f4f6d6c2e712603870d4cc",
+    "fields": {
+      "cp": "75014",
+      "nom_site": "SQUARE FERDINAND BRUNOT",
+      "arc_adresse": "PLACE FERDINAND BRUNOT",
+      "geo_point_2d": [48.832851161, 2.32676722614],
+      "nombre_de_borne_wifi": 1,
+      "idpw": "PW0065",
+      "geo_shape": {
+        "type": "Point",
+        "coordinates": [2.326767226137216, 48.832851160952806]
+      },
+      "etat2": "Op\u00e9rationnel"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [2.32676722614, 48.832851161]
+    },
+    "record_timestamp": "2020-02-12T08:00:33.449+01:00"
+  },
+  {
+    "datasetid": "sites-disposant-du-service-paris-wi-fi",
+    "recordid": "859539e7589d8bfbfa3bfcfc3cf301f6205f8472",
+    "fields": {
+      "cp": "75014",
+      "nom_site": "MUSEE DE LA LIBERATION",
+      "arc_adresse": "4 AVENUE DU COLONEL ROL TANGUY PAVILLON OUEST",
+      "geo_point_2d": [48.8339906348, 2.33201446003],
+      "nombre_de_borne_wifi": 5,
+      "idpw": "PW0201",
+      "geo_shape": {
+        "type": "Point",
+        "coordinates": [2.332014460030507, 48.833990634788535]
+      },
+      "etat2": "Op\u00e9rationnel"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [2.33201446003, 48.8339906348]
+    },
+    "record_timestamp": "2020-02-12T08:00:33.449+01:00"
+  },
+  {
+    "datasetid": "sites-disposant-du-service-paris-wi-fi",
+    "recordid": "f651af996afa74db0d1bc234d086f52d77754b6a",
+    "fields": {
+      "cp": "75014",
+      "nom_site": "GYMNASE ALICE MILLIAT",
+      "arc_adresse": "11 T RUE D ALESIA",
+      "geo_point_2d": [48.8271609094, 2.33626383901],
+      "nombre_de_borne_wifi": 1,
+      "idpw": "PW0094",
+      "geo_shape": {
+        "type": "Point",
+        "coordinates": [2.336263839006833, 48.82716090943828]
+      },
+      "etat2": "Op\u00e9rationnel"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [2.33626383901, 48.8271609094]
+    },
+    "record_timestamp": "2020-02-12T08:00:33.449+01:00"
+  },
+  {
+    "datasetid": "sites-disposant-du-service-paris-wi-fi",
+    "recordid": "cd02a6840441bb5810d9df7e581644bcd9f31eca",
+    "fields": {
+      "cp": "75014",
+      "nom_site": "PARC MONTSOURIS - GARDE GAZAN",
+      "arc_adresse": "2 RUE GAZAN",
+      "geo_point_2d": [48.8243676449, 2.33982556429],
+      "nombre_de_borne_wifi": 1,
+      "idpw": "PW0213",
+      "geo_shape": {
+        "type": "Point",
+        "coordinates": [2.3398255642883, 48.82436764489121]
+      },
+      "etat2": "Op\u00e9rationnel"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [2.33982556429, 48.8243676449]
+    },
+    "record_timestamp": "2020-02-12T08:00:33.449+01:00"
+  },
+  {
+    "datasetid": "sites-disposant-du-service-paris-wi-fi",
+    "recordid": "edd031b4e4a51db89ae8a9a7d8e1b4abbe8eea37",
+    "fields": {
+      "cp": "75014",
+      "nom_site": "POINT PARIS EMPLOI",
+      "arc_adresse": "12 RUE PIERRE CASTAGNOU",
+      "geo_point_2d": [48.8325230687, 2.32581431984],
+      "nombre_de_borne_wifi": 1,
+      "idpw": "PW0195",
+      "geo_shape": {
+        "type": "Point",
+        "coordinates": [2.325814319838129, 48.83252306871407]
+      },
+      "etat2": "Op\u00e9rationnel"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [2.32581431984, 48.8325230687]
+    },
+    "record_timestamp": "2020-02-12T08:00:33.449+01:00"
+  },
+  {
+    "datasetid": "sites-disposant-du-service-paris-wi-fi",
+    "recordid": "f6f22450cfdfa76088ef6e4cca084b37144c5dbc",
+    "fields": {
+      "cp": "75015",
+      "nom_site": "BIBLIOTHEQUE MARGUERITE YOURCENAR",
+      "arc_adresse": "41 RUE D ALLERAY",
+      "geo_point_2d": [48.836806921, 2.30348080218],
+      "nombre_de_borne_wifi": 5,
+      "idpw": "PW0046",
+      "geo_shape": {
+        "type": "Point",
+        "coordinates": [2.303480802178814, 48.8368069210248]
+      },
+      "etat2": "Op\u00e9rationnel"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [2.30348080218, 48.836806921]
+    },
+    "record_timestamp": "2020-02-12T08:00:33.449+01:00"
+  },
+  {
+    "datasetid": "sites-disposant-du-service-paris-wi-fi",
+    "recordid": "c1b56071accd187cad1ee045c55c7d5b619a166e",
+    "fields": {
+      "cp": "75015",
+      "nom_site": "CENTRE SPORTIF SUZANNE LENGLEN - ENTREE",
+      "arc_adresse": "2 RUE LOUIS ARMAND",
+      "geo_point_2d": [48.8330706432, 2.27657635711],
+      "nombre_de_borne_wifi": 1,
+      "idpw": "PW0173-1",
+      "geo_shape": {
+        "type": "Point",
+        "coordinates": [2.276576357106314, 48.83307064322777]
+      },
+      "etat2": "Op\u00e9rationnel"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [2.27657635711, 48.8330706432]
+    },
+    "record_timestamp": "2020-02-12T08:00:33.449+01:00"
+  },
+  {
+    "datasetid": "sites-disposant-du-service-paris-wi-fi",
+    "recordid": "789e14c5831c494974b81c1023d1de60a2be5fe9",
+    "fields": {
+      "cp": "75015",
+      "nom_site": "PREFOURRIERE BALARD",
+      "arc_adresse": "1 RUE EMILE HEMINGWAY",
+      "geo_point_2d": [48.8375955343, 2.27517600716],
+      "nombre_de_borne_wifi": 1,
+      "geo_shape": {
+        "type": "Point",
+        "coordinates": [2.275176007155638, 48.83759553433298]
+      },
+      "etat2": "En \u00e9tude"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [2.27517600716, 48.8375955343]
+    },
+    "record_timestamp": "2020-02-12T08:00:33.449+01:00"
+  },
+  {
+    "datasetid": "sites-disposant-du-service-paris-wi-fi",
+    "recordid": "376766dab5c5e41e2b5930e0a5115313f5210587",
+    "fields": {
+      "cp": "75015",
+      "nom_site": "BIBLIOTHEQUE GUTENBERG",
+      "arc_adresse": "8 RUE DE LA MONTAGNE D AULAS",
+      "geo_point_2d": [48.8402076064, 2.27870642421],
+      "nombre_de_borne_wifi": 1,
+      "idpw": "PW0145",
+      "geo_shape": {
+        "type": "Point",
+        "coordinates": [2.278706424214254, 48.84020760641956]
+      },
+      "etat2": "Op\u00e9rationnel"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [2.27870642421, 48.8402076064]
+    },
+    "record_timestamp": "2020-02-12T08:00:33.449+01:00"
+  },
+  {
+    "datasetid": "sites-disposant-du-service-paris-wi-fi",
+    "recordid": "a7b673dca3c593fa624aeec5db16490ed501ac0c",
+    "fields": {
+      "cp": "75015",
+      "nom_site": "CENTRE SPORTIF PLAINE",
+      "arc_adresse": "13 RUE DU GENERAL GUILLAUMAT",
+      "geo_point_2d": [48.8280331741, 2.29332761077],
+      "nombre_de_borne_wifi": 1,
+      "idpw": "PW0088",
+      "geo_shape": {
+        "type": "Point",
+        "coordinates": [2.293327610769408, 48.828033174092695]
+      },
+      "etat2": "Op\u00e9rationnel"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [2.29332761077, 48.8280331741]
+    },
+    "record_timestamp": "2020-02-12T08:00:33.449+01:00"
+  },
+  {
+    "datasetid": "sites-disposant-du-service-paris-wi-fi",
+    "recordid": "81862b4179c4358b9afa1f8d48740f0efb70e26b",
+    "fields": {
+      "cp": "75015",
+      "nom_site": "BIBLIOTHEQUE VAUGIRARD",
+      "arc_adresse": "154 RUE LECOURBE",
+      "geo_point_2d": [48.8417075067, 2.299350322],
+      "nombre_de_borne_wifi": 2,
+      "idpw": "PW0137",
+      "geo_shape": {
+        "type": "Point",
+        "coordinates": [2.299350321997607, 48.84170750668819]
+      },
+      "etat2": "Op\u00e9rationnel"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [2.299350322, 48.8417075067]
+    },
+    "record_timestamp": "2020-02-12T08:00:33.449+01:00"
+  },
+  {
+    "datasetid": "sites-disposant-du-service-paris-wi-fi",
+    "recordid": "1aa9d3548c509372716cc4f752aad2c7daace925",
+    "fields": {
+      "cp": "75015",
+      "nom_site": "MAIRIE DU 15 EME",
+      "arc_adresse": "31 RUE DE PECLET",
+      "geo_point_2d": [48.8415157494, 2.29988438758],
+      "nombre_de_borne_wifi": 2,
+      "idpw": "PW0014",
+      "geo_shape": {
+        "type": "Point",
+        "coordinates": [2.299884387584236, 48.841515749400145]
+      },
+      "etat2": "Op\u00e9rationnel"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [2.29988438758, 48.8415157494]
+    },
+    "record_timestamp": "2020-02-12T08:00:33.449+01:00"
+  },
+  {
+    "datasetid": "sites-disposant-du-service-paris-wi-fi",
+    "recordid": "8e05c685390f65d7e83c7d42f8c7499d38f1397d",
+    "fields": {
+      "cp": "75015",
+      "nom_site": "MAISON DE LA VIE ASSOCIATIVE ET CITOYENNE 15",
+      "arc_adresse": "22 RUE DE LA SAIDA",
+      "geo_point_2d": [48.8318321726, 2.29575609576],
+      "nombre_de_borne_wifi": 2,
+      "idpw": "PW0031",
+      "geo_shape": {
+        "type": "Point",
+        "coordinates": [2.295756095762723, 48.83183217258378]
+      },
+      "etat2": "Op\u00e9rationnel"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [2.29575609576, 48.8318321726]
+    },
+    "record_timestamp": "2020-02-12T08:00:33.449+01:00"
+  },
+  {
+    "datasetid": "sites-disposant-du-service-paris-wi-fi",
+    "recordid": "3dbb4a17d082bade236676022e196d6f9f3cb128",
+    "fields": {
+      "cp": "75015",
+      "nom_site": "ESPACE PARISIEN POUR L INSERTION 7 15 16",
+      "arc_adresse": "14 RUE MOISANT",
+      "geo_point_2d": [48.8423101169, 2.3172057616],
+      "nombre_de_borne_wifi": 1,
+      "idpw": "PW0162",
+      "geo_shape": {
+        "type": "Point",
+        "coordinates": [2.317205761596205, 48.842310116893366]
+      },
+      "etat2": "Op\u00e9rationnel"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [2.3172057616, 48.8423101169]
+    },
+    "record_timestamp": "2020-02-12T08:00:33.449+01:00"
+  },
+  {
+    "datasetid": "sites-disposant-du-service-paris-wi-fi",
+    "recordid": "c782ae268088214736e8266cd8d4fdeb3d50c9ae",
+    "fields": {
+      "cp": "75015",
+      "nom_site": "BIBLIOTHEQUE ANDR\u00c9E CHEDID",
+      "arc_adresse": "36-40 RUE EMERIAU",
+      "geo_point_2d": [48.8497413105, 2.28613674375],
+      "nombre_de_borne_wifi": 3,
+      "idpw": "PW0117",
+      "geo_shape": {
+        "type": "Point",
+        "coordinates": [2.286136743745502, 48.84974131047438]
+      },
+      "etat2": "Op\u00e9rationnel"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [2.28613674375, 48.8497413105]
+    },
+    "record_timestamp": "2020-02-12T08:00:33.449+01:00"
+  },
+  {
+    "datasetid": "sites-disposant-du-service-paris-wi-fi",
+    "recordid": "5703c83e8acc28f08a675717114508a6bc6671b7",
+    "fields": {
+      "cp": "75015",
+      "nom_site": "CENTRE SPORTIF SUZANNE LENGLEN - STADE DE RUDBY",
+      "arc_adresse": "2  RUE LOUIS ARMAND",
+      "geo_point_2d": [48.8328810737, 2.27660615944],
+      "nombre_de_borne_wifi": 1,
+      "idpw": "PW0173-2",
+      "geo_shape": {
+        "type": "Point",
+        "coordinates": [2.276606159443164, 48.832881073674926]
+      },
+      "etat2": "Op\u00e9rationnel"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [2.27660615944, 48.8328810737]
+    },
+    "record_timestamp": "2020-02-12T08:00:33.449+01:00"
+  },
+  {
+    "datasetid": "sites-disposant-du-service-paris-wi-fi",
+    "recordid": "60113d07c4bce43dc6bd105a65965053b5fe2488",
+    "fields": {
+      "cp": "75015",
+      "nom_site": "CENTRE SPORTIF CHARLES RIGOULOT",
+      "arc_adresse": "18 AVENUE DE LA PORTE BRANCION",
+      "geo_point_2d": [48.8266335927, 2.30041746551],
+      "nombre_de_borne_wifi": 1,
+      "idpw": "PW0075",
+      "geo_shape": {
+        "type": "Point",
+        "coordinates": [2.300417465508702, 48.82663359274811]
+      },
+      "etat2": "Op\u00e9rationnel"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [2.30041746551, 48.8266335927]
+    },
+    "record_timestamp": "2020-02-12T08:00:33.449+01:00"
+  },
+  {
+    "datasetid": "sites-disposant-du-service-paris-wi-fi",
+    "recordid": "67c3805a2a5ffce0f871cb51f034f36ae526a334",
+    "fields": {
+      "cp": "75015",
+      "nom_site": "CENTRE SPORTIF SUZANNE LENGLEN - TRIBUNE COUR DE TENNIS",
+      "arc_adresse": "2 RUE LOUIS ARMAND",
+      "geo_point_2d": [48.8329646707, 2.27683278955],
+      "nombre_de_borne_wifi": 1,
+      "idpw": "PW0173",
+      "geo_shape": {
+        "type": "Point",
+        "coordinates": [2.276832789549165, 48.832964670678884]
+      },
+      "etat2": "Op\u00e9rationnel"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [2.27683278955, 48.8329646707]
+    },
+    "record_timestamp": "2020-02-12T08:00:33.449+01:00"
+  },
+  {
+    "datasetid": "sites-disposant-du-service-paris-wi-fi",
+    "recordid": "f1d09581e70d4b0eb32da450c43c96db6177b08c",
+    "fields": {
+      "cp": "75016",
+      "nom_site": "JARDIN DU TROCADERO",
+      "arc_adresse": "1 PLACE DU ONZE NOVEMBRE 1918",
+      "geo_point_2d": [48.8609372147, 2.28934994437],
+      "nombre_de_borne_wifi": 1,
+      "idpw": "PW0175",
+      "geo_shape": {
+        "type": "Point",
+        "coordinates": [2.289349944365957, 48.8609372146897]
+      },
+      "etat2": "Op\u00e9rationnel"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [2.28934994437, 48.8609372147]
+    },
+    "record_timestamp": "2020-02-12T08:00:33.449+01:00"
+  },
+  {
+    "datasetid": "sites-disposant-du-service-paris-wi-fi",
+    "recordid": "a6c13564007cf362be2c8574c26136899d781edc",
+    "fields": {
+      "cp": "75016",
+      "nom_site": "BIBLIOTHEQUE GERMAINE TILLION",
+      "arc_adresse": "6 RUE DU COMMANDANT SCHLOESING",
+      "geo_point_2d": [48.8618363826, 2.28427079122],
+      "nombre_de_borne_wifi": 2,
+      "idpw": "PW0113",
+      "geo_shape": {
+        "type": "Point",
+        "coordinates": [2.284270791218422, 48.8618363825724]
+      },
+      "etat2": "Op\u00e9rationnel"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [2.28427079122, 48.8618363826]
+    },
+    "record_timestamp": "2020-02-12T08:00:33.449+01:00"
+  },
+  {
+    "datasetid": "sites-disposant-du-service-paris-wi-fi",
+    "recordid": "faf7e2b8ee524ab8eb54171cccd4c718b7d4257d",
+    "fields": {
+      "cp": "75016",
+      "nom_site": "MUSEE D ART MODERNE",
+      "arc_adresse": "11 AVENUE DU PRESIDENT WILSON",
+      "geo_point_2d": [48.8647101823, 2.29699733667],
+      "nombre_de_borne_wifi": 11,
+      "idpw": "PW0211",
+      "geo_shape": {
+        "type": "Point",
+        "coordinates": [2.296997336665013, 48.864710182344766]
+      },
+      "etat2": "Op\u00e9rationnel"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [2.29699733667, 48.8647101823]
+    },
+    "record_timestamp": "2020-02-12T08:00:33.449+01:00"
+  },
+  {
+    "datasetid": "sites-disposant-du-service-paris-wi-fi",
+    "recordid": "a193a61cf82e8be100946e1846492f3f43f4cc1a",
+    "fields": {
+      "cp": "75016",
+      "nom_site": "STADE PIERRE DE COUBERTIN",
+      "arc_adresse": "82 AVENUE GEORGES LAFONT",
+      "geo_point_2d": [48.8354989458, 2.25576069335],
+      "nombre_de_borne_wifi": 4,
+      "idpw": "PW0108",
+      "geo_shape": {
+        "type": "Point",
+        "coordinates": [2.255760693346943, 48.83549894578003]
+      },
+      "etat2": "Op\u00e9rationnel"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [2.25576069335, 48.8354989458]
+    },
+    "record_timestamp": "2020-02-12T08:00:33.449+01:00"
+  },
+  {
+    "datasetid": "sites-disposant-du-service-paris-wi-fi",
+    "recordid": "811b01a4a0851af21c5714200e2aa122787d6ad0",
+    "fields": {
+      "cp": "75016",
+      "nom_site": "JARDIN MUSEE GALLIERA",
+      "arc_adresse": "10 AVENUE PIERRE IER DE SERBIE",
+      "geo_point_2d": [48.8658585587, 2.29699237535],
+      "nombre_de_borne_wifi": 1,
+      "geo_shape": {
+        "type": "Point",
+        "coordinates": [2.296992375354935, 48.86585855866156]
+      },
+      "etat2": "Ferm\u00e9 pour travaux"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [2.29699237535, 48.8658585587]
+    },
+    "record_timestamp": "2020-02-12T08:00:33.449+01:00"
+  },
+  {
+    "datasetid": "sites-disposant-du-service-paris-wi-fi",
+    "recordid": "43b104cf41ef7c0103cdaaaf27dc25595e0e04d7",
+    "fields": {
+      "cp": "75016",
+      "nom_site": "PREFOURRIERE FOCH",
+      "arc_adresse": "8 AVENUE FOCH",
+      "geo_point_2d": [48.8738124954, 2.29173934485],
+      "nombre_de_borne_wifi": 1,
+      "geo_shape": {
+        "type": "Point",
+        "coordinates": [2.291739344849886, 48.873812495377]
+      },
+      "etat2": "En \u00e9tude"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [2.29173934485, 48.8738124954]
+    },
+    "record_timestamp": "2020-02-12T08:00:33.449+01:00"
+  },
+  {
+    "datasetid": "sites-disposant-du-service-paris-wi-fi",
+    "recordid": "c16ca9911b5719dd19226922ec2df3db8f154995",
+    "fields": {
+      "cp": "75016",
+      "nom_site": "CENTRE SPORTIF HENRY DE MONTHERLAND",
+      "arc_adresse": "30-32 BOULEVARD LANNES",
+      "geo_point_2d": [48.8675228068, 2.27212085381],
+      "nombre_de_borne_wifi": 1,
+      "idpw": "PW0101",
+      "geo_shape": {
+        "type": "Point",
+        "coordinates": [2.27212085380691, 48.86752280679387]
+      },
+      "etat2": "Op\u00e9rationnel"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [2.27212085381, 48.8675228068]
+    },
+    "record_timestamp": "2020-02-12T08:00:33.449+01:00"
+  },
+  {
+    "datasetid": "sites-disposant-du-service-paris-wi-fi",
+    "recordid": "ad083e4590e2b56e77e4be78e5fb1951a66e8195",
+    "fields": {
+      "cp": "75016",
+      "nom_site": "MAIRIE DU 16 EME",
+      "arc_adresse": "71 AVENUE HENRI-MARTIN",
+      "geo_point_2d": [48.8639407702, 2.2766525219],
+      "nombre_de_borne_wifi": 1,
+      "idpw": "PW0015",
+      "geo_shape": {
+        "type": "Point",
+        "coordinates": [2.276652521898563, 48.86394077019892]
+      },
+      "etat2": "Op\u00e9rationnel"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [2.2766525219, 48.8639407702]
+    },
+    "record_timestamp": "2020-02-12T08:00:33.449+01:00"
+  },
+  {
+    "datasetid": "sites-disposant-du-service-paris-wi-fi",
+    "recordid": "939ecd8a1539da2447d6d10efa21c5c51be7b157",
+    "fields": {
+      "cp": "75016",
+      "nom_site": "PISCINE AUTEUIL",
+      "arc_adresse": "1 ROUTE DES LACS A PASSY",
+      "geo_point_2d": [48.858152594, 2.26156748231],
+      "nombre_de_borne_wifi": 1,
+      "idpw": "PW0102",
+      "geo_shape": {
+        "type": "Point",
+        "coordinates": [2.261567482309456, 48.85815259404039]
+      },
+      "etat2": "Op\u00e9rationnel"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [2.26156748231, 48.858152594]
+    },
+    "record_timestamp": "2020-02-12T08:00:33.449+01:00"
+  },
+  {
+    "datasetid": "sites-disposant-du-service-paris-wi-fi",
+    "recordid": "fc0c85f37fc3c22901c8df5bf70e83764c3e956d",
+    "fields": {
+      "cp": "75016",
+      "nom_site": "MAISON DE LA VIE ASSOCIATIVE ET CITOYENNE 16",
+      "arc_adresse": "14-16 AVENUE RENE BOYLESVE",
+      "geo_point_2d": [48.8567504745, 2.28383673376],
+      "nombre_de_borne_wifi": 2,
+      "idpw": "PW0041",
+      "geo_shape": {
+        "type": "Point",
+        "coordinates": [2.283836733756715, 48.856750474464604]
+      },
+      "etat2": "Op\u00e9rationnel"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [2.28383673376, 48.8567504745]
+    },
+    "record_timestamp": "2020-02-12T08:00:33.449+01:00"
+  },
+  {
+    "datasetid": "sites-disposant-du-service-paris-wi-fi",
+    "recordid": "db63d62902decd33847fda8eb1556223125df047",
+    "fields": {
+      "cp": "75016",
+      "nom_site": "BIBLIOTHEQUE MUSSET",
+      "arc_adresse": "20 RUE MUSSET",
+      "geo_point_2d": [48.8420822374, 2.26353969865],
+      "nombre_de_borne_wifi": 1,
+      "idpw": "PW0140",
+      "geo_shape": {
+        "type": "Point",
+        "coordinates": [2.263539698646935, 48.84208223736807]
+      },
+      "etat2": "Op\u00e9rationnel"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [2.26353969865, 48.8420822374]
+    },
+    "record_timestamp": "2020-02-12T08:00:33.449+01:00"
+  },
+  {
+    "datasetid": "sites-disposant-du-service-paris-wi-fi",
+    "recordid": "edb8d01790b82baa3b4946cc14b746adabc913b4",
+    "fields": {
+      "cp": "75016",
+      "nom_site": "MUSEE BALZAC",
+      "arc_adresse": "47 RUE RAYNOUARD",
+      "geo_point_2d": [48.8553935976, 2.2807177166],
+      "nombre_de_borne_wifi": 10,
+      "idpw": "PW0202",
+      "geo_shape": {
+        "type": "Point",
+        "coordinates": [2.280717716603592, 48.855393597560735]
+      },
+      "etat2": "Op\u00e9rationnel"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [2.2807177166, 48.8553935976]
+    },
+    "record_timestamp": "2020-02-12T08:00:33.449+01:00"
+  },
+  {
+    "datasetid": "sites-disposant-du-service-paris-wi-fi",
+    "recordid": "9cb3ea26df166b3cfaf1e083cf18bbb959af664a",
+    "fields": {
+      "cp": "75017",
+      "nom_site": "BIBLIOTHEQUE EDMOND ROSTAND",
+      "arc_adresse": "11 RUE NICOLAS CHUQUET",
+      "geo_point_2d": [48.8883943592, 2.30308970568],
+      "nombre_de_borne_wifi": 2,
+      "idpw": "PW0104",
+      "geo_shape": {
+        "type": "Point",
+        "coordinates": [2.303089705679941, 48.888394359209]
+      },
+      "etat2": "Op\u00e9rationnel"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [2.30308970568, 48.8883943592]
+    },
+    "record_timestamp": "2020-02-12T08:00:33.449+01:00"
+  },
+  {
+    "datasetid": "sites-disposant-du-service-paris-wi-fi",
+    "recordid": "cd4483afbca1e1bf84c2a02df70320105f8104eb",
+    "fields": {
+      "cp": "75017",
+      "nom_site": "BIBLIOTHEQUE BATIGNOLLES",
+      "arc_adresse": "18 RUE DES BATIGNOLLES",
+      "geo_point_2d": [48.884754514, 2.32212094544],
+      "nombre_de_borne_wifi": 1,
+      "idpw": "PW0133",
+      "geo_shape": {
+        "type": "Point",
+        "coordinates": [2.322120945442446, 48.88475451404929]
+      },
+      "etat2": "Op\u00e9rationnel"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [2.32212094544, 48.884754514]
+    },
+    "record_timestamp": "2020-02-12T08:00:33.449+01:00"
+  },
+  {
+    "datasetid": "sites-disposant-du-service-paris-wi-fi",
+    "recordid": "81b21e3ea6fe54bb9e146ee53ff5b5351d3009b5",
+    "fields": {
+      "cp": "75017",
+      "nom_site": "CENTRE SPORTIF LEON BIANCOTTO",
+      "arc_adresse": "6 AVENUE DE LA PORTE DE CLICHY",
+      "geo_point_2d": [48.8957682345, 2.31183047537],
+      "nombre_de_borne_wifi": 1,
+      "idpw": "PW0098",
+      "geo_shape": {
+        "type": "Point",
+        "coordinates": [2.311830475367834, 48.895768234519906]
+      },
+      "etat2": "Op\u00e9rationnel"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [2.31183047537, 48.8957682345]
+    },
+    "record_timestamp": "2020-02-12T08:00:33.449+01:00"
+  },
+  {
+    "datasetid": "sites-disposant-du-service-paris-wi-fi",
+    "recordid": "cb66412e470e1ebd3d4c71946babc7c76bf0be19",
+    "fields": {
+      "cp": "75017",
+      "nom_site": "MAIRIE DU 17 EME",
+      "arc_adresse": "16/20 RUE DES BATIGNOLLES",
+      "geo_point_2d": [48.8844937686, 2.32183436031],
+      "nombre_de_borne_wifi": 2,
+      "idpw": "PW0016",
+      "geo_shape": {
+        "type": "Point",
+        "coordinates": [2.321834360309547, 48.88449376861104]
+      },
+      "etat2": "Op\u00e9rationnel"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [2.32183436031, 48.8844937686]
+    },
+    "record_timestamp": "2020-02-12T08:00:33.449+01:00"
+  },
+  {
+    "datasetid": "sites-disposant-du-service-paris-wi-fi",
+    "recordid": "a6b8f217121a206daa0d67dedf1e7bd31e881a77",
+    "fields": {
+      "cp": "75017",
+      "nom_site": "MAISON DE LA VIE ASSOCIATIVE ET CITOYENNE  17",
+      "arc_adresse": "25 RUE LANTIEZ",
+      "geo_point_2d": [48.8950306662, 2.32375142311],
+      "nombre_de_borne_wifi": 1,
+      "idpw": "PW0042",
+      "geo_shape": {
+        "type": "Point",
+        "coordinates": [2.323751423106822, 48.89503066621169]
+      },
+      "etat2": "Op\u00e9rationnel"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [2.32375142311, 48.8950306662]
+    },
+    "record_timestamp": "2020-02-12T08:00:33.449+01:00"
+  },
+  {
+    "datasetid": "sites-disposant-du-service-paris-wi-fi",
+    "recordid": "f878b523ac8fb4c9998429e4ab2357982fa98dbc",
+    "fields": {
+      "cp": "75017",
+      "nom_site": "PISCINE BERNARD LAFAY",
+      "arc_adresse": "79 RUE DE LA JONQUIERE",
+      "geo_point_2d": [48.8946479903, 2.31881724233],
+      "nombre_de_borne_wifi": 1,
+      "idpw": "PW0100",
+      "geo_shape": {
+        "type": "Point",
+        "coordinates": [2.318817242332568, 48.89464799028464]
+      },
+      "etat2": "Op\u00e9rationnel"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [2.31881724233, 48.8946479903]
+    },
+    "record_timestamp": "2020-02-12T08:00:33.449+01:00"
+  },
+  {
+    "datasetid": "sites-disposant-du-service-paris-wi-fi",
+    "recordid": "44a2a8eaabe05300593dac22c241c92ce4e74491",
+    "fields": {
+      "cp": "75017",
+      "nom_site": "SQUARE ANDRE ULMANN",
+      "arc_adresse": "17 BOULEVARD DE REIMS",
+      "geo_point_2d": [48.8899003976, 2.29894138948],
+      "nombre_de_borne_wifi": 1,
+      "idpw": "PW0166",
+      "geo_shape": {
+        "type": "Point",
+        "coordinates": [2.298941389477171, 48.889900397604244]
+      },
+      "etat2": "Op\u00e9rationnel"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [2.29894138948, 48.8899003976]
+    },
+    "record_timestamp": "2020-02-12T08:00:33.449+01:00"
+  },
+  {
+    "datasetid": "sites-disposant-du-service-paris-wi-fi",
+    "recordid": "15d2bf60229469724a49b784dad1a855f7183642",
+    "fields": {
+      "cp": "75017",
+      "nom_site": "BIBLIOTHEQUE COLETTE VIVIER",
+      "arc_adresse": "6 RUE FOURNEYRON",
+      "geo_point_2d": [48.889783335, 2.31964337344],
+      "nombre_de_borne_wifi": 1,
+      "idpw": "PW0003",
+      "geo_shape": {
+        "type": "Point",
+        "coordinates": [2.31964337343766, 48.889783335019025]
+      },
+      "etat2": "Op\u00e9rationnel"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [2.31964337344, 48.889783335]
+    },
+    "record_timestamp": "2020-02-12T08:00:33.449+01:00"
+  },
+  {
+    "datasetid": "sites-disposant-du-service-paris-wi-fi",
+    "recordid": "53d19088360874806ba7aea99a648e1457d89406",
+    "fields": {
+      "cp": "75018",
+      "nom_site": "MAISON DE LA VIE ASSOCIATIVE ET CITOYENNE 18",
+      "arc_adresse": "15 PASSAGE RAMEY",
+      "geo_point_2d": [48.890069083, 2.34733549712],
+      "nombre_de_borne_wifi": 2,
+      "idpw": "PW0032",
+      "geo_shape": {
+        "type": "Point",
+        "coordinates": [2.347335497120627, 48.890069083043606]
+      },
+      "etat2": "Op\u00e9rationnel"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [2.34733549712, 48.890069083]
+    },
+    "record_timestamp": "2020-02-12T08:00:33.449+01:00"
+  },
+  {
+    "datasetid": "sites-disposant-du-service-paris-wi-fi",
+    "recordid": "f9d1b4bfaf8d54581cbfea36dc2844b8fadce9af",
+    "fields": {
+      "cp": "75018",
+      "nom_site": "CENTRE SPORTIF POISSONNIERS",
+      "arc_adresse": "2 RUE JEAN COCTEAU",
+      "geo_point_2d": [48.8996859262, 2.35199197527],
+      "nombre_de_borne_wifi": 1,
+      "idpw": "PW0091",
+      "geo_shape": {
+        "type": "Point",
+        "coordinates": [2.351991975265798, 48.899685926165404]
+      },
+      "etat2": "Op\u00e9rationnel"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [2.35199197527, 48.8996859262]
+    },
+    "record_timestamp": "2020-02-12T08:00:33.449+01:00"
+  },
+  {
+    "datasetid": "sites-disposant-du-service-paris-wi-fi",
+    "recordid": "1245ed3b4d23c1eace55b693656cc290295e1fdf",
+    "fields": {
+      "cp": "75018",
+      "nom_site": "ESPACE GLISSE DES FILLETTES",
+      "arc_adresse": "54 BOULEVARD NEY",
+      "geo_point_2d": [48.8987598139, 2.36350693511],
+      "nombre_de_borne_wifi": 1,
+      "idpw": "PW0093",
+      "geo_shape": {
+        "type": "Point",
+        "coordinates": [2.363506935109957, 48.89875981393057]
+      },
+      "etat2": "Op\u00e9rationnel"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [2.36350693511, 48.8987598139]
+    },
+    "record_timestamp": "2020-02-12T08:00:33.449+01:00"
+  },
+  {
+    "datasetid": "sites-disposant-du-service-paris-wi-fi",
+    "recordid": "fe39de0196320fdc4828499a7f77de439927ac95",
+    "fields": {
+      "cp": "75018",
+      "nom_site": "BIBLIOTHEQUE JACQUELINE DE ROMILLY",
+      "arc_adresse": "16-30 AVENUE DE LA PORTE MONTMARTRE",
+      "geo_point_2d": [48.9003798743, 2.3358735009],
+      "nombre_de_borne_wifi": 2,
+      "idpw": "PW0198",
+      "geo_shape": {
+        "type": "Point",
+        "coordinates": [2.335873500895438, 48.9003798743325]
+      },
+      "etat2": "Op\u00e9rationnel"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [2.3358735009, 48.9003798743]
+    },
+    "record_timestamp": "2020-02-12T08:00:33.449+01:00"
+  },
+  {
+    "datasetid": "sites-disposant-du-service-paris-wi-fi",
+    "recordid": "0a3f0e7a5c0f5bcd273a31bae065675e34f70afc",
+    "fields": {
+      "cp": "75018",
+      "nom_site": "BUTTE MONTMARTRE",
+      "arc_adresse": "6 PLACE SAINT-PIERRE",
+      "geo_point_2d": [48.8844827328, 2.34387627415],
+      "nombre_de_borne_wifi": 1,
+      "geo_shape": {
+        "type": "Point",
+        "coordinates": [2.343876274151759, 48.88448273278111]
+      },
+      "etat2": "En \u00e9tude"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [2.34387627415, 48.8844827328]
+    },
+    "record_timestamp": "2020-02-12T08:00:33.449+01:00"
+  },
+  {
+    "datasetid": "sites-disposant-du-service-paris-wi-fi",
+    "recordid": "d84858e0b2aaf3f98b70afb5132de7ffedb5d523",
+    "fields": {
+      "cp": "75018",
+      "nom_site": "CENTRE SPORTIF BERTRAND DAUVIN",
+      "arc_adresse": "12 RUE RENE BINET",
+      "geo_point_2d": [48.8994866387, 2.34205409809],
+      "nombre_de_borne_wifi": 1,
+      "idpw": "PW0089",
+      "geo_shape": {
+        "type": "Point",
+        "coordinates": [2.3420540980918902, 48.89948663873551]
+      },
+      "etat2": "Op\u00e9rationnel"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [2.34205409809, 48.8994866387]
+    },
+    "record_timestamp": "2020-02-12T08:00:33.449+01:00"
+  },
+  {
+    "datasetid": "sites-disposant-du-service-paris-wi-fi",
+    "recordid": "ac9c693174825ba7d8c2b20e0035c4a258d16a18",
+    "fields": {
+      "cp": "75018",
+      "nom_site": "BIBLIOTHEQUE GOUTTE D OR",
+      "arc_adresse": "2-4 RUE FLEURY",
+      "geo_point_2d": [48.8844631298, 2.35414160142],
+      "nombre_de_borne_wifi": 3,
+      "idpw": "PW0006",
+      "geo_shape": {
+        "type": "Point",
+        "coordinates": [2.3541416014207712, 48.88446312981792]
+      },
+      "etat2": "Op\u00e9rationnel"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [2.35414160142, 48.8844631298]
+    },
+    "record_timestamp": "2020-02-12T08:00:33.449+01:00"
+  },
+  {
+    "datasetid": "sites-disposant-du-service-paris-wi-fi",
+    "recordid": "1a8821926e0bcc6ffc68a826dd368a879030b611",
+    "fields": {
+      "cp": "75018",
+      "nom_site": "MAIRIE DU 18 EME",
+      "arc_adresse": "1 PLACE JULES JOFFRIN",
+      "geo_point_2d": [48.8923035579, 2.34468721296],
+      "nombre_de_borne_wifi": 1,
+      "idpw": "PW0023",
+      "geo_shape": {
+        "type": "Point",
+        "coordinates": [2.3446872129632013, 48.89230355785122]
+      },
+      "etat2": "Op\u00e9rationnel"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [2.34468721296, 48.8923035579]
+    },
+    "record_timestamp": "2020-02-12T08:00:33.449+01:00"
+  },
+  {
+    "datasetid": "sites-disposant-du-service-paris-wi-fi",
+    "recordid": "b15ff126f9b3af9cab5bcd72ca7a5b2b08636b54",
+    "fields": {
+      "cp": "75018",
+      "nom_site": "JARDIN D EOLE - 1",
+      "arc_adresse": "18B RUE DU DEPARTEMENT",
+      "geo_point_2d": [48.8864505694, 2.36547579719],
+      "nombre_de_borne_wifi": 2,
+      "idpw": "PW0170",
+      "geo_shape": {
+        "type": "Point",
+        "coordinates": [2.365475797194539, 48.886450569436604]
+      },
+      "etat2": "Op\u00e9rationnel"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [2.36547579719, 48.8864505694]
+    },
+    "record_timestamp": "2020-02-12T08:00:33.449+01:00"
+  },
+  {
+    "datasetid": "sites-disposant-du-service-paris-wi-fi",
+    "recordid": "eefadd858fc43f15eaab730aeac3529d3fd48739",
+    "fields": {
+      "cp": "75018",
+      "nom_site": "BIBLIOTHEQUE ROBERT SABATIER",
+      "arc_adresse": "29 RUE HERMEL",
+      "geo_point_2d": [48.891536321, 2.34443632011],
+      "nombre_de_borne_wifi": 3,
+      "geo_shape": {
+        "type": "Point",
+        "coordinates": [2.344436320114187, 48.89153632102746]
+      },
+      "etat2": "Ferm\u00e9 pour travaux"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [2.34443632011, 48.891536321]
+    },
+    "record_timestamp": "2020-02-12T08:00:33.449+01:00"
+  },
+  {
+    "datasetid": "sites-disposant-du-service-paris-wi-fi",
+    "recordid": "f81424f9494772532c4204465236b4cc8e75fa39",
+    "fields": {
+      "cp": "75018",
+      "nom_site": "JARDIN D EOLE - 2",
+      "arc_adresse": "18B RUE DU DEPARTEMENT",
+      "geo_point_2d": [48.8858336546, 2.36504782956],
+      "nombre_de_borne_wifi": 1,
+      "idpw": "PW0170-1",
+      "geo_shape": {
+        "type": "Point",
+        "coordinates": [2.365047829562393, 48.88583365457024]
+      },
+      "etat2": "Op\u00e9rationnel"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [2.36504782956, 48.8858336546]
+    },
+    "record_timestamp": "2020-02-12T08:00:33.449+01:00"
+  },
+  {
+    "datasetid": "sites-disposant-du-service-paris-wi-fi",
+    "recordid": "50b7d6775497b366fc18702788c2cfac84b38f89",
+    "fields": {
+      "cp": "75018",
+      "nom_site": "BIBLIOTHEQUE VACLAV HAVEL",
+      "arc_adresse": "26B RUE PAJOL",
+      "geo_point_2d": [48.8901061541, 2.36320997363],
+      "nombre_de_borne_wifi": 4,
+      "idpw": "PW0009",
+      "geo_shape": {
+        "type": "Point",
+        "coordinates": [2.363209973631121, 48.890106154134955]
+      },
+      "etat2": "Op\u00e9rationnel"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [2.36320997363, 48.8901061541]
+    },
+    "record_timestamp": "2020-02-12T08:00:33.449+01:00"
+  },
+  {
+    "datasetid": "sites-disposant-du-service-paris-wi-fi",
+    "recordid": "7074de848c713a3fe9bd31c9bad8f4718801b9f1",
+    "fields": {
+      "cp": "75018",
+      "nom_site": "CENTRE SPORTIF ZAC PAJOL",
+      "arc_adresse": "22T RUE PAJOL",
+      "geo_point_2d": [48.8895947972, 2.36306760121],
+      "nombre_de_borne_wifi": 1,
+      "idpw": "PW0092",
+      "geo_shape": {
+        "type": "Point",
+        "coordinates": [2.3630676012052962, 48.88959479724705]
+      },
+      "etat2": "Op\u00e9rationnel"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [2.36306760121, 48.8895947972]
+    },
+    "record_timestamp": "2020-02-12T08:00:33.449+01:00"
+  },
+  {
+    "datasetid": "sites-disposant-du-service-paris-wi-fi",
+    "recordid": "6aeb9d29ff40e1c76ac661bb142c0d007237e9d2",
+    "fields": {
+      "cp": "75018",
+      "nom_site": "BIBLIOTHEQUE MAURICE GENEVOIX",
+      "arc_adresse": "19 RUE TRISTAN TZARA",
+      "geo_point_2d": [48.894964593, 2.36390071349],
+      "nombre_de_borne_wifi": 1,
+      "idpw": "PW0007",
+      "geo_shape": {
+        "type": "Point",
+        "coordinates": [2.363900713494337, 48.8949645929562]
+      },
+      "etat2": "Op\u00e9rationnel"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [2.36390071349, 48.894964593]
+    },
+    "record_timestamp": "2020-02-12T08:00:33.449+01:00"
+  },
+  {
+    "datasetid": "sites-disposant-du-service-paris-wi-fi",
+    "recordid": "fb4066b00076d598570ac942cf2e7a6710733190",
+    "fields": {
+      "cp": "75019",
+      "nom_site": "MAISON DE LA VIE ASSOCIATIVE ET CITOYENNE  19",
+      "arc_adresse": "20 RUE EDOUARD PAILLERON",
+      "geo_point_2d": [48.8804061535, 2.37654510623],
+      "nombre_de_borne_wifi": 1,
+      "idpw": "PW0033",
+      "geo_shape": {
+        "type": "Point",
+        "coordinates": [2.376545106225318, 48.880406153498086]
+      },
+      "etat2": "Op\u00e9rationnel"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [2.37654510623, 48.8804061535]
+    },
+    "record_timestamp": "2020-02-12T08:00:33.449+01:00"
+  },
+  {
+    "datasetid": "sites-disposant-du-service-paris-wi-fi",
+    "recordid": "f3c8a4ec8f6604d29b425e5c480cec514328b980",
+    "fields": {
+      "cp": "75019",
+      "nom_site": "BIBLIOTHEQUE PLACE DES FETES",
+      "arc_adresse": "18 RUE JANSSEN",
+      "geo_point_2d": [48.8793648409, 2.39763758371],
+      "nombre_de_borne_wifi": 3,
+      "idpw": "PW0008",
+      "geo_shape": {
+        "type": "Point",
+        "coordinates": [2.397637583708677, 48.87936484092137]
+      },
+      "etat2": "Op\u00e9rationnel"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [2.39763758371, 48.8793648409]
+    },
+    "record_timestamp": "2020-02-12T08:00:33.449+01:00"
+  },
+  {
+    "datasetid": "sites-disposant-du-service-paris-wi-fi",
+    "recordid": "cc338ac868ad20b11039b0d0e94ba04845eb444e",
+    "fields": {
+      "cp": "75019",
+      "nom_site": "CENTRE SPORTIF JULES LADOUMEGUE",
+      "arc_adresse": "37 ROUTE DES PETITS PONTS",
+      "geo_point_2d": [48.893005177, 2.39778750696],
+      "nombre_de_borne_wifi": 1,
+      "idpw": "PW0083",
+      "geo_shape": {
+        "type": "Point",
+        "coordinates": [2.397787506964459, 48.89300517697759]
+      },
+      "etat2": "Op\u00e9rationnel"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [2.39778750696, 48.893005177]
+    },
+    "record_timestamp": "2020-02-12T08:00:33.449+01:00"
+  },
+  {
+    "datasetid": "sites-disposant-du-service-paris-wi-fi",
+    "recordid": "52be8bc691638f1985ac94b917bcef816d1bb63a",
+    "fields": {
+      "cp": "75019",
+      "nom_site": "MAIRIE DU 19 EME",
+      "arc_adresse": "5 PLACE ARMAND CARREL",
+      "geo_point_2d": [48.8827945783, 2.38191797413],
+      "nombre_de_borne_wifi": 1,
+      "idpw": "PW0017",
+      "geo_shape": {
+        "type": "Point",
+        "coordinates": [2.381917974125571, 48.88279457828256]
+      },
+      "etat2": "Op\u00e9rationnel"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [2.38191797413, 48.8827945783]
+    },
+    "record_timestamp": "2020-02-12T08:00:33.449+01:00"
+  },
+  {
+    "datasetid": "sites-disposant-du-service-paris-wi-fi",
+    "recordid": "ea882eebc39035608e28d50834b989998fa42ee0",
+    "fields": {
+      "cp": "75019",
+      "nom_site": "PREFOURRIERE PANTIN",
+      "arc_adresse": "15 RUE DE LA MARSEILLAISE",
+      "geo_point_2d": [48.8886165183, 2.39802091255],
+      "nombre_de_borne_wifi": 1,
+      "geo_shape": {
+        "type": "Point",
+        "coordinates": [2.398020912550891, 48.88861651829492]
+      },
+      "etat2": "En \u00e9tude"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [2.39802091255, 48.8886165183]
+    },
+    "record_timestamp": "2020-02-12T08:00:33.449+01:00"
+  },
+  {
+    "datasetid": "sites-disposant-du-service-paris-wi-fi",
+    "recordid": "03497ff17f56fc795edc522c8f71f2e64ce97aeb",
+    "fields": {
+      "cp": "75019",
+      "nom_site": "PARC DES BUTTES CHAUMONT - VILLETTE",
+      "arc_adresse": "1 RUE BOTZARIS",
+      "geo_point_2d": [48.8796817468, 2.38832763739],
+      "nombre_de_borne_wifi": 1,
+      "idpw": "PW0159",
+      "geo_shape": {
+        "type": "Point",
+        "coordinates": [2.388327637394474, 48.879681746818164]
+      },
+      "etat2": "Op\u00e9rationnel"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [2.38832763739, 48.8796817468]
+    },
+    "record_timestamp": "2020-02-12T08:00:33.449+01:00"
+  },
+  {
+    "datasetid": "sites-disposant-du-service-paris-wi-fi",
+    "recordid": "8a52dbe8e7fac1991ab89495c8271966fd764107",
+    "fields": {
+      "cp": "75019",
+      "nom_site": "SQUARE DE LA MARSEILLAISE",
+      "arc_adresse": "1B RUE DE LA MARSEILLAISE",
+      "geo_point_2d": [48.8872868418, 2.39806224303],
+      "nombre_de_borne_wifi": 1,
+      "idpw": "PW0064",
+      "geo_shape": {
+        "type": "Point",
+        "coordinates": [2.398062243029121, 48.887286841813356]
+      },
+      "etat2": "Op\u00e9rationnel"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [2.39806224303, 48.8872868418]
+    },
+    "record_timestamp": "2020-02-12T08:00:33.449+01:00"
+  },
+  {
+    "datasetid": "sites-disposant-du-service-paris-wi-fi",
+    "recordid": "612988a0eae7c564e69c5b8e1b499fbc353133ae",
+    "fields": {
+      "cp": "75019",
+      "nom_site": "ARCHIVES DE PARIS",
+      "arc_adresse": "18 BOULEVARD SERURIER",
+      "geo_point_2d": [48.8780382168, 2.40580812486],
+      "nombre_de_borne_wifi": 1,
+      "idpw": "PW0136",
+      "geo_shape": {
+        "type": "Point",
+        "coordinates": [2.4058081248559793, 48.87803821682543]
+      },
+      "etat2": "Op\u00e9rationnel"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [2.40580812486, 48.8780382168]
+    },
+    "record_timestamp": "2020-02-12T08:00:33.449+01:00"
+  },
+  {
+    "datasetid": "sites-disposant-du-service-paris-wi-fi",
+    "recordid": "eb7dd668fb9c3a1ab2cff519bc5f9787fdc722fd",
+    "fields": {
+      "cp": "75019",
+      "nom_site": "PARC DES BUTTES CHAUMONT - BOLIVAR",
+      "arc_adresse": "1 RUE BOTZARIS",
+      "geo_point_2d": [48.8764730512, 2.38101742013],
+      "nombre_de_borne_wifi": 1,
+      "idpw": "PW0159-1",
+      "geo_shape": {
+        "type": "Point",
+        "coordinates": [2.381017420133907, 48.87647305121453]
+      },
+      "etat2": "Op\u00e9rationnel"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [2.38101742013, 48.8764730512]
+    },
+    "record_timestamp": "2020-02-12T08:00:33.449+01:00"
+  },
+  {
+    "datasetid": "sites-disposant-du-service-paris-wi-fi",
+    "recordid": "922c12f6f24df6c18b64f7b217752ffc2ba86f21",
+    "fields": {
+      "cp": "75019",
+      "nom_site": "CENTRE SPORTIF DES LILAS",
+      "arc_adresse": "5 RUE DES LILAS",
+      "geo_point_2d": [48.8779068008, 2.39542126695],
+      "nombre_de_borne_wifi": 1,
+      "idpw": "PW0081",
+      "geo_shape": {
+        "type": "Point",
+        "coordinates": [2.395421266947553, 48.87790680084419]
+      },
+      "etat2": "Op\u00e9rationnel"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [2.39542126695, 48.8779068008]
+    },
+    "record_timestamp": "2020-02-12T08:00:33.449+01:00"
+  },
+  {
+    "datasetid": "sites-disposant-du-service-paris-wi-fi",
+    "recordid": "7e9bdf8c7715342bb128647eac2fb185a45492ae",
+    "fields": {
+      "cp": "75019",
+      "nom_site": "BIBLIOTHEQUE FESSART",
+      "arc_adresse": "6 RUE FESSART",
+      "geo_point_2d": [48.8762687831, 2.38818422808],
+      "nombre_de_borne_wifi": 1,
+      "idpw": "PW0005",
+      "geo_shape": {
+        "type": "Point",
+        "coordinates": [2.388184228076371, 48.87626878314261]
+      },
+      "etat2": "Op\u00e9rationnel"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [2.38818422808, 48.8762687831]
+    },
+    "record_timestamp": "2020-02-12T08:00:33.449+01:00"
+  },
+  {
+    "datasetid": "sites-disposant-du-service-paris-wi-fi",
+    "recordid": "0abf85b3b9b1875689703537acc8e6e6e83c5c3f",
+    "fields": {
+      "cp": "75019",
+      "nom_site": "PARC DES BUTTES CHAUMONT - CARREL",
+      "arc_adresse": "4 PLACE ARMAND CARREL",
+      "geo_point_2d": [48.8827940633, 2.3827054256],
+      "nombre_de_borne_wifi": 2,
+      "idpw": "PW0182",
+      "geo_shape": {
+        "type": "Point",
+        "coordinates": [2.38270542559956, 48.88279406334443]
+      },
+      "etat2": "Op\u00e9rationnel"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [2.3827054256, 48.8827940633]
+    },
+    "record_timestamp": "2020-02-12T08:00:33.449+01:00"
+  },
+  {
+    "datasetid": "sites-disposant-du-service-paris-wi-fi",
+    "recordid": "aeac267a4d3d55e3c9e16a2a64775b2c42a94f0f",
+    "fields": {
+      "cp": "75019",
+      "nom_site": "PARC DES BUTTES CHAUMONT - FESSARD",
+      "arc_adresse": "3 RUE BOTZARIS",
+      "geo_point_2d": [48.8779490326, 2.38109010003],
+      "nombre_de_borne_wifi": 3,
+      "idpw": "PW0159-2",
+      "geo_shape": {
+        "type": "Point",
+        "coordinates": [2.381090100033082, 48.8779490325857]
+      },
+      "etat2": "Op\u00e9rationnel"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [2.38109010003, 48.8779490326]
+    },
+    "record_timestamp": "2020-02-12T08:00:33.449+01:00"
+  },
+  {
+    "datasetid": "sites-disposant-du-service-paris-wi-fi",
+    "recordid": "bd32a29fbd9b22e8d1c4dd223e939e72735f29d1",
+    "fields": {
+      "cp": "75019",
+      "nom_site": "SQUARE CLAUDE BERNARD",
+      "arc_adresse": "176 BOULEVARD MACDONALD",
+      "geo_point_2d": [48.8982958877, 2.38158352816],
+      "nombre_de_borne_wifi": 1,
+      "idpw": "PW0209",
+      "geo_shape": {
+        "type": "Point",
+        "coordinates": [2.381583528155401, 48.898295887695575]
+      },
+      "etat2": "Op\u00e9rationnel"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [2.38158352816, 48.8982958877]
+    },
+    "record_timestamp": "2020-02-12T08:00:33.449+01:00"
+  },
+  {
+    "datasetid": "sites-disposant-du-service-paris-wi-fi",
+    "recordid": "844de29397c78382ce0df90a4e57230546c420ab",
+    "fields": {
+      "cp": "75019",
+      "nom_site": "BIBLIOTHEQUE CRIMEE",
+      "arc_adresse": "42-44 RUE PETIT",
+      "geo_point_2d": [48.8848820164, 2.38305018751],
+      "nombre_de_borne_wifi": 1,
+      "idpw": "PW0004",
+      "geo_shape": {
+        "type": "Point",
+        "coordinates": [2.383050187514214, 48.88488201636432]
+      },
+      "etat2": "Op\u00e9rationnel"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [2.38305018751, 48.8848820164]
+    },
+    "record_timestamp": "2020-02-12T08:00:33.449+01:00"
+  },
+  {
+    "datasetid": "sites-disposant-du-service-paris-wi-fi",
+    "recordid": "8f006f52319b7cebdc28541e8cea6beebc7044b9",
+    "fields": {
+      "cp": "75019",
+      "nom_site": "BIBLIOTHEQUE BENJAMIN RABIER",
+      "arc_adresse": "141 AVENUE DE FLANDRE",
+      "geo_point_2d": [48.8927610937, 2.37912283946],
+      "nombre_de_borne_wifi": 2,
+      "idpw": "PW0001",
+      "geo_shape": {
+        "type": "Point",
+        "coordinates": [2.379122839458274, 48.89276109370963]
+      },
+      "etat2": "Op\u00e9rationnel"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [2.37912283946, 48.8927610937]
+    },
+    "record_timestamp": "2020-02-12T08:00:33.449+01:00"
+  },
+  {
+    "datasetid": "sites-disposant-du-service-paris-wi-fi",
+    "recordid": "6c0d97b6cef0b1fd03e4991a78d570fbe9216fdf",
+    "fields": {
+      "cp": "75019",
+      "nom_site": "BIBLIOTHEQUE CLAUDE LEVI STRAUSS",
+      "arc_adresse": "35-45 AVENUE DE FLANDRE",
+      "geo_point_2d": [48.8867669709, 2.37147305047],
+      "nombre_de_borne_wifi": 2,
+      "idpw": "PW0002",
+      "geo_shape": {
+        "type": "Point",
+        "coordinates": [2.371473050466415, 48.88676697087047]
+      },
+      "etat2": "Op\u00e9rationnel"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [2.37147305047, 48.8867669709]
+    },
+    "record_timestamp": "2020-02-12T08:00:33.449+01:00"
+  },
+  {
+    "datasetid": "sites-disposant-du-service-paris-wi-fi",
+    "recordid": "4c0c74f4b81e3b0e1451a7dd0622387411fea00f",
+    "fields": {
+      "cp": "75019",
+      "nom_site": "BIBLIOTHEQUE HERGE",
+      "arc_adresse": "2 RUE DU DEPARTEMENT",
+      "geo_point_2d": [48.8850136264, 2.36723501408],
+      "nombre_de_borne_wifi": 1,
+      "idpw": "PW0139",
+      "geo_shape": {
+        "type": "Point",
+        "coordinates": [2.367235014082817, 48.885013626409254]
+      },
+      "etat2": "Op\u00e9rationnel"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [2.36723501408, 48.8850136264]
+    },
+    "record_timestamp": "2020-02-12T08:00:33.449+01:00"
+  },
+  {
+    "datasetid": "sites-disposant-du-service-paris-wi-fi",
+    "recordid": "c1abee2fc9aa6e821809a3ef0a8851d5c2ccf47a",
+    "fields": {
+      "cp": "75019",
+      "nom_site": "SQUARE MARCEL MOULOUDJI",
+      "arc_adresse": "2 RUE PIERRE REVERDY",
+      "geo_point_2d": [48.8852754048, 2.37635419105],
+      "nombre_de_borne_wifi": 1,
+      "idpw": "PW0167",
+      "geo_shape": {
+        "type": "Point",
+        "coordinates": [2.376354191052253, 48.88527540480052]
+      },
+      "etat2": "Op\u00e9rationnel"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [2.37635419105, 48.8852754048]
+    },
+    "record_timestamp": "2020-02-12T08:00:33.449+01:00"
+  },
+  {
+    "datasetid": "sites-disposant-du-service-paris-wi-fi",
+    "recordid": "e07045080dcd5af7d0e402bb29279b784d6d0c55",
+    "fields": {
+      "cp": "75019",
+      "nom_site": "BASE NAUTIQUE DE LA VILLETTE",
+      "arc_adresse": "41 QUAI DE LA LOIRE",
+      "geo_point_2d": [48.8875236317, 2.3788915948],
+      "nombre_de_borne_wifi": 1,
+      "idpw": "PW0078",
+      "geo_shape": {
+        "type": "Point",
+        "coordinates": [2.378891594800032, 48.88752363166016]
+      },
+      "etat2": "Op\u00e9rationnel"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [2.3788915948, 48.8875236317]
+    },
+    "record_timestamp": "2020-02-12T08:00:33.449+01:00"
+  },
+  {
+    "datasetid": "sites-disposant-du-service-paris-wi-fi",
+    "recordid": "322b5836dd2af4413728e67dc4432cf83dde06b1",
+    "fields": {
+      "cp": "75020",
+      "nom_site": "PARC DE BELLEVILLE (PARIS NATURE MAISON DE L'AIR)",
+      "arc_adresse": "27 RUE PIAT",
+      "geo_point_2d": [48.8716051488, 2.38492475051],
+      "nombre_de_borne_wifi": 1,
+      "idpw": "PW0168",
+      "geo_shape": {
+        "type": "Point",
+        "coordinates": [2.384924750509342, 48.87160514880642]
+      },
+      "etat2": "Op\u00e9rationnel"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [2.38492475051, 48.8716051488]
+    },
+    "record_timestamp": "2020-02-12T08:00:33.449+01:00"
+  },
+  {
+    "datasetid": "sites-disposant-du-service-paris-wi-fi",
+    "recordid": "359cdd3d3cfa7c1bbe8022310e70fbecf03965c1",
+    "fields": {
+      "cp": "75020",
+      "nom_site": "BIBLIOTHEQUE MARGUERITE DURAS",
+      "arc_adresse": "109-115 RUE DE BAGNOLET",
+      "geo_point_2d": [48.8598387687, 2.40322699854],
+      "nombre_de_borne_wifi": 11,
+      "idpw": "PW0045",
+      "geo_shape": {
+        "type": "Point",
+        "coordinates": [2.403226998544119, 48.85983876871812]
+      },
+      "etat2": "Op\u00e9rationnel"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [2.40322699854, 48.8598387687]
+    },
+    "record_timestamp": "2020-02-12T08:00:33.449+01:00"
+  },
+  {
+    "datasetid": "sites-disposant-du-service-paris-wi-fi",
+    "recordid": "5fd2ef375e889c24e6acdf6282b4f8f3bbe8cdee",
+    "fields": {
+      "cp": "75020",
+      "nom_site": "PARC DE BELLEVILLE - 1",
+      "arc_adresse": "45 RUE DES COURONNES",
+      "geo_point_2d": [48.8705904639, 2.38423775006],
+      "nombre_de_borne_wifi": 1,
+      "idpw": "PW0057",
+      "geo_shape": {
+        "type": "Point",
+        "coordinates": [2.384237750061385, 48.870590463867536]
+      },
+      "etat2": "Op\u00e9rationnel"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [2.38423775006, 48.8705904639]
+    },
+    "record_timestamp": "2020-02-12T08:00:33.449+01:00"
+  },
+  {
+    "datasetid": "sites-disposant-du-service-paris-wi-fi",
+    "recordid": "70aa2bf3174349e61459947c5d247e2e7bf5961f",
+    "fields": {
+      "cp": "75020",
+      "nom_site": "CENTRE SPORTIF PYRENEES",
+      "arc_adresse": "296 RUE DES PYRENEES",
+      "geo_point_2d": [48.8719533728, 2.39230250037],
+      "nombre_de_borne_wifi": 1,
+      "idpw": "PW0072",
+      "geo_shape": {
+        "type": "Point",
+        "coordinates": [2.392302500371264, 48.8719533728045]
+      },
+      "etat2": "Op\u00e9rationnel"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [2.39230250037, 48.8719533728]
+    },
+    "record_timestamp": "2020-02-12T08:00:33.449+01:00"
+  },
+  {
+    "datasetid": "sites-disposant-du-service-paris-wi-fi",
+    "recordid": "3294d93966adbd15c491bd0d06cb664b0e6bf0e5",
+    "fields": {
+      "cp": "75020",
+      "nom_site": "BIBLIOTHEQUE LOUISE MICHEL",
+      "arc_adresse": "29/35 RUE DES HAIES",
+      "geo_point_2d": [48.8532955464, 2.40121278827],
+      "nombre_de_borne_wifi": 2,
+      "idpw": "PW0130",
+      "geo_shape": {
+        "type": "Point",
+        "coordinates": [2.401212788267676, 48.85329554638978]
+      },
+      "etat2": "Op\u00e9rationnel"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [2.40121278827, 48.8532955464]
+    },
+    "record_timestamp": "2020-02-12T08:00:33.449+01:00"
+  },
+  {
+    "datasetid": "sites-disposant-du-service-paris-wi-fi",
+    "recordid": "bbfa91d0c95a494e02d745dbe2f420962824cb55",
+    "fields": {
+      "cp": "75020",
+      "nom_site": "GYMNASE VIGNOLES EST",
+      "arc_adresse": "83-91 RUE DES HAIES",
+      "geo_point_2d": [48.8552404998, 2.4039028856],
+      "nombre_de_borne_wifi": 1,
+      "idpw": "PW0073",
+      "geo_shape": {
+        "type": "Point",
+        "coordinates": [2.403902885604971, 48.85524049982195]
+      },
+      "etat2": "Op\u00e9rationnel"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [2.4039028856, 48.8552404998]
+    },
+    "record_timestamp": "2020-02-12T08:00:33.449+01:00"
+  },
+  {
+    "datasetid": "sites-disposant-du-service-paris-wi-fi",
+    "recordid": "27382614155fc99b1001d32d519f38a45114f4c1",
+    "fields": {
+      "cp": "75020",
+      "nom_site": "CENTRE SPORTIF LOUIS LUMIERE",
+      "arc_adresse": "30 RUE LOUIS LUMIERE",
+      "geo_point_2d": [48.8591982131, 2.41164568454],
+      "nombre_de_borne_wifi": 1,
+      "idpw": "PW0105",
+      "geo_shape": {
+        "type": "Point",
+        "coordinates": [2.411645684536093, 48.85919821308154]
+      },
+      "etat2": "Op\u00e9rationnel"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [2.41164568454, 48.8591982131]
+    },
+    "record_timestamp": "2020-02-12T08:00:33.449+01:00"
+  },
+  {
+    "datasetid": "sites-disposant-du-service-paris-wi-fi",
+    "recordid": "48dec710c80a2d531b5b53b809dd6f84635df35d",
+    "fields": {
+      "cp": "75020",
+      "nom_site": "MAISON DE LA VIE ASSOCIATIVE ET CITOYENNE 20",
+      "arc_adresse": "18 RUE RAMUS",
+      "geo_point_2d": [48.8627043264, 2.39878906422],
+      "nombre_de_borne_wifi": 2,
+      "idpw": "PW0187",
+      "geo_shape": {
+        "type": "Point",
+        "coordinates": [2.3987890642197662, 48.86270432644075]
+      },
+      "etat2": "Op\u00e9rationnel"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [2.39878906422, 48.8627043264]
+    },
+    "record_timestamp": "2020-02-12T08:00:33.449+01:00"
+  },
+  {
+    "datasetid": "sites-disposant-du-service-paris-wi-fi",
+    "recordid": "a93e0037d4767f1aedf3acbbaedb84eeed5047bb",
+    "fields": {
+      "cp": "75020",
+      "nom_site": "BIBLIOTHEQUE SORBIER",
+      "arc_adresse": "17 RUE SORBIER",
+      "geo_point_2d": [48.8659615824, 2.39285197457],
+      "nombre_de_borne_wifi": 2,
+      "idpw": "PW0129",
+      "geo_shape": {
+        "type": "Point",
+        "coordinates": [2.392851974569112, 48.86596158237579]
+      },
+      "etat2": "Op\u00e9rationnel"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [2.39285197457, 48.8659615824]
+    },
+    "record_timestamp": "2020-02-12T08:00:33.449+01:00"
+  },
+  {
+    "datasetid": "sites-disposant-du-service-paris-wi-fi",
+    "recordid": "f19c7567b11cfbc61e7f03898caa109bee8a7831",
+    "fields": {
+      "cp": "75020",
+      "nom_site": "BIBLIOTHEQUE ASSIA DJEBARD",
+      "arc_adresse": "1 RUE REYNALDO HAHN",
+      "geo_point_2d": [48.8492339972, 2.41209815834],
+      "nombre_de_borne_wifi": 6,
+      "idpw": "PW0144",
+      "geo_shape": {
+        "type": "Point",
+        "coordinates": [2.412098158335315, 48.84923399718691]
+      },
+      "etat2": "Op\u00e9rationnel"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [2.41209815834, 48.8492339972]
+    },
+    "record_timestamp": "2020-02-12T08:00:33.449+01:00"
+  },
+  {
+    "datasetid": "sites-disposant-du-service-paris-wi-fi",
+    "recordid": "bf7af9963fcc4d869115506e375e7b4e0bdc7259",
+    "fields": {
+      "cp": "75020",
+      "nom_site": "BIBLIOTHEQUE NAGUIB MAHFOUZ",
+      "arc_adresse": "66 RUE DES COURONNES",
+      "geo_point_2d": [48.870162555, 2.38521982606],
+      "nombre_de_borne_wifi": 1,
+      "idpw": "PW0048",
+      "geo_shape": {
+        "type": "Point",
+        "coordinates": [2.385219826057544, 48.870162555019036]
+      },
+      "etat2": "Op\u00e9rationnel"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [2.38521982606, 48.870162555]
+    },
+    "record_timestamp": "2020-02-12T08:00:33.449+01:00"
+  },
+  {
+    "datasetid": "sites-disposant-du-service-paris-wi-fi",
+    "recordid": "eae224a3288d036c73e4c385f04cc4db5bca4db0",
+    "fields": {
+      "cp": "75020",
+      "nom_site": "BIBLIOTHEQUE OSCAR WILDE",
+      "arc_adresse": "12 RUE DU TELEGRAPHE",
+      "geo_point_2d": [48.8720261058, 2.39981629322],
+      "nombre_de_borne_wifi": 1,
+      "idpw": "PW0061",
+      "geo_shape": {
+        "type": "Point",
+        "coordinates": [2.399816293218798, 48.87202610578211]
+      },
+      "etat2": "Op\u00e9rationnel"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [2.39981629322, 48.8720261058]
+    },
+    "record_timestamp": "2020-02-12T08:00:33.449+01:00"
+  },
+  {
+    "datasetid": "sites-disposant-du-service-paris-wi-fi",
+    "recordid": "236bb512847e91cb3b0718f240e8fb05a26f1ec3",
+    "fields": {
+      "cp": "75020",
+      "nom_site": "GYMNASE PAUL MEURICE",
+      "arc_adresse": "1 RUE PAUL MEURICE",
+      "geo_point_2d": [48.8740265007, 2.41213767973],
+      "nombre_de_borne_wifi": 1,
+      "idpw": "PW0085",
+      "geo_shape": {
+        "type": "Point",
+        "coordinates": [2.412137679731794, 48.874026500733024]
+      },
+      "etat2": "Op\u00e9rationnel"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [2.41213767973, 48.8740265007]
+    },
+    "record_timestamp": "2020-02-12T08:00:33.449+01:00"
+  },
+  {
+    "datasetid": "sites-disposant-du-service-paris-wi-fi",
+    "recordid": "0095035b13401fc020729b348ed6a376aa466504",
+    "fields": {
+      "cp": "75020",
+      "nom_site": "CENTRE SPORTIF ALFRED NAKACHE",
+      "arc_adresse": "4/12 RUE DENOYEZ",
+      "geo_point_2d": [48.8714830648, 2.37867703535],
+      "nombre_de_borne_wifi": 1,
+      "idpw": "PW0071",
+      "geo_shape": {
+        "type": "Point",
+        "coordinates": [2.378677035345246, 48.8714830647833]
+      },
+      "etat2": "Op\u00e9rationnel"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [2.37867703535, 48.8714830648]
+    },
+    "record_timestamp": "2020-02-12T08:00:33.449+01:00"
+  },
+  {
+    "datasetid": "sites-disposant-du-service-paris-wi-fi",
+    "recordid": "8f95db38e945761f228c00067d311e1ee95a873d",
+    "fields": {
+      "cp": "75020",
+      "nom_site": "MAIRIE DU 20 EME",
+      "arc_adresse": "6 PLACE GAMBETTA",
+      "geo_point_2d": [48.8650911391, 2.39899770026],
+      "nombre_de_borne_wifi": 1,
+      "idpw": "PW0018",
+      "geo_shape": {
+        "type": "Point",
+        "coordinates": [2.3989977002640392, 48.865091139066706]
+      },
+      "etat2": "Op\u00e9rationnel"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [2.39899770026, 48.8650911391]
+    },
+    "record_timestamp": "2020-02-12T08:00:33.449+01:00"
+  },
+  {
+    "datasetid": "sites-disposant-du-service-paris-wi-fi",
+    "recordid": "fb3113836356b07d9055acbf93e8dbcfc12bfeb5",
+    "fields": {
+      "cp": "75020",
+      "nom_site": "PARC DE BELLEVILLE - 2",
+      "arc_adresse": "45-47 RUE DES COURONNES",
+      "geo_point_2d": [48.8703088766, 2.38480663231],
+      "nombre_de_borne_wifi": 1,
+      "idpw": "PW0204",
+      "geo_shape": {
+        "type": "Point",
+        "coordinates": [2.384806632308035, 48.8703088766318]
+      },
+      "etat2": "Op\u00e9rationnel"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [2.38480663231, 48.8703088766]
+    },
+    "record_timestamp": "2020-02-12T08:00:33.449+01:00"
+  },
+  {
+    "datasetid": "sites-disposant-du-service-paris-wi-fi",
+    "recordid": "0361ba6dd25d5d585e09af43067658799fe84488",
+    "fields": {
+      "cp": "75020",
+      "nom_site": "JARDIN GARE DE CHARONNE",
+      "arc_adresse": "59 BOULEVARD DAVOUT",
+      "geo_point_2d": [48.8523121522, 2.41056064416],
+      "nombre_de_borne_wifi": 1,
+      "idpw": "PW0055",
+      "geo_shape": {
+        "type": "Point",
+        "coordinates": [2.4105606441583802, 48.852312152208874]
+      },
+      "etat2": "Op\u00e9rationnel"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [2.41056064416, 48.8523121522]
+    },
+    "record_timestamp": "2020-02-12T08:00:33.449+01:00"
+  },
+  {
+    "datasetid": "sites-disposant-du-service-paris-wi-fi",
+    "recordid": "573dcae235b7352d978f16e972d572010b345472",
+    "fields": {
+      "cp": "92100",
+      "nom_site": "PREFOURRIERE POUCHET 2",
+      "arc_adresse": "1BIS BOULEVARD DU GENERAL LECLERC CLICHY SUR SEINE",
+      "geo_point_2d": [48.9002805032, 2.31899270694],
+      "nombre_de_borne_wifi": 1,
+      "idpw": "PW0226",
+      "geo_shape": {
+        "type": "Point",
+        "coordinates": [2.318992706937955, 48.900280503151606]
+      },
+      "etat2": "Op\u00e9rationnel"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [2.31899270694, 48.9002805032]
+    },
+    "record_timestamp": "2020-02-12T08:00:33.449+01:00"
+  },
+  {
+    "datasetid": "sites-disposant-du-service-paris-wi-fi",
+    "recordid": "d028b2ba51680b73bc63e0625744db48b02a918c",
+    "fields": {
+      "cp": "93120",
+      "nom_site": "FOURRIERE LA COURNEUVE",
+      "arc_adresse": "92 RUE MERMOZ LA COURNEUVE",
+      "geo_point_2d": [48.9325469697, 2.40874563362],
+      "nombre_de_borne_wifi": 1,
+      "geo_shape": {
+        "type": "Point",
+        "coordinates": [2.408745633623746, 48.93254696974426]
+      },
+      "etat2": "En \u00e9tude"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [2.40874563362, 48.9325469697]
+    },
+    "record_timestamp": "2020-02-12T08:00:33.449+01:00"
+  },
+  {
+    "datasetid": "sites-disposant-du-service-paris-wi-fi",
+    "recordid": "e583139b46086dd81b40233de2ad476ebe8ca313",
+    "fields": {
+      "cp": "94380",
+      "nom_site": "FOURRIERE BONNEUIL 2",
+      "arc_adresse": "AVENUE DE BOISSY RN19 BONNEUIL SUR MARNE",
+      "geo_point_2d": [48.7611824817, 2.49710603697],
+      "nombre_de_borne_wifi": 1,
+      "geo_shape": {
+        "type": "Point",
+        "coordinates": [2.497106036967046, 48.76118248172808]
+      },
+      "etat2": "En \u00e9tude"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [2.49710603697, 48.7611824817]
+    },
+    "record_timestamp": "2020-02-12T08:00:33.449+01:00"
+  },
+  {
+    "datasetid": "sites-disposant-du-service-paris-wi-fi",
+    "recordid": "74d69584c4b161f7c502b2859f947614fd1ce526",
+    "fields": {
+      "cp": "94380",
+      "nom_site": "FOURRIERE BONNEUIL",
+      "arc_adresse": "11 RUE DES CHAMPS BONNEUIL SUR MARNE",
+      "geo_point_2d": [48.7628610542, 2.49947839187],
+      "nombre_de_borne_wifi": 1,
+      "geo_shape": {
+        "type": "Point",
+        "coordinates": [2.499478391866005, 48.76286105418927]
+      },
+      "etat2": "En \u00e9tude"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [2.49947839187, 48.7628610542]
+    },
+    "record_timestamp": "2020-02-12T08:00:33.449+01:00"
+  }
+]
