@@ -125,7 +125,7 @@ class DistrictController extends AbstractController
     {
         $list_note = [];
         foreach ($score_list as $score) {
-            $new_value = round(1 + (($score - $min) * (9 / ($max - $min))), 1);
+            $new_value = round(1 + (($score - $min) * (4 / ($max - $min))), 1);
             $list_note[$score] = $new_value;
         }
 
