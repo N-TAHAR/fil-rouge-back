@@ -10,6 +10,8 @@ use ApiPlatform\Core\Annotation\ApiResource;
 /**
  * @ORM\Entity(repositoryClass="App\Repository\DistrictRepository")
  * @ApiResource(
+ *  collectionOperations={"get"},
+ *   itemOperations={"get"}
  * )
  */
 class District
