@@ -21,6 +21,12 @@ class GreenSpace
      */
     private $district;
 
+    /**
+     * @ORM\ManyToOne(targetEntity="App\Entity\District", inversedBy="green_spaces")
+     * @ORM\JoinColumn(nullable=false)
+     */
+    private $district_id;
+
     public function getId(): ?int
     {
         return $this->id;
@@ -34,6 +40,18 @@ class GreenSpace
     public function setDistrict(string $district): self
     {
         $this->district = $district;
+
+        return $this;
+    }
+
+    public function getDistrictId(): ?District
+    {
+        return $this->district_id;
+    }
+
+    public function setDistrictId(?District $district_id): self
+    {
+        $this->district_id = $district_id;
 
         return $this;
     }
