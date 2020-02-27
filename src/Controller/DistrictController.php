@@ -35,20 +35,13 @@ class DistrictController extends AbstractController
         $districts_list = [];
 
         foreach ($districts as $district) {
+            $green_space_note = $green_space_list_note[round((floatval($district->getSize()) * 1000000) / count($district->getGreenSpaces()), 0)];
             $event_note = $event_list_note[round((floatval($district->getSize()) * 1000000) / count($district->getEvents()), 0)];
             $velib_note = $velib_list_note[round((floatval($district->getSize()) * 1000000) / count($district->getVelibs()), 0)];
             $wifi_note = $wifi_list_note[round((floatval($district->getSize()) * 1000000) / count($district->getWifis()), 0)];
-            $green_space_note = $green_space_list_note[round((floatval($district->getSize()) * 1000000) / count($district->getGreenSpaces()), 0)];
-            $data = [];
+            
             $data['district'] = $district->getCode();
-            $data['notes']['green_space']['name'] = 'Espace Vert';
-            $data['notes']['green_space']['note'] = $green_space_note;
-            $data['notes']['event']['name'] = 'Évènement';
-            $data['notes']['event']['note'] = $event_note;
-            $data['notes']['velib']['name'] = 'Station Velib';
-            $data['notes']['velib']['note'] = $velib_note;
-            $data['notes']['wifi']['name'] = 'Qualité du Wifi';
-            $data['notes']['wifi']['note'] = $wifi_note;
+            $data['notes'] = $this->notes($green_space_note, $event_note, $velib_note, $wifi_note);
             $data['global_note'] = $this->global_note($data['notes']);
 
             array_push($districts_list, $data);
@@ -56,7 +49,7 @@ class DistrictController extends AbstractController
 
         $data_districts = [
             "districts" => $districts_list,
-            "average_notes" => [$average_list]
+            "average_notes" => $average_list
         ];
 
         $data = $this->_serializer->serialize($data_districts, 'json');
@@ -65,6 +58,28 @@ class DistrictController extends AbstractController
         $response->headers->set('Content-Type', 'application/json');
 
         return $response;
+    }
+
+    private function notes($green_space_note, $event_note, $velib_note, $wifi_note)
+    {
+        $green_space = [
+            'name' => 'Espace Vert',
+            'note' => $green_space_note
+        ];
+        $event = [
+            'name' => 'Évènement',
+            'note' => $event_note
+        ];
+        $velib = [
+            'name' => 'Station Vélib',
+            'note' => $velib_note
+        ];
+        $wifi = [
+            'name' => 'Qualité du wifi',
+            'note' => $wifi_note
+        ];
+
+        return [$green_space, $event, $velib, $wifi];
     }
 
     private function average_notes($green_space_list_note, $event_list_note, $velib_list_note, $wifi_list_note)
@@ -80,7 +95,7 @@ class DistrictController extends AbstractController
         ];
 
         $velib_average = [
-            'name' => 'Station Velib',
+            'name' => 'Station Vélib',
             'note' => round(array_sum($velib_list_note) / count($velib_list_note), 1)
         ];
 
