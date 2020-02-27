@@ -30,22 +30,34 @@ class DistrictController extends AbstractController
         $velib_list_note = $this->velib_list_note($districts);
         $wifi_list_note = $this->wifi_list_note($districts);
 
-        $data_districts = [];
+        $average_list = $this->average_notes($green_space_list_note, $event_list_note, $velib_list_note, $wifi_list_note);
+
+        $districts_list = [];
+
         foreach ($districts as $district) {
             $event_note = $event_list_note[round((floatval($district->getSize()) * 1000000) / count($district->getEvents()), 0)];
             $velib_note = $velib_list_note[round((floatval($district->getSize()) * 1000000) / count($district->getVelibs()), 0)];
             $wifi_note = $wifi_list_note[round((floatval($district->getSize()) * 1000000) / count($district->getWifis()), 0)];
             $green_space_note = $green_space_list_note[round((floatval($district->getSize()) * 1000000) / count($district->getGreenSpaces()), 0)];
-            $object = [];
-            $object['district'] = $district->getCode();
-            $object['notes']['green_space_note'] = $green_space_note;
-            $object['notes']['event_note'] = $event_note;
-            $object['notes']['velib_note'] = $velib_note;
-            $object['notes']['wifi_note'] = $wifi_note;
-            $object['global_note'] = $this->global_note($object['notes']);
+            $data = [];
+            $data['district'] = $district->getCode();
+            $data['notes']['green_space']['name'] = 'Espace Vert';
+            $data['notes']['green_space']['note'] = $green_space_note;
+            $data['notes']['event']['name'] = 'Évènement';
+            $data['notes']['event']['note'] = $event_note;
+            $data['notes']['velib']['name'] = 'Station Velib';
+            $data['notes']['velib']['note'] = $velib_note;
+            $data['notes']['wifi']['name'] = 'Qualité du Wifi';
+            $data['notes']['wifi']['note'] = $wifi_note;
+            $data['global_note'] = $this->global_note($data['notes']);
 
-            array_push($data_districts, $object);
+            array_push($districts_list, $data);
         }
+
+        $data_districts = [
+            "districts" => $districts_list,
+            "average_notes" => $average_list
+        ];
 
         $data = $this->_serializer->serialize($data_districts, 'json');
 
@@ -55,11 +67,36 @@ class DistrictController extends AbstractController
         return $response;
     }
 
+    private function average_notes($green_space_list_note, $event_list_note, $velib_list_note, $wifi_list_note)
+    {
+        $green_space_average = [
+            'name' => 'Espace Vert',
+            'note' => round(array_sum($green_space_list_note) / count($green_space_list_note), 1)
+        ];
+
+        $event_average = [
+            'name' => 'Évènement',
+            'note' => round(array_sum($event_list_note) / count($event_list_note), 1)
+        ];
+
+        $velib_average = [
+            'name' => 'Station Velib',
+            'note' => round(array_sum($velib_list_note) / count($velib_list_note), 1)
+        ];
+
+        $wifi_average = [
+            'name' => 'Qualité du wifi',
+            'note' => round(array_sum($wifi_list_note) / count($wifi_list_note), 1)
+        ];
+
+        return [$green_space_average, $event_average, $velib_average, $wifi_average];
+    }
+
     private function global_note($note_list)
     {
         $global_note = 0;
         foreach ($note_list as $note) {
-            $global_note += $note;
+            $global_note += $note['note'];
         }
 
         return round($global_note/count($note_list), 1);
