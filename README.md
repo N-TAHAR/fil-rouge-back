@@ -7,4 +7,6 @@
 
 ## la techno utilisée
 
-+ Php, Symfony, Postgresql 
++ Php 
++ Symfony
++ Postgresql 
