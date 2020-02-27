@@ -56,7 +56,7 @@ class DistrictController extends AbstractController
 
         $data_districts = [
             "districts" => $districts_list,
-            "average_notes" => $average_list
+            "average_notes" => [$average_list]
         ];
 
         $data = $this->_serializer->serialize($data_districts, 'json');
